@@ -97,5 +97,4 @@ service cloud.firestore {
 }
 ```
 ---
-### If there is firebase [ERROR](https://ibb.co/TBDMVN4N) but you are sure that you are doing everythin correctly just refresh the screen after ~1min. after hosting website. And everything should be alright
----
+If there is firebase [ERROR](https://ibb.co/TBDMVN4N) but you are sure that you are doing everythin correctly just refresh the screen after ~1min. After hosting website. And everything should be alright
