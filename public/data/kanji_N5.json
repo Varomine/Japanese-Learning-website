@@ -1,0 +1,2047 @@
+[
+  {
+    "id": "k-n5-一",
+    "character": "一",
+    "level": "N5",
+    "meanings": [
+      "One",
+      "One Radical (no.1)"
+    ],
+    "onyomi": [
+      "いち",
+      "いつ"
+    ],
+    "kunyomi": [
+      "ひと-",
+      "ひと.つ"
+    ],
+    "strokes": 1,
+    "examples": [
+      {
+        "word": "一る",
+        "reading": "ひと-",
+        "meaning": "One"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-二",
+    "character": "二",
+    "level": "N5",
+    "meanings": [
+      "Two",
+      "Two Radical (no. 7)"
+    ],
+    "onyomi": [
+      "に",
+      "じ"
+    ],
+    "kunyomi": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "二る",
+        "reading": "ふた",
+        "meaning": "Two"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-九",
+    "character": "九",
+    "level": "N5",
+    "meanings": [
+      "Nine"
+    ],
+    "onyomi": [
+      "きゅう",
+      "く"
+    ],
+    "kunyomi": [
+      "ここの",
+      "ここの.つ"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "九る",
+        "reading": "ここの",
+        "meaning": "Nine"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-七",
+    "character": "七",
+    "level": "N5",
+    "meanings": [
+      "Seven"
+    ],
+    "onyomi": [
+      "しち"
+    ],
+    "kunyomi": [
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "七る",
+        "reading": "なな",
+        "meaning": "Seven"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-人",
+    "character": "人",
+    "level": "N5",
+    "meanings": [
+      "Person"
+    ],
+    "onyomi": [
+      "じん",
+      "にん"
+    ],
+    "kunyomi": [
+      "ひと",
+      "-り",
+      "-と"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "人る",
+        "reading": "ひと",
+        "meaning": "Person"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-入",
+    "character": "入",
+    "level": "N5",
+    "meanings": [
+      "Enter",
+      "Insert"
+    ],
+    "onyomi": [
+      "にゅう",
+      "じゅ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "入る",
+        "reading": "いる",
+        "meaning": "Enter"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-八",
+    "character": "八",
+    "level": "N5",
+    "meanings": [
+      "Eight",
+      "Eight Radical (no. 12)"
+    ],
+    "onyomi": [
+      "はち"
+    ],
+    "kunyomi": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "八る",
+        "reading": "や",
+        "meaning": "Eight"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-十",
+    "character": "十",
+    "level": "N5",
+    "meanings": [
+      "Ten"
+    ],
+    "onyomi": [
+      "じゅう",
+      "じっ",
+      "じゅっ"
+    ],
+    "kunyomi": [
+      "とお",
+      "と"
+    ],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "十る",
+        "reading": "とお",
+        "meaning": "Ten"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-三",
+    "character": "三",
+    "level": "N5",
+    "meanings": [
+      "Three"
+    ],
+    "onyomi": [
+      "さん",
+      "ぞう"
+    ],
+    "kunyomi": [
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "三る",
+        "reading": "み",
+        "meaning": "Three"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-上",
+    "character": "上",
+    "level": "N5",
+    "meanings": [
+      "Above",
+      "Up"
+    ],
+    "onyomi": [
+      "じょう",
+      "しょう",
+      "しゃん"
+    ],
+    "kunyomi": [
+      "うえ",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "上る",
+        "reading": "うえ",
+        "meaning": "Above"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-下",
+    "character": "下",
+    "level": "N5",
+    "meanings": [
+      "Below",
+      "Down",
+      "Descend",
+      "Give",
+      "Low",
+      "Inferior"
+    ],
+    "onyomi": [
+      "か",
+      "げ"
+    ],
+    "kunyomi": [
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "下る",
+        "reading": "した",
+        "meaning": "Below"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-大",
+    "character": "大",
+    "level": "N5",
+    "meanings": [
+      "Large",
+      "Big"
+    ],
+    "onyomi": [
+      "だい",
+      "たい"
+    ],
+    "kunyomi": [
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "大る",
+        "reading": "おお-",
+        "meaning": "Large"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-女",
+    "character": "女",
+    "level": "N5",
+    "meanings": [
+      "Woman",
+      "Female"
+    ],
+    "onyomi": [
+      "じょ",
+      "にょ",
+      "にょう"
+    ],
+    "kunyomi": [
+      "おんな",
+      "め"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "女る",
+        "reading": "おんな",
+        "meaning": "Woman"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-山",
+    "character": "山",
+    "level": "N5",
+    "meanings": [
+      "Mountain"
+    ],
+    "onyomi": [
+      "さん",
+      "せん"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "山る",
+        "reading": "やま",
+        "meaning": "Mountain"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-川",
+    "character": "川",
+    "level": "N5",
+    "meanings": [
+      "Stream",
+      "River",
+      "River Or Three-stroke River Radical (no. 47)"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "川る",
+        "reading": "かわ",
+        "meaning": "Stream"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-土",
+    "character": "土",
+    "level": "N5",
+    "meanings": [
+      "Soil",
+      "Earth",
+      "Ground",
+      "Turkey"
+    ],
+    "onyomi": [
+      "ど",
+      "と"
+    ],
+    "kunyomi": [
+      "つち"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "土る",
+        "reading": "つち",
+        "meaning": "Soil"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-千",
+    "character": "千",
+    "level": "N5",
+    "meanings": [
+      "Thousand"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "ち"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "千る",
+        "reading": "ち",
+        "meaning": "Thousand"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-子",
+    "character": "子",
+    "level": "N5",
+    "meanings": [
+      "Child",
+      "Sign Of The Rat",
+      "11pm-1am",
+      "First Sign Of Chinese Zodiac"
+    ],
+    "onyomi": [
+      "し",
+      "す",
+      "つ"
+    ],
+    "kunyomi": [
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "子る",
+        "reading": "こ",
+        "meaning": "Child"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-小",
+    "character": "小",
+    "level": "N5",
+    "meanings": [
+      "Little",
+      "Small"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "小る",
+        "reading": "ちいさい",
+        "meaning": "Little"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-中",
+    "character": "中",
+    "level": "N5",
+    "meanings": [
+      "In",
+      "Inside",
+      "Middle",
+      "Mean",
+      "Center"
+    ],
+    "onyomi": [
+      "ちゅう"
+    ],
+    "kunyomi": [
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "中る",
+        "reading": "なか",
+        "meaning": "In"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-五",
+    "character": "五",
+    "level": "N5",
+    "meanings": [
+      "Five"
+    ],
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "五る",
+        "reading": "いつ",
+        "meaning": "Five"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-六",
+    "character": "六",
+    "level": "N5",
+    "meanings": [
+      "Six"
+    ],
+    "onyomi": [
+      "ろく",
+      "りく"
+    ],
+    "kunyomi": [
+      "む",
+      "む.つ",
+      "むっ.つ",
+      "むい"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "六る",
+        "reading": "む",
+        "meaning": "Six"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-円",
+    "character": "円",
+    "level": "N5",
+    "meanings": [
+      "Circle",
+      "Yen",
+      "Round"
+    ],
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "円る",
+        "reading": "まるい",
+        "meaning": "Circle"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-天",
+    "character": "天",
+    "level": "N5",
+    "meanings": [
+      "Heavens",
+      "Sky",
+      "Imperial"
+    ],
+    "onyomi": [
+      "てん"
+    ],
+    "kunyomi": [
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "天る",
+        "reading": "あまつ",
+        "meaning": "Heavens"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-日",
+    "character": "日",
+    "level": "N5",
+    "meanings": [
+      "Day",
+      "Sun",
+      "Japan",
+      "Counter For Days"
+    ],
+    "onyomi": [
+      "にち",
+      "じつ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "日る",
+        "reading": "ひ",
+        "meaning": "Day"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-月",
+    "character": "月",
+    "level": "N5",
+    "meanings": [
+      "Month",
+      "Moon"
+    ],
+    "onyomi": [
+      "げつ",
+      "がつ"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "月る",
+        "reading": "つき",
+        "meaning": "Month"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-木",
+    "character": "木",
+    "level": "N5",
+    "meanings": [
+      "Tree",
+      "Wood"
+    ],
+    "onyomi": [
+      "ぼく",
+      "もく"
+    ],
+    "kunyomi": [
+      "き",
+      "こ-"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "木る",
+        "reading": "き",
+        "meaning": "Tree"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-水",
+    "character": "水",
+    "level": "N5",
+    "meanings": [
+      "Water"
+    ],
+    "onyomi": [
+      "すい"
+    ],
+    "kunyomi": [
+      "みず",
+      "みず-"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "水る",
+        "reading": "みず",
+        "meaning": "Water"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-火",
+    "character": "火",
+    "level": "N5",
+    "meanings": [
+      "Fire"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "ほ-"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "火る",
+        "reading": "ひ",
+        "meaning": "Fire"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-出",
+    "character": "出",
+    "level": "N5",
+    "meanings": [
+      "Exit",
+      "Leave",
+      "Go Out",
+      "Come Out",
+      "Put Out",
+      "Protrude"
+    ],
+    "onyomi": [
+      "しゅつ",
+      "すい"
+    ],
+    "kunyomi": [
+      "で.る",
+      "-で",
+      "だ.す",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "Exit"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-右",
+    "character": "右",
+    "level": "N5",
+    "meanings": [
+      "Right"
+    ],
+    "onyomi": [
+      "う",
+      "ゆう"
+    ],
+    "kunyomi": [
+      "みぎ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "右る",
+        "reading": "みぎ",
+        "meaning": "Right"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-四",
+    "character": "四",
+    "level": "N5",
+    "meanings": [
+      "Four"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "四る",
+        "reading": "よ",
+        "meaning": "Four"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-左",
+    "character": "左",
+    "level": "N5",
+    "meanings": [
+      "Left"
+    ],
+    "onyomi": [
+      "さ",
+      "しゃ"
+    ],
+    "kunyomi": [
+      "ひだり"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "左る",
+        "reading": "ひだり",
+        "meaning": "Left"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-本",
+    "character": "本",
+    "level": "N5",
+    "meanings": [
+      "Book",
+      "Present",
+      "Main",
+      "Origin",
+      "True",
+      "Real",
+      "Counter For Long Cylindrical Things"
+    ],
+    "onyomi": [
+      "ほん"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "本る",
+        "reading": "もと",
+        "meaning": "Book"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-白",
+    "character": "白",
+    "level": "N5",
+    "meanings": [
+      "White"
+    ],
+    "onyomi": [
+      "はく",
+      "びゃく"
+    ],
+    "kunyomi": [
+      "しろ",
+      "しら-",
+      "しろ.い"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "白る",
+        "reading": "しろ",
+        "meaning": "White"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-万",
+    "character": "万",
+    "level": "N5",
+    "meanings": [
+      "Ten Thousand",
+      "10,000"
+    ],
+    "onyomi": [
+      "まん",
+      "ばん"
+    ],
+    "kunyomi": [
+      "よろず"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "万る",
+        "reading": "よろず",
+        "meaning": "Ten Thousand"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-今",
+    "character": "今",
+    "level": "N5",
+    "meanings": [
+      "Now"
+    ],
+    "onyomi": [
+      "こん",
+      "きん"
+    ],
+    "kunyomi": [
+      "いま"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "今る",
+        "reading": "いま",
+        "meaning": "Now"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-午",
+    "character": "午",
+    "level": "N5",
+    "meanings": [
+      "Noon",
+      "Sign Of The Horse",
+      "11am-1pm",
+      "Seventh Sign Of Chinese Zodiac"
+    ],
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "うま"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "午る",
+        "reading": "うま",
+        "meaning": "Noon"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-友",
+    "character": "友",
+    "level": "N5",
+    "meanings": [
+      "Friend"
+    ],
+    "onyomi": [
+      "ゆう"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "友る",
+        "reading": "とも",
+        "meaning": "Friend"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-父",
+    "character": "父",
+    "level": "N5",
+    "meanings": [
+      "Father"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "父る",
+        "reading": "ちち",
+        "meaning": "Father"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-北",
+    "character": "北",
+    "level": "N5",
+    "meanings": [
+      "North"
+    ],
+    "onyomi": [
+      "ほく"
+    ],
+    "kunyomi": [
+      "きた"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "北る",
+        "reading": "きた",
+        "meaning": "North"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-半",
+    "character": "半",
+    "level": "N5",
+    "meanings": [
+      "Half",
+      "Middle",
+      "Odd Number",
+      "Semi-",
+      "Part-"
+    ],
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [
+      "なか.ば"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "半る",
+        "reading": "なかば",
+        "meaning": "Half"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-外",
+    "character": "外",
+    "level": "N5",
+    "meanings": [
+      "Outside"
+    ],
+    "onyomi": [
+      "がい",
+      "げ"
+    ],
+    "kunyomi": [
+      "そと",
+      "ほか",
+      "はず.す",
+      "はず.れる",
+      "と-"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "外る",
+        "reading": "そと",
+        "meaning": "Outside"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-母",
+    "character": "母",
+    "level": "N5",
+    "meanings": [
+      "Mother"
+    ],
+    "onyomi": [
+      "ぼ"
+    ],
+    "kunyomi": [
+      "はは",
+      "も"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "母る",
+        "reading": "はは",
+        "meaning": "Mother"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-休",
+    "character": "休",
+    "level": "N5",
+    "meanings": [
+      "Rest",
+      "Day Off",
+      "Retire",
+      "Sleep"
+    ],
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "休る",
+        "reading": "やすむ",
+        "meaning": "Rest"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-先",
+    "character": "先",
+    "level": "N5",
+    "meanings": [
+      "Before",
+      "Ahead",
+      "Previous",
+      "Future",
+      "Precedence"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "さき",
+      "ま.ず"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "先る",
+        "reading": "さき",
+        "meaning": "Before"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-名",
+    "character": "名",
+    "level": "N5",
+    "meanings": [
+      "Name",
+      "Noted",
+      "Distinguished",
+      "Reputation"
+    ],
+    "onyomi": [
+      "めい",
+      "みょう"
+    ],
+    "kunyomi": [
+      "な",
+      "-な"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "名る",
+        "reading": "な",
+        "meaning": "Name"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-年",
+    "character": "年",
+    "level": "N5",
+    "meanings": [
+      "Year",
+      "Counter For Years"
+    ],
+    "onyomi": [
+      "ねん"
+    ],
+    "kunyomi": [
+      "とし"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "年る",
+        "reading": "とし",
+        "meaning": "Year"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-気",
+    "character": "気",
+    "level": "N5",
+    "meanings": [
+      "Spirit",
+      "Mind",
+      "Air",
+      "Atmosphere",
+      "Mood"
+    ],
+    "onyomi": [
+      "き",
+      "け"
+    ],
+    "kunyomi": [
+      "いき"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "気る",
+        "reading": "いき",
+        "meaning": "Spirit"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-百",
+    "character": "百",
+    "level": "N5",
+    "meanings": [
+      "Hundred"
+    ],
+    "onyomi": [
+      "ひゃく",
+      "びゃく"
+    ],
+    "kunyomi": [
+      "もも"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "百る",
+        "reading": "もも",
+        "meaning": "Hundred"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-男",
+    "character": "男",
+    "level": "N5",
+    "meanings": [
+      "Male"
+    ],
+    "onyomi": [
+      "だん",
+      "なん"
+    ],
+    "kunyomi": [
+      "おとこ",
+      "お"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "男る",
+        "reading": "おとこ",
+        "meaning": "Male"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-見",
+    "character": "見",
+    "level": "N5",
+    "meanings": [
+      "See",
+      "Hopes",
+      "Chances",
+      "Idea",
+      "Opinion",
+      "Look At",
+      "Visible"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "み.る",
+      "み.える",
+      "み.せる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "See"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-車",
+    "character": "車",
+    "level": "N5",
+    "meanings": [
+      "Car"
+    ],
+    "onyomi": [
+      "しゃ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "車る",
+        "reading": "くるま",
+        "meaning": "Car"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-毎",
+    "character": "毎",
+    "level": "N5",
+    "meanings": [
+      "Every"
+    ],
+    "onyomi": [
+      "まい"
+    ],
+    "kunyomi": [
+      "ごと",
+      "-ごと.に"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "毎る",
+        "reading": "ごと",
+        "meaning": "Every"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-行",
+    "character": "行",
+    "level": "N5",
+    "meanings": [
+      "Going",
+      "Journey",
+      "Carry Out",
+      "Conduct",
+      "Act",
+      "Line",
+      "Row",
+      "Bank"
+    ],
+    "onyomi": [
+      "こう",
+      "ぎょう",
+      "あん"
+    ],
+    "kunyomi": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "行る",
+        "reading": "いく",
+        "meaning": "Going"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-西",
+    "character": "西",
+    "level": "N5",
+    "meanings": [
+      "West",
+      "Spain"
+    ],
+    "onyomi": [
+      "せい",
+      "さい",
+      "す"
+    ],
+    "kunyomi": [
+      "にし"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "西る",
+        "reading": "にし",
+        "meaning": "West"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-何",
+    "character": "何",
+    "level": "N5",
+    "meanings": [
+      "What"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "何る",
+        "reading": "なに",
+        "meaning": "What"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-来",
+    "character": "来",
+    "level": "N5",
+    "meanings": [
+      "Come",
+      "Due",
+      "Next",
+      "Cause",
+      "Become"
+    ],
+    "onyomi": [
+      "らい",
+      "たい"
+    ],
+    "kunyomi": [
+      "く.る",
+      "きた.る",
+      "きた.す",
+      "き.たす",
+      "き.たる",
+      "き",
+      "こ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "Come"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-学",
+    "character": "学",
+    "level": "N5",
+    "meanings": [
+      "Study",
+      "Learning",
+      "Science"
+    ],
+    "onyomi": [
+      "がく"
+    ],
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "学る",
+        "reading": "まなぶ",
+        "meaning": "Study"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-金",
+    "character": "金",
+    "level": "N5",
+    "meanings": [
+      "Gold"
+    ],
+    "onyomi": [
+      "きん",
+      "こん",
+      "ごん"
+    ],
+    "kunyomi": [
+      "かね",
+      "かな-",
+      "-がね"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "金る",
+        "reading": "かね",
+        "meaning": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-雨",
+    "character": "雨",
+    "level": "N5",
+    "meanings": [
+      "Rain"
+    ],
+    "onyomi": [
+      "う"
+    ],
+    "kunyomi": [
+      "あめ",
+      "あま-",
+      "-さめ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "雨る",
+        "reading": "あめ",
+        "meaning": "Rain"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-国",
+    "character": "国",
+    "level": "N5",
+    "meanings": [
+      "Country"
+    ],
+    "onyomi": [
+      "こく"
+    ],
+    "kunyomi": [
+      "くに"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "国る",
+        "reading": "くに",
+        "meaning": "Country"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-東",
+    "character": "東",
+    "level": "N5",
+    "meanings": [
+      "East"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "ひがし"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "東る",
+        "reading": "ひがし",
+        "meaning": "East"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-長",
+    "character": "長",
+    "level": "N5",
+    "meanings": [
+      "Long",
+      "Leader",
+      "Superior",
+      "Senior"
+    ],
+    "onyomi": [
+      "ちょう"
+    ],
+    "kunyomi": [
+      "なが.い",
+      "おさ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "長る",
+        "reading": "ながい",
+        "meaning": "Long"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-前",
+    "character": "前",
+    "level": "N5",
+    "meanings": [
+      "In Front",
+      "Before"
+    ],
+    "onyomi": [
+      "ぜん"
+    ],
+    "kunyomi": [
+      "まえ",
+      "-まえ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "前る",
+        "reading": "まえ",
+        "meaning": "In Front"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-南",
+    "character": "南",
+    "level": "N5",
+    "meanings": [
+      "South"
+    ],
+    "onyomi": [
+      "なん",
+      "な"
+    ],
+    "kunyomi": [
+      "みなみ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "南る",
+        "reading": "みなみ",
+        "meaning": "South"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-後",
+    "character": "後",
+    "level": "N5",
+    "meanings": [
+      "Behind",
+      "Back",
+      "Later"
+    ],
+    "onyomi": [
+      "ご",
+      "こう"
+    ],
+    "kunyomi": [
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "後る",
+        "reading": "のち",
+        "meaning": "Behind"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-食",
+    "character": "食",
+    "level": "N5",
+    "meanings": [
+      "Eat",
+      "Food"
+    ],
+    "onyomi": [
+      "しょく",
+      "じき"
+    ],
+    "kunyomi": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "食る",
+        "reading": "くう",
+        "meaning": "Eat"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-校",
+    "character": "校",
+    "level": "N5",
+    "meanings": [
+      "Exam",
+      "School",
+      "Printing",
+      "Proof",
+      "Correction"
+    ],
+    "onyomi": [
+      "こう",
+      "きょう"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "校る",
+        "reading": "校",
+        "meaning": "Exam"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-時",
+    "character": "時",
+    "level": "N5",
+    "meanings": [
+      "Time",
+      "Hour"
+    ],
+    "onyomi": [
+      "じ"
+    ],
+    "kunyomi": [
+      "とき",
+      "-どき"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "時る",
+        "reading": "とき",
+        "meaning": "Time"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-高",
+    "character": "高",
+    "level": "N5",
+    "meanings": [
+      "Tall",
+      "High",
+      "Expensive"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "たか.い",
+      "たか",
+      "-だか",
+      "たか.まる",
+      "たか.める"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "高る",
+        "reading": "たかい",
+        "meaning": "Tall"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-間",
+    "character": "間",
+    "level": "N5",
+    "meanings": [
+      "Interval",
+      "Space"
+    ],
+    "onyomi": [
+      "かん",
+      "けん"
+    ],
+    "kunyomi": [
+      "あいだ",
+      "ま",
+      "あい"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "間る",
+        "reading": "あいだ",
+        "meaning": "Interval"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-話",
+    "character": "話",
+    "level": "N5",
+    "meanings": [
+      "Tale",
+      "Talk"
+    ],
+    "onyomi": [
+      "わ"
+    ],
+    "kunyomi": [
+      "はな.す",
+      "はなし"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "話る",
+        "reading": "はなす",
+        "meaning": "Tale"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-電",
+    "character": "電",
+    "level": "N5",
+    "meanings": [
+      "Electricity"
+    ],
+    "onyomi": [
+      "でん"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "電る",
+        "reading": "電",
+        "meaning": "Electricity"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-聞",
+    "character": "聞",
+    "level": "N5",
+    "meanings": [
+      "Hear",
+      "Ask",
+      "Listen"
+    ],
+    "onyomi": [
+      "ぶん",
+      "もん"
+    ],
+    "kunyomi": [
+      "き.く",
+      "き.こえる"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "聞る",
+        "reading": "きく",
+        "meaning": "Hear"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-語",
+    "character": "語",
+    "level": "N5",
+    "meanings": [
+      "Word",
+      "Speech",
+      "Language"
+    ],
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "かた.る",
+      "かた.らう"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "語る",
+        "reading": "かたる",
+        "meaning": "Word"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-読",
+    "character": "読",
+    "level": "N5",
+    "meanings": [
+      "Read"
+    ],
+    "onyomi": [
+      "どく",
+      "とく",
+      "とう"
+    ],
+    "kunyomi": [
+      "よ.む",
+      "-よ.み"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "読る",
+        "reading": "よむ",
+        "meaning": "Read"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-生",
+    "character": "生",
+    "level": "N5",
+    "meanings": [
+      "Life",
+      "Genuine",
+      "Birth"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "生る",
+        "reading": "いきる",
+        "meaning": "Life"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-書",
+    "character": "書",
+    "level": "N5",
+    "meanings": [
+      "Write"
+    ],
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "か.く",
+      "-が.き",
+      "-がき"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "書る",
+        "reading": "かく",
+        "meaning": "Write"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10022 @@
+[
+  {
+    "id": "k-n3-才",
+    "character": "才",
+    "level": "N3",
+    "meanings": [
+      "Genius",
+      "Years Old",
+      "Cubic Shaku"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "才る",
+        "reading": "才",
+        "meaning": "Genius"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-王",
+    "character": "王",
+    "level": "N3",
+    "meanings": [
+      "King",
+      "Rule",
+      "Magnate"
+    ],
+    "onyomi": [
+      "おう",
+      "-のう"
+    ],
+    "kunyomi": [],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "王る",
+        "reading": "王",
+        "meaning": "King"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-石",
+    "character": "石",
+    "level": "N3",
+    "meanings": [
+      "Stone"
+    ],
+    "onyomi": [
+      "せき",
+      "しゃく",
+      "こく"
+    ],
+    "kunyomi": [
+      "いし"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "石る",
+        "reading": "いし",
+        "meaning": "Stone"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-内",
+    "character": "内",
+    "level": "N3",
+    "meanings": [
+      "Inside",
+      "Within",
+      "Between",
+      "Among",
+      "House",
+      "Home"
+    ],
+    "onyomi": [
+      "ない",
+      "だい"
+    ],
+    "kunyomi": [
+      "うち"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "内る",
+        "reading": "うち",
+        "meaning": "Inside"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-太",
+    "character": "太",
+    "level": "N3",
+    "meanings": [
+      "Plump",
+      "Thick",
+      "Big Around"
+    ],
+    "onyomi": [
+      "たい",
+      "た"
+    ],
+    "kunyomi": [
+      "ふと.い",
+      "ふと.る"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "太る",
+        "reading": "ふとい",
+        "meaning": "Plump"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-引",
+    "character": "引",
+    "level": "N3",
+    "meanings": [
+      "Pull",
+      "Tug",
+      "Jerk",
+      "Admit",
+      "Install",
+      "Quote",
+      "Refer To"
+    ],
+    "onyomi": [
+      "いん"
+    ],
+    "kunyomi": [
+      "ひ.く",
+      "ひ.き",
+      "ひ.き-",
+      "-び.き",
+      "ひ.ける"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "引る",
+        "reading": "ひく",
+        "meaning": "Pull"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-市",
+    "character": "市",
+    "level": "N3",
+    "meanings": [
+      "Market",
+      "City",
+      "Town"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "いち"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "市る",
+        "reading": "いち",
+        "meaning": "Market"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-他",
+    "character": "他",
+    "level": "N3",
+    "meanings": [
+      "Other",
+      "Another",
+      "The Others"
+    ],
+    "onyomi": [
+      "た"
+    ],
+    "kunyomi": [
+      "ほか"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "他る",
+        "reading": "ほか",
+        "meaning": "Other"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-号",
+    "character": "号",
+    "level": "N3",
+    "meanings": [
+      "Nickname",
+      "Number",
+      "Item",
+      "Title",
+      "Pseudonym",
+      "Name",
+      "Call"
+    ],
+    "onyomi": [
+      "ごう"
+    ],
+    "kunyomi": [
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "号る",
+        "reading": "さけぶ",
+        "meaning": "Nickname"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-平",
+    "character": "平",
+    "level": "N3",
+    "meanings": [
+      "Even",
+      "Flat",
+      "Peace"
+    ],
+    "onyomi": [
+      "へい",
+      "びょう",
+      "ひょう"
+    ],
+    "kunyomi": [
+      "たい.ら",
+      "-だいら",
+      "ひら",
+      "ひら-"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "平る",
+        "reading": "たいら",
+        "meaning": "Even"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-打",
+    "character": "打",
+    "level": "N3",
+    "meanings": [
+      "Strike",
+      "Hit",
+      "Knock",
+      "Pound",
+      "Dozen"
+    ],
+    "onyomi": [
+      "だ",
+      "だあす"
+    ],
+    "kunyomi": [
+      "う.つ",
+      "う.ち-",
+      "ぶ.つ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "打る",
+        "reading": "うつ",
+        "meaning": "Strike"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-申",
+    "character": "申",
+    "level": "N3",
+    "meanings": [
+      "Have The Honor To",
+      "Sign Of The Monkey",
+      "3-5pm",
+      "Ninth Sign Of Chinese Zodiac"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "もう.す",
+      "もう.し-",
+      "さる"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "申る",
+        "reading": "もうす",
+        "meaning": "Have The Honor To"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-礼",
+    "character": "礼",
+    "level": "N3",
+    "meanings": [
+      "Salute",
+      "Bow",
+      "Ceremony",
+      "Thanks",
+      "Remuneration"
+    ],
+    "onyomi": [
+      "れい",
+      "らい"
+    ],
+    "kunyomi": [],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "礼る",
+        "reading": "礼",
+        "meaning": "Salute"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-耳",
+    "character": "耳",
+    "level": "N3",
+    "meanings": [
+      "Ear"
+    ],
+    "onyomi": [
+      "じ"
+    ],
+    "kunyomi": [
+      "みみ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "耳る",
+        "reading": "みみ",
+        "meaning": "Ear"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-交",
+    "character": "交",
+    "level": "N3",
+    "meanings": [
+      "Mingle",
+      "Mixing",
+      "Association",
+      "Coming & Going"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "交る",
+        "reading": "まじわる",
+        "meaning": "Mingle"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-光",
+    "character": "光",
+    "level": "N3",
+    "meanings": [
+      "Ray",
+      "Light"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "光る",
+        "reading": "ひかる",
+        "meaning": "Ray"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-回",
+    "character": "回",
+    "level": "N3",
+    "meanings": [
+      "-times",
+      "Round",
+      "Game",
+      "Revolve",
+      "Counter For Occurrences"
+    ],
+    "onyomi": [
+      "かい",
+      "え"
+    ],
+    "kunyomi": [
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "回る",
+        "reading": "まわる",
+        "meaning": "-times"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-当",
+    "character": "当",
+    "level": "N3",
+    "meanings": [
+      "Hit",
+      "Right",
+      "Appropriate",
+      "Himself"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "当る",
+        "reading": "あたる",
+        "meaning": "Hit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-米",
+    "character": "米",
+    "level": "N3",
+    "meanings": [
+      "Rice",
+      "Usa",
+      "Metre"
+    ],
+    "onyomi": [
+      "べい",
+      "まい",
+      "めえとる"
+    ],
+    "kunyomi": [
+      "こめ",
+      "よね"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "米る",
+        "reading": "こめ",
+        "meaning": "Rice"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-声",
+    "character": "声",
+    "level": "N3",
+    "meanings": [
+      "Voice"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "こえ",
+      "こわ-"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "声る",
+        "reading": "こえ",
+        "meaning": "Voice"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-形",
+    "character": "形",
+    "level": "N3",
+    "meanings": [
+      "Shape",
+      "Form",
+      "Style"
+    ],
+    "onyomi": [
+      "けい",
+      "ぎょう"
+    ],
+    "kunyomi": [
+      "かた",
+      "-がた",
+      "かたち",
+      "なり"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "形る",
+        "reading": "かた",
+        "meaning": "Shape"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-草",
+    "character": "草",
+    "level": "N3",
+    "meanings": [
+      "Grass",
+      "Weeds",
+      "Herbs",
+      "Pasture",
+      "Write",
+      "Draft"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "くさ",
+      "くさ-",
+      "-ぐさ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "草る",
+        "reading": "くさ",
+        "meaning": "Grass"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-化",
+    "character": "化",
+    "level": "N3",
+    "meanings": [
+      "Change",
+      "Take The Form Of",
+      "Influence",
+      "Enchant",
+      "Delude",
+      "-ization"
+    ],
+    "onyomi": [
+      "か",
+      "け"
+    ],
+    "kunyomi": [
+      "ば.ける",
+      "ば.かす",
+      "ふ.ける",
+      "け.する"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "化る",
+        "reading": "ばける",
+        "meaning": "Change"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-両",
+    "character": "両",
+    "level": "N3",
+    "meanings": [
+      "Both",
+      "Old Japanese Coin",
+      "Counter For Carriages (e.g., In A Train)",
+      "Two"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [
+      "てる",
+      "ふたつ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "両る",
+        "reading": "てる",
+        "meaning": "Both"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-全",
+    "character": "全",
+    "level": "N3",
+    "meanings": [
+      "Whole",
+      "Entire",
+      "All",
+      "Complete",
+      "Fulfill"
+    ],
+    "onyomi": [
+      "ぜん"
+    ],
+    "kunyomi": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "全る",
+        "reading": "まったく",
+        "meaning": "Whole"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-向",
+    "character": "向",
+    "level": "N3",
+    "meanings": [
+      "Yonder",
+      "Facing",
+      "Beyond",
+      "Confront",
+      "Defy",
+      "Tend Toward",
+      "Approach"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "向る",
+        "reading": "むく",
+        "meaning": "Yonder"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-曲",
+    "character": "曲",
+    "level": "N3",
+    "meanings": [
+      "Bend",
+      "Music",
+      "Melody",
+      "Composition",
+      "Pleasure",
+      "Injustice",
+      "Fault",
+      "Curve",
+      "Crooked",
+      "Perverse",
+      "Lean"
+    ],
+    "onyomi": [
+      "きょく"
+    ],
+    "kunyomi": [
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "曲る",
+        "reading": "まがる",
+        "meaning": "Bend"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-次",
+    "character": "次",
+    "level": "N3",
+    "meanings": [
+      "Next",
+      "Order",
+      "Sequence"
+    ],
+    "onyomi": [
+      "じ",
+      "し"
+    ],
+    "kunyomi": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "次る",
+        "reading": "つぐ",
+        "meaning": "Next"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-直",
+    "character": "直",
+    "level": "N3",
+    "meanings": [
+      "Straightaway",
+      "Honesty",
+      "Frankness",
+      "Fix",
+      "Repair"
+    ],
+    "onyomi": [
+      "ちょく",
+      "じき",
+      "じか"
+    ],
+    "kunyomi": [
+      "ただ.ちに",
+      "なお.す",
+      "-なお.す",
+      "なお.る",
+      "なお.き",
+      "す.ぐ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "直る",
+        "reading": "ただちに",
+        "meaning": "Straightaway"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-活",
+    "character": "活",
+    "level": "N3",
+    "meanings": [
+      "Lively",
+      "Resuscitation",
+      "Being Helped",
+      "Living"
+    ],
+    "onyomi": [
+      "かつ"
+    ],
+    "kunyomi": [
+      "い.きる",
+      "い.かす",
+      "い.ける"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "活る",
+        "reading": "いきる",
+        "meaning": "Lively"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-点",
+    "character": "点",
+    "level": "N3",
+    "meanings": [
+      "Spot",
+      "Point",
+      "Mark",
+      "Speck",
+      "Decimal Point"
+    ],
+    "onyomi": [
+      "てん"
+    ],
+    "kunyomi": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "点る",
+        "reading": "つける",
+        "meaning": "Spot"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-科",
+    "character": "科",
+    "level": "N3",
+    "meanings": [
+      "Department",
+      "Course",
+      "Section"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "科る",
+        "reading": "科",
+        "meaning": "Department"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-首",
+    "character": "首",
+    "level": "N3",
+    "meanings": [
+      "Neck",
+      "Counter For Songs And Poems"
+    ],
+    "onyomi": [
+      "しゅ"
+    ],
+    "kunyomi": [
+      "くび"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "首る",
+        "reading": "くび",
+        "meaning": "Neck"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-欠",
+    "character": "欠",
+    "level": "N3",
+    "meanings": [
+      "Lack",
+      "Gap",
+      "Fail",
+      "Yawning Radical (no. 76)"
+    ],
+    "onyomi": [
+      "けつ",
+      "けん"
+    ],
+    "kunyomi": [
+      "か.ける",
+      "か.く"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "欠る",
+        "reading": "かける",
+        "meaning": "Lack"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-由",
+    "character": "由",
+    "level": "N3",
+    "meanings": [
+      "Wherefore",
+      "A Reason"
+    ],
+    "onyomi": [
+      "ゆ",
+      "ゆう",
+      "ゆい"
+    ],
+    "kunyomi": [
+      "よし",
+      "よ.る"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "由る",
+        "reading": "よし",
+        "meaning": "Wherefore"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-民",
+    "character": "民",
+    "level": "N3",
+    "meanings": [
+      "People",
+      "Nation",
+      "Subjects"
+    ],
+    "onyomi": [
+      "みん"
+    ],
+    "kunyomi": [
+      "たみ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "民る",
+        "reading": "たみ",
+        "meaning": "People"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-付",
+    "character": "付",
+    "level": "N3",
+    "meanings": [
+      "Adhere",
+      "Attach",
+      "Refer To",
+      "Append"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "付る",
+        "reading": "つける",
+        "meaning": "Adhere"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-失",
+    "character": "失",
+    "level": "N3",
+    "meanings": [
+      "Lose",
+      "Error",
+      "Fault",
+      "Disadvantage",
+      "Loss"
+    ],
+    "onyomi": [
+      "しつ"
+    ],
+    "kunyomi": [
+      "うしな.う",
+      "う.せる"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "失る",
+        "reading": "うしなう",
+        "meaning": "Lose"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-必",
+    "character": "必",
+    "level": "N3",
+    "meanings": [
+      "Invariably",
+      "Certain",
+      "Inevitable"
+    ],
+    "onyomi": [
+      "ひつ"
+    ],
+    "kunyomi": [
+      "かなら.ず"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "必る",
+        "reading": "かならず",
+        "meaning": "Invariably"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-未",
+    "character": "未",
+    "level": "N3",
+    "meanings": [
+      "Un-",
+      "Not Yet",
+      "Hitherto",
+      "Still",
+      "Even Now",
+      "Sign Of The Ram",
+      "1-3pm",
+      "Eighth Sign Of Chinese Zodiac"
+    ],
+    "onyomi": [
+      "み",
+      "び"
+    ],
+    "kunyomi": [
+      "いま.だ",
+      "ま.だ",
+      "ひつじ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "未る",
+        "reading": "いまだ",
+        "meaning": "Un-"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-末",
+    "character": "末",
+    "level": "N3",
+    "meanings": [
+      "End",
+      "Close",
+      "Tip",
+      "Powder",
+      "Posterity"
+    ],
+    "onyomi": [
+      "まつ",
+      "ばつ"
+    ],
+    "kunyomi": [
+      "すえ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "末る",
+        "reading": "すえ",
+        "meaning": "End"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-記",
+    "character": "記",
+    "level": "N3",
+    "meanings": [
+      "Scribe",
+      "Account",
+      "Narrative"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "しる.す"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "記る",
+        "reading": "しるす",
+        "meaning": "Scribe"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-組",
+    "character": "組",
+    "level": "N3",
+    "meanings": [
+      "Association",
+      "Braid",
+      "Plait",
+      "Construct",
+      "Assemble",
+      "Unite",
+      "Cooperate",
+      "Grapple"
+    ],
+    "onyomi": [
+      "そ"
+    ],
+    "kunyomi": [
+      "く.む",
+      "くみ",
+      "-ぐみ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "組る",
+        "reading": "くむ",
+        "meaning": "Association"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-船",
+    "character": "船",
+    "level": "N3",
+    "meanings": [
+      "Ship",
+      "Boat"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "ふね",
+      "ふな-"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "船る",
+        "reading": "ふね",
+        "meaning": "Ship"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-雪",
+    "character": "雪",
+    "level": "N3",
+    "meanings": [
+      "Snow"
+    ],
+    "onyomi": [
+      "せつ"
+    ],
+    "kunyomi": [
+      "ゆき"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "雪る",
+        "reading": "ゆき",
+        "meaning": "Snow"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-支",
+    "character": "支",
+    "level": "N3",
+    "meanings": [
+      "Branch",
+      "Support",
+      "Sustain",
+      "Branch Radical (no. 65)"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "ささ.える",
+      "つか.える",
+      "か.う"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "支る",
+        "reading": "ささえる",
+        "meaning": "Branch"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-助",
+    "character": "助",
+    "level": "N3",
+    "meanings": [
+      "Help",
+      "Rescue",
+      "Assist"
+    ],
+    "onyomi": [
+      "じょ"
+    ],
+    "kunyomi": [
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "助る",
+        "reading": "たすける",
+        "meaning": "Help"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-君",
+    "character": "君",
+    "level": "N3",
+    "meanings": [
+      "Mister",
+      "You",
+      "Ruler",
+      "Male Name Suffix"
+    ],
+    "onyomi": [
+      "くん"
+    ],
+    "kunyomi": [
+      "きみ",
+      "-ぎみ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "君る",
+        "reading": "きみ",
+        "meaning": "Mister"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-対",
+    "character": "対",
+    "level": "N3",
+    "meanings": [
+      "Vis-a-vis",
+      "Opposite",
+      "Even",
+      "Equal",
+      "Versus",
+      "Anti-",
+      "Compare"
+    ],
+    "onyomi": [
+      "たい",
+      "つい"
+    ],
+    "kunyomi": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "対る",
+        "reading": "あいて",
+        "meaning": "Vis-a-vis"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-局",
+    "character": "局",
+    "level": "N3",
+    "meanings": [
+      "Bureau",
+      "Board",
+      "Office",
+      "Affair",
+      "Conclusion",
+      "Court Lady",
+      "Lady-in-waiting",
+      "Her Apartment"
+    ],
+    "onyomi": [
+      "きょく"
+    ],
+    "kunyomi": [
+      "つぼね"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "局る",
+        "reading": "つぼね",
+        "meaning": "Bureau"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-役",
+    "character": "役",
+    "level": "N3",
+    "meanings": [
+      "Duty",
+      "War",
+      "Campaign",
+      "Drafted Labor",
+      "Office",
+      "Service",
+      "Role"
+    ],
+    "onyomi": [
+      "やく",
+      "えき"
+    ],
+    "kunyomi": [],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "役る",
+        "reading": "役",
+        "meaning": "Duty"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-投",
+    "character": "投",
+    "level": "N3",
+    "meanings": [
+      "Throw",
+      "Discard",
+      "Abandon",
+      "Launch Into",
+      "Join",
+      "Invest In",
+      "Hurl",
+      "Give Up",
+      "Sell At A Loss"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "な.げる",
+      "-な.げ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "投る",
+        "reading": "なげる",
+        "meaning": "Throw"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-決",
+    "character": "決",
+    "level": "N3",
+    "meanings": [
+      "Decide",
+      "Fix",
+      "Agree Upon",
+      "Appoint"
+    ],
+    "onyomi": [
+      "けつ"
+    ],
+    "kunyomi": [
+      "き.める",
+      "-ぎ.め",
+      "き.まる",
+      "さ.く"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "決る",
+        "reading": "きめる",
+        "meaning": "Decide"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-馬",
+    "character": "馬",
+    "level": "N3",
+    "meanings": [
+      "Horse"
+    ],
+    "onyomi": [
+      "ば"
+    ],
+    "kunyomi": [
+      "うま",
+      "うま-",
+      "ま"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "馬る",
+        "reading": "うま",
+        "meaning": "Horse"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-番",
+    "character": "番",
+    "level": "N3",
+    "meanings": [
+      "Turn",
+      "Number In A Series"
+    ],
+    "onyomi": [
+      "ばん"
+    ],
+    "kunyomi": [
+      "つが.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "番る",
+        "reading": "つがい",
+        "meaning": "Turn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-絵",
+    "character": "絵",
+    "level": "N3",
+    "meanings": [
+      "Picture",
+      "Drawing",
+      "Painting",
+      "Sketch"
+    ],
+    "onyomi": [
+      "かい",
+      "え"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "絵る",
+        "reading": "絵",
+        "meaning": "Picture"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-数",
+    "character": "数",
+    "level": "N3",
+    "meanings": [
+      "Number",
+      "Strength",
+      "Fate",
+      "Law",
+      "Figures"
+    ],
+    "onyomi": [
+      "すう",
+      "す",
+      "さく",
+      "そく",
+      "しゅ"
+    ],
+    "kunyomi": [
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "数る",
+        "reading": "かず",
+        "meaning": "Number"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-所",
+    "character": "所",
+    "level": "N3",
+    "meanings": [
+      "Place",
+      "Extent"
+    ],
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "所る",
+        "reading": "ところ",
+        "meaning": "Place"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-具",
+    "character": "具",
+    "level": "N3",
+    "meanings": [
+      "Tool",
+      "Utensil",
+      "Means",
+      "Possess",
+      "Ingredients",
+      "Counter For Armor, Suits, Sets Of Furniture"
+    ],
+    "onyomi": [
+      "ぐ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "具る",
+        "reading": "そなえる",
+        "meaning": "Tool"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-受",
+    "character": "受",
+    "level": "N3",
+    "meanings": [
+      "Accept",
+      "Undergo",
+      "Answer (phone)",
+      "Take",
+      "Get",
+      "Catch",
+      "Receive"
+    ],
+    "onyomi": [
+      "じゅ"
+    ],
+    "kunyomi": [
+      "う.ける",
+      "-う.け",
+      "う.かる"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "受る",
+        "reading": "うける",
+        "meaning": "Accept"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-和",
+    "character": "和",
+    "level": "N3",
+    "meanings": [
+      "Harmony",
+      "Japanese Style",
+      "Peace",
+      "Soften",
+      "Japan"
+    ],
+    "onyomi": [
+      "わ",
+      "お",
+      "か"
+    ],
+    "kunyomi": [
+      "やわ.らぐ",
+      "やわ.らげる",
+      "なご.む",
+      "なご.やか",
+      "あ.える"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "和る",
+        "reading": "やわらぐ",
+        "meaning": "Harmony"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-定",
+    "character": "定",
+    "level": "N3",
+    "meanings": [
+      "Determine",
+      "Fix",
+      "Establish",
+      "Decide"
+    ],
+    "onyomi": [
+      "てい",
+      "じょう"
+    ],
+    "kunyomi": [
+      "さだ.める",
+      "さだ.まる",
+      "さだ.か"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "定る",
+        "reading": "さだめる",
+        "meaning": "Determine"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-実",
+    "character": "実",
+    "level": "N3",
+    "meanings": [
+      "Reality",
+      "Truth"
+    ],
+    "onyomi": [
+      "じつ",
+      "しつ"
+    ],
+    "kunyomi": [
+      "み",
+      "みの.る",
+      "まこと",
+      "みの",
+      "みち.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "実る",
+        "reading": "み",
+        "meaning": "Reality"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-泳",
+    "character": "泳",
+    "level": "N3",
+    "meanings": [
+      "Swim"
+    ],
+    "onyomi": [
+      "えい"
+    ],
+    "kunyomi": [
+      "およ.ぐ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "泳る",
+        "reading": "およぐ",
+        "meaning": "Swim"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-苦",
+    "character": "苦",
+    "level": "N3",
+    "meanings": [
+      "Suffering",
+      "Trial",
+      "Worry",
+      "Hardship",
+      "Feel Bitter",
+      "Scowl"
+    ],
+    "onyomi": [
+      "く"
+    ],
+    "kunyomi": [
+      "くる.しい",
+      "-ぐる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.い",
+      "にが.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "苦る",
+        "reading": "くるしい",
+        "meaning": "Suffering"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-表",
+    "character": "表",
+    "level": "N3",
+    "meanings": [
+      "Surface",
+      "Table",
+      "Chart",
+      "Diagram"
+    ],
+    "onyomi": [
+      "ひょう"
+    ],
+    "kunyomi": [
+      "おもて",
+      "-おもて",
+      "あらわ.す",
+      "あらわ.れる",
+      "あら.わす"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "表る",
+        "reading": "おもて",
+        "meaning": "Surface"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-部",
+    "character": "部",
+    "level": "N3",
+    "meanings": [
+      "Section",
+      "Bureau",
+      "Dept",
+      "Class",
+      "Copy",
+      "Part",
+      "Portion",
+      "Counter For Copies Of A Newspaper Or Magazine"
+    ],
+    "onyomi": [
+      "ぶ"
+    ],
+    "kunyomi": [
+      "-べ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "部る",
+        "reading": "-べ",
+        "meaning": "Section"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-乗",
+    "character": "乗",
+    "level": "N3",
+    "meanings": [
+      "Ride",
+      "Power",
+      "Multiplication",
+      "Record",
+      "Counter For Vehicles",
+      "Board",
+      "Mount",
+      "Join"
+    ],
+    "onyomi": [
+      "じょう",
+      "しょう"
+    ],
+    "kunyomi": [
+      "の.る",
+      "-の.り",
+      "の.せる"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "Ride"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-客",
+    "character": "客",
+    "level": "N3",
+    "meanings": [
+      "Guest",
+      "Visitor",
+      "Customer",
+      "Client"
+    ],
+    "onyomi": [
+      "きゃく",
+      "かく"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "客る",
+        "reading": "客",
+        "meaning": "Guest"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-相",
+    "character": "相",
+    "level": "N3",
+    "meanings": [
+      "Inter-",
+      "Mutual",
+      "Together",
+      "Each Other",
+      "Minister Of State",
+      "Councillor",
+      "Aspect",
+      "Phase",
+      "Physiognomy"
+    ],
+    "onyomi": [
+      "そう",
+      "しょう"
+    ],
+    "kunyomi": [
+      "あい-"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "相る",
+        "reading": "あい-",
+        "meaning": "Inter-"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-美",
+    "character": "美",
+    "level": "N3",
+    "meanings": [
+      "Beauty",
+      "Beautiful"
+    ],
+    "onyomi": [
+      "び",
+      "み"
+    ],
+    "kunyomi": [
+      "うつく.しい"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "美る",
+        "reading": "うつくしい",
+        "meaning": "Beauty"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-負",
+    "character": "負",
+    "level": "N3",
+    "meanings": [
+      "Defeat",
+      "Negative",
+      "-",
+      "Minus",
+      "Bear",
+      "Owe",
+      "Assume A Responsibility"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "ま.ける",
+      "ま.かす",
+      "お.う"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "負る",
+        "reading": "まける",
+        "meaning": "Defeat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-談",
+    "character": "談",
+    "level": "N3",
+    "meanings": [
+      "Discuss",
+      "Talk"
+    ],
+    "onyomi": [
+      "だん"
+    ],
+    "kunyomi": [],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "談る",
+        "reading": "談",
+        "meaning": "Discuss"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-要",
+    "character": "要",
+    "level": "N3",
+    "meanings": [
+      "Need",
+      "Main Point",
+      "Essence",
+      "Pivot",
+      "Key To"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "い.る",
+      "かなめ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "要る",
+        "reading": "いる",
+        "meaning": "Need"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-勝",
+    "character": "勝",
+    "level": "N3",
+    "meanings": [
+      "Victory",
+      "Win",
+      "Prevail",
+      "Excel"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "か.つ",
+      "-が.ち",
+      "まさ.る",
+      "すぐ.れる",
+      "かつ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "勝る",
+        "reading": "かつ",
+        "meaning": "Victory"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-速",
+    "character": "速",
+    "level": "N3",
+    "meanings": [
+      "Quick",
+      "Fast"
+    ],
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "はや.い",
+      "はや-",
+      "はや.める",
+      "すみ.やか"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "速る",
+        "reading": "はやい",
+        "meaning": "Quick"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-配",
+    "character": "配",
+    "level": "N3",
+    "meanings": [
+      "Distribute",
+      "Spouse",
+      "Exile",
+      "Rationing"
+    ],
+    "onyomi": [
+      "はい"
+    ],
+    "kunyomi": [
+      "くば.る"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "配る",
+        "reading": "くばる",
+        "meaning": "Distribute"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-酒",
+    "character": "酒",
+    "level": "N3",
+    "meanings": [
+      "Sake",
+      "Alcohol"
+    ],
+    "onyomi": [
+      "しゅ"
+    ],
+    "kunyomi": [
+      "さけ",
+      "さか-"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "酒る",
+        "reading": "さけ",
+        "meaning": "Sake"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-進",
+    "character": "進",
+    "level": "N3",
+    "meanings": [
+      "Advance",
+      "Proceed",
+      "Progress",
+      "Promote"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "すす.む",
+      "すす.める"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "進る",
+        "reading": "すすむ",
+        "meaning": "Advance"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-落",
+    "character": "落",
+    "level": "N3",
+    "meanings": [
+      "Fall",
+      "Drop",
+      "Come Down",
+      "Village",
+      "Hamlet"
+    ],
+    "onyomi": [
+      "らく"
+    ],
+    "kunyomi": [
+      "お.ちる",
+      "お.ち",
+      "お.とす"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "落る",
+        "reading": "おちる",
+        "meaning": "Fall"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-葉",
+    "character": "葉",
+    "level": "N3",
+    "meanings": [
+      "Leaf",
+      "Plane",
+      "Lobe",
+      "Needle",
+      "Blade",
+      "Spear",
+      "Counter For Flat Things",
+      "Fragment",
+      "Piece"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "葉る",
+        "reading": "は",
+        "meaning": "Leaf"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-路",
+    "character": "路",
+    "level": "N3",
+    "meanings": [
+      "Path",
+      "Route",
+      "Road",
+      "Distance"
+    ],
+    "onyomi": [
+      "ろ",
+      "る"
+    ],
+    "kunyomi": [
+      "-じ",
+      "みち"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "路る",
+        "reading": "-じ",
+        "meaning": "Path"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-鳴",
+    "character": "鳴",
+    "level": "N3",
+    "meanings": [
+      "Chirp",
+      "Cry",
+      "Bark",
+      "Sound",
+      "Ring",
+      "Echo",
+      "Honk"
+    ],
+    "onyomi": [
+      "めい"
+    ],
+    "kunyomi": [
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "鳴る",
+        "reading": "なく",
+        "meaning": "Chirp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-横",
+    "character": "横",
+    "level": "N3",
+    "meanings": [
+      "Sideways",
+      "Side",
+      "Horizontal",
+      "Width",
+      "Woof",
+      "Unreasonable",
+      "Perverse"
+    ],
+    "onyomi": [
+      "おう"
+    ],
+    "kunyomi": [
+      "よこ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "横る",
+        "reading": "よこ",
+        "meaning": "Sideways"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-調",
+    "character": "調",
+    "level": "N3",
+    "meanings": [
+      "Tune",
+      "Tone",
+      "Meter",
+      "Key (music)",
+      "Writing Style",
+      "Prepare",
+      "Exorcise",
+      "Investigate",
+      "Harmonize",
+      "Mediate"
+    ],
+    "onyomi": [
+      "ちょう"
+    ],
+    "kunyomi": [
+      "しら.べる",
+      "しら.べ",
+      "ととの.う",
+      "ととの.える"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "調る",
+        "reading": "しらべる",
+        "meaning": "Tune"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-頭",
+    "character": "頭",
+    "level": "N3",
+    "meanings": [
+      "Head",
+      "Counter For Large Animals"
+    ],
+    "onyomi": [
+      "とう",
+      "ず",
+      "と"
+    ],
+    "kunyomi": [
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "頭る",
+        "reading": "あたま",
+        "meaning": "Head"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-顔",
+    "character": "顔",
+    "level": "N3",
+    "meanings": [
+      "Face",
+      "Expression"
+    ],
+    "onyomi": [
+      "がん"
+    ],
+    "kunyomi": [
+      "かお"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "顔る",
+        "reading": "かお",
+        "meaning": "Face"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-最",
+    "character": "最",
+    "level": "N3",
+    "meanings": [
+      "Utmost",
+      "Most",
+      "Extreme"
+    ],
+    "onyomi": [
+      "さい",
+      "しゅ"
+    ],
+    "kunyomi": [
+      "もっと.も",
+      "つま"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "最る",
+        "reading": "もっとも",
+        "meaning": "Utmost"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-争",
+    "character": "争",
+    "level": "N3",
+    "meanings": [
+      "Contend",
+      "Dispute",
+      "Argue"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "争る",
+        "reading": "あらそう",
+        "meaning": "Contend"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-伝",
+    "character": "伝",
+    "level": "N3",
+    "meanings": [
+      "Transmit",
+      "Go Along",
+      "Walk Along",
+      "Follow",
+      "Report",
+      "Communicate",
+      "Legend",
+      "Tradition"
+    ],
+    "onyomi": [
+      "でん",
+      "てん"
+    ],
+    "kunyomi": [
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "伝る",
+        "reading": "つたわる",
+        "meaning": "Transmit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-共",
+    "character": "共",
+    "level": "N3",
+    "meanings": [
+      "Together",
+      "Both",
+      "Neither",
+      "All",
+      "And",
+      "Alike",
+      "With"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "共る",
+        "reading": "とも",
+        "meaning": "Together"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-好",
+    "character": "好",
+    "level": "N3",
+    "meanings": [
+      "Fond",
+      "Pleasing",
+      "Like Something"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "好る",
+        "reading": "このむ",
+        "meaning": "Fond"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-成",
+    "character": "成",
+    "level": "N3",
+    "meanings": [
+      "Turn Into",
+      "Become",
+      "Get",
+      "Grow",
+      "Elapse",
+      "Reach"
+    ],
+    "onyomi": [
+      "せい",
+      "じょう"
+    ],
+    "kunyomi": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "成る",
+        "reading": "なる",
+        "meaning": "Turn Into"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-老",
+    "character": "老",
+    "level": "N3",
+    "meanings": [
+      "Old Man",
+      "Old Age",
+      "Grow Old"
+    ],
+    "onyomi": [
+      "ろう"
+    ],
+    "kunyomi": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "老る",
+        "reading": "おいる",
+        "meaning": "Old Man"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-位",
+    "character": "位",
+    "level": "N3",
+    "meanings": [
+      "Rank",
+      "Grade",
+      "Throne",
+      "Crown",
+      "About",
+      "Some"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [
+      "くらい",
+      "ぐらい"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "位る",
+        "reading": "くらい",
+        "meaning": "Rank"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-初",
+    "character": "初",
+    "level": "N3",
+    "meanings": [
+      "First Time",
+      "Beginning"
+    ],
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "初る",
+        "reading": "はじめ",
+        "meaning": "First Time"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-利",
+    "character": "利",
+    "level": "N3",
+    "meanings": [
+      "Profit",
+      "Advantage",
+      "Benefit"
+    ],
+    "onyomi": [
+      "り"
+    ],
+    "kunyomi": [
+      "き.く"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "利る",
+        "reading": "きく",
+        "meaning": "Profit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-努",
+    "character": "努",
+    "level": "N3",
+    "meanings": [
+      "Toil",
+      "Diligent",
+      "As Much As Possible"
+    ],
+    "onyomi": [
+      "ど"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "努る",
+        "reading": "つとめる",
+        "meaning": "Toil"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-労",
+    "character": "労",
+    "level": "N3",
+    "meanings": [
+      "Labor",
+      "Thank For",
+      "Reward For",
+      "Toil",
+      "Trouble"
+    ],
+    "onyomi": [
+      "ろう"
+    ],
+    "kunyomi": [
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "労る",
+        "reading": "ろうする",
+        "meaning": "Labor"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-命",
+    "character": "命",
+    "level": "N3",
+    "meanings": [
+      "Fate",
+      "Command",
+      "Decree",
+      "Destiny",
+      "Life",
+      "Appoint"
+    ],
+    "onyomi": [
+      "めい",
+      "みょう"
+    ],
+    "kunyomi": [
+      "いのち"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "命る",
+        "reading": "いのち",
+        "meaning": "Fate"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-放",
+    "character": "放",
+    "level": "N3",
+    "meanings": [
+      "Set Free",
+      "Release",
+      "Fire",
+      "Shoot",
+      "Emit",
+      "Banish",
+      "Liberate"
+    ],
+    "onyomi": [
+      "ほう"
+    ],
+    "kunyomi": [
+      "はな.す",
+      "-っぱな.し",
+      "はな.つ",
+      "はな.れる",
+      "こ.く",
+      "ほう.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "放る",
+        "reading": "はなす",
+        "meaning": "Set Free"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-昔",
+    "character": "昔",
+    "level": "N3",
+    "meanings": [
+      "Once Upon A Time",
+      "Antiquity",
+      "Old Times"
+    ],
+    "onyomi": [
+      "せき",
+      "しゃく"
+    ],
+    "kunyomi": [
+      "むかし"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "昔る",
+        "reading": "むかし",
+        "meaning": "Once Upon A Time"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-育",
+    "character": "育",
+    "level": "N3",
+    "meanings": [
+      "Bring Up",
+      "Grow Up",
+      "Raise",
+      "Rear"
+    ],
+    "onyomi": [
+      "いく"
+    ],
+    "kunyomi": [
+      "そだ.つ",
+      "そだ.ち",
+      "そだ.てる",
+      "はぐく.む"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "育る",
+        "reading": "そだつ",
+        "meaning": "Bring Up"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-指",
+    "character": "指",
+    "level": "N3",
+    "meanings": [
+      "Finger",
+      "Point To",
+      "Indicate",
+      "Put Into",
+      "Play (chess)",
+      "Measure (ruler)"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "ゆび",
+      "さ.す",
+      "-さ.し"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "指る",
+        "reading": "ゆび",
+        "meaning": "Finger"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-神",
+    "character": "神",
+    "level": "N3",
+    "meanings": [
+      "Gods",
+      "Mind",
+      "Soul"
+    ],
+    "onyomi": [
+      "しん",
+      "じん"
+    ],
+    "kunyomi": [
+      "かみ",
+      "かん-",
+      "こう-"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "神る",
+        "reading": "かみ",
+        "meaning": "Gods"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-追",
+    "character": "追",
+    "level": "N3",
+    "meanings": [
+      "Chase",
+      "Drive Away",
+      "Follow",
+      "Pursue",
+      "Meanwhile"
+    ],
+    "onyomi": [
+      "つい"
+    ],
+    "kunyomi": [
+      "お.う"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "追る",
+        "reading": "おう",
+        "meaning": "Chase"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-戦",
+    "character": "戦",
+    "level": "N3",
+    "meanings": [
+      "War",
+      "Battle",
+      "Match"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよ.ぐ",
+      "わなな.く"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "戦る",
+        "reading": "いくさ",
+        "meaning": "War"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-良",
+    "character": "良",
+    "level": "N3",
+    "meanings": [
+      "Good",
+      "Pleasing",
+      "Skilled"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [
+      "よ.い",
+      "-よ.い",
+      "い.い",
+      "-い.い"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "良る",
+        "reading": "よい",
+        "meaning": "Good"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-便",
+    "character": "便",
+    "level": "N3",
+    "meanings": [
+      "Convenience",
+      "Facility",
+      "Excrement",
+      "Feces",
+      "Letter",
+      "Chance"
+    ],
+    "onyomi": [
+      "べん",
+      "びん"
+    ],
+    "kunyomi": [
+      "たよ.り"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "便る",
+        "reading": "たより",
+        "meaning": "Convenience"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-働",
+    "character": "働",
+    "level": "N3",
+    "meanings": [
+      "Work",
+      "(kokuji)"
+    ],
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [
+      "はたら.く"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "働る",
+        "reading": "はたらく",
+        "meaning": "Work"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-庭",
+    "character": "庭",
+    "level": "N3",
+    "meanings": [
+      "Courtyard",
+      "Garden",
+      "Yard"
+    ],
+    "onyomi": [
+      "てい"
+    ],
+    "kunyomi": [
+      "にわ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "庭る",
+        "reading": "にわ",
+        "meaning": "Courtyard"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-息",
+    "character": "息",
+    "level": "N3",
+    "meanings": [
+      "Breath",
+      "Respiration",
+      "Son",
+      "Interest (on Money)"
+    ],
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "いき"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "息る",
+        "reading": "いき",
+        "meaning": "Breath"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-流",
+    "character": "流",
+    "level": "N3",
+    "meanings": [
+      "Current",
+      "A Sink",
+      "Flow",
+      "Forfeit"
+    ],
+    "onyomi": [
+      "りゅう",
+      "る"
+    ],
+    "kunyomi": [
+      "なが.れる",
+      "なが.れ",
+      "なが.す",
+      "-なが.す"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "流る",
+        "reading": "ながれる",
+        "meaning": "Current"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-消",
+    "character": "消",
+    "level": "N3",
+    "meanings": [
+      "Extinguish",
+      "Blow Out",
+      "Turn Off",
+      "Neutralize",
+      "Cancel"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "き.える",
+      "け.す"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "消る",
+        "reading": "きえる",
+        "meaning": "Extinguish"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-都",
+    "character": "都",
+    "level": "N3",
+    "meanings": [
+      "Metropolis",
+      "Capital",
+      "All",
+      "Everything"
+    ],
+    "onyomi": [
+      "と",
+      "つ"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "都る",
+        "reading": "みやこ",
+        "meaning": "Metropolis"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-商",
+    "character": "商",
+    "level": "N3",
+    "meanings": [
+      "Make A Deal",
+      "Selling",
+      "Dealing In",
+      "Merchant"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "あきな.う"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "商る",
+        "reading": "あきなう",
+        "meaning": "Make A Deal"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-深",
+    "character": "深",
+    "level": "N3",
+    "meanings": [
+      "Deep",
+      "Heighten",
+      "Intensify",
+      "Strengthen"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "ふか.い",
+      "-ぶか.い",
+      "ふか.まる",
+      "ふか.める",
+      "み-"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "深る",
+        "reading": "ふかい",
+        "meaning": "Deep"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-球",
+    "character": "球",
+    "level": "N3",
+    "meanings": [
+      "Ball",
+      "Sphere"
+    ],
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "球る",
+        "reading": "たま",
+        "meaning": "Ball"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-陽",
+    "character": "陽",
+    "level": "N3",
+    "meanings": [
+      "Sunshine",
+      "Yang Principle",
+      "Positive",
+      "Male",
+      "Heaven",
+      "Daytime"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "ひ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "陽る",
+        "reading": "ひ",
+        "meaning": "Sunshine"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-寒",
+    "character": "寒",
+    "level": "N3",
+    "meanings": [
+      "Cold"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "さむ.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "寒る",
+        "reading": "さむい",
+        "meaning": "Cold"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-悲",
+    "character": "悲",
+    "level": "N3",
+    "meanings": [
+      "Grieve",
+      "Sad",
+      "Deplore",
+      "Regret"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "かな.しい",
+      "かな.しむ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "悲る",
+        "reading": "かなしい",
+        "meaning": "Grieve"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-期",
+    "character": "期",
+    "level": "N3",
+    "meanings": [
+      "Period",
+      "Time",
+      "Date",
+      "Term"
+    ],
+    "onyomi": [
+      "き",
+      "ご"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "期る",
+        "reading": "期",
+        "meaning": "Period"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-歯",
+    "character": "歯",
+    "level": "N3",
+    "meanings": [
+      "Tooth",
+      "Cog"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "よわい",
+      "は",
+      "よわ.い",
+      "よわい.する"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "歯る",
+        "reading": "よわい",
+        "meaning": "Tooth"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-港",
+    "character": "港",
+    "level": "N3",
+    "meanings": [
+      "Harbor"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "みなと"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "港る",
+        "reading": "みなと",
+        "meaning": "Harbor"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-登",
+    "character": "登",
+    "level": "N3",
+    "meanings": [
+      "Ascend",
+      "Climb Up"
+    ],
+    "onyomi": [
+      "とう",
+      "と",
+      "どう",
+      "しょう",
+      "ちょう"
+    ],
+    "kunyomi": [
+      "のぼ.る",
+      "あ.がる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "登る",
+        "reading": "のぼる",
+        "meaning": "Ascend"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-亡",
+    "character": "亡",
+    "level": "N3",
+    "meanings": [
+      "Deceased",
+      "The Late",
+      "Dying",
+      "Perish"
+    ],
+    "onyomi": [
+      "ぼう",
+      "もう"
+    ],
+    "kunyomi": [
+      "な.い",
+      "な.き-",
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "亡る",
+        "reading": "ない",
+        "meaning": "Deceased"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-合",
+    "character": "合",
+    "level": "N3",
+    "meanings": [
+      "Fit",
+      "Suit",
+      "Join",
+      "0.1"
+    ],
+    "onyomi": [
+      "ごう",
+      "がっ",
+      "かっ"
+    ],
+    "kunyomi": [
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "合る",
+        "reading": "あう",
+        "meaning": "Fit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-予",
+    "character": "予",
+    "level": "N3",
+    "meanings": [
+      "Beforehand",
+      "Previous",
+      "Myself",
+      "I"
+    ],
+    "onyomi": [
+      "よ",
+      "しゃ"
+    ],
+    "kunyomi": [
+      "あらかじ.め"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "予る",
+        "reading": "あらかじめ",
+        "meaning": "Beforehand"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-反",
+    "character": "反",
+    "level": "N3",
+    "meanings": [
+      "Anti-"
+    ],
+    "onyomi": [
+      "はん",
+      "ほん",
+      "たん",
+      "ほ"
+    ],
+    "kunyomi": [
+      "そ.る",
+      "そ.らす",
+      "かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "反る",
+        "reading": "そる",
+        "meaning": "Anti-"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-返",
+    "character": "返",
+    "level": "N3",
+    "meanings": [
+      "Return",
+      "Answer",
+      "Fade",
+      "Repay"
+    ],
+    "onyomi": [
+      "へん"
+    ],
+    "kunyomi": [
+      "かえ.す",
+      "-かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "返る",
+        "reading": "かえす",
+        "meaning": "Return"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-宿",
+    "character": "宿",
+    "level": "N3",
+    "meanings": [
+      "Inn",
+      "Lodging",
+      "Relay Station",
+      "Dwell",
+      "Lodge",
+      "Be Pregnant",
+      "Home",
+      "Dwelling"
+    ],
+    "onyomi": [
+      "しゅく"
+    ],
+    "kunyomi": [
+      "やど",
+      "やど.る",
+      "やど.す"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "宿る",
+        "reading": "やど",
+        "meaning": "Inn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-想",
+    "character": "想",
+    "level": "N3",
+    "meanings": [
+      "Concept",
+      "Think",
+      "Idea",
+      "Thought"
+    ],
+    "onyomi": [
+      "そう",
+      "そ"
+    ],
+    "kunyomi": [
+      "おも.う"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "想る",
+        "reading": "おもう",
+        "meaning": "Concept"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-感",
+    "character": "感",
+    "level": "N3",
+    "meanings": [
+      "Emotion",
+      "Feeling",
+      "Sensation"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "感る",
+        "reading": "感",
+        "meaning": "Emotion"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-暗",
+    "character": "暗",
+    "level": "N3",
+    "meanings": [
+      "Darkness",
+      "Disappear",
+      "Shade",
+      "Informal",
+      "Grow Dark",
+      "Be Blinded"
+    ],
+    "onyomi": [
+      "あん"
+    ],
+    "kunyomi": [
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "暗る",
+        "reading": "くらい",
+        "meaning": "Darkness"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-様",
+    "character": "様",
+    "level": "N3",
+    "meanings": [
+      "Esq.",
+      "Way",
+      "Manner",
+      "Situation",
+      "Polite Suffix"
+    ],
+    "onyomi": [
+      "よう",
+      "しょう"
+    ],
+    "kunyomi": [
+      "さま",
+      "さん"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "様る",
+        "reading": "さま",
+        "meaning": "Esq."
+      }
+    ]
+  },
+  {
+    "id": "k-n3-福",
+    "character": "福",
+    "level": "N3",
+    "meanings": [
+      "Blessing",
+      "Fortune",
+      "Luck",
+      "Wealth"
+    ],
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "福る",
+        "reading": "福",
+        "meaning": "Blessing"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-殺",
+    "character": "殺",
+    "level": "N3",
+    "meanings": [
+      "Kill",
+      "Murder",
+      "Butcher",
+      "Slice Off",
+      "Split",
+      "Diminish",
+      "Reduce",
+      "Spoil"
+    ],
+    "onyomi": [
+      "さつ",
+      "さい",
+      "せつ"
+    ],
+    "kunyomi": [
+      "ころ.す",
+      "-ごろ.し",
+      "そ.ぐ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "殺る",
+        "reading": "ころす",
+        "meaning": "Kill"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-然",
+    "character": "然",
+    "level": "N3",
+    "meanings": [
+      "Sort Of Thing",
+      "So",
+      "If So",
+      "In That Case",
+      "Well"
+    ],
+    "onyomi": [
+      "ぜん",
+      "ねん"
+    ],
+    "kunyomi": [
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "然る",
+        "reading": "しか",
+        "meaning": "Sort Of Thing"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-熱",
+    "character": "熱",
+    "level": "N3",
+    "meanings": [
+      "Heat",
+      "Temperature",
+      "Fever",
+      "Mania",
+      "Passion"
+    ],
+    "onyomi": [
+      "ねつ"
+    ],
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "熱る",
+        "reading": "あつい",
+        "meaning": "Heat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-選",
+    "character": "選",
+    "level": "N3",
+    "meanings": [
+      "Elect",
+      "Select",
+      "Choose",
+      "Prefer"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "えら.ぶ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "選る",
+        "reading": "えらぶ",
+        "meaning": "Elect"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-願",
+    "character": "願",
+    "level": "N3",
+    "meanings": [
+      "Petition",
+      "Request",
+      "Vow",
+      "Wish",
+      "Hope"
+    ],
+    "onyomi": [
+      "がん"
+    ],
+    "kunyomi": [
+      "ねが.う",
+      "-ねがい"
+    ],
+    "strokes": 19,
+    "examples": [
+      {
+        "word": "願る",
+        "reading": "ねがう",
+        "meaning": "Petition"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-情",
+    "character": "情",
+    "level": "N3",
+    "meanings": [
+      "Feelings",
+      "Emotion",
+      "Passion",
+      "Sympathy",
+      "Circumstances",
+      "Facts"
+    ],
+    "onyomi": [
+      "じょう",
+      "せい"
+    ],
+    "kunyomi": [
+      "なさ.け"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "情る",
+        "reading": "なさけ",
+        "meaning": "Feelings"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-疑",
+    "character": "疑",
+    "level": "N3",
+    "meanings": [
+      "Doubt",
+      "Distrust",
+      "Be Suspicious",
+      "Question"
+    ],
+    "onyomi": [
+      "ぎ"
+    ],
+    "kunyomi": [
+      "うたが.う"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "疑る",
+        "reading": "うたがう",
+        "meaning": "Doubt"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-皆",
+    "character": "皆",
+    "level": "N3",
+    "meanings": [
+      "All",
+      "Everything"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "みな",
+      "みんな"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "皆る",
+        "reading": "みな",
+        "meaning": "All"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-例",
+    "character": "例",
+    "level": "N3",
+    "meanings": [
+      "Example",
+      "Custom",
+      "Usage",
+      "Precedent"
+    ],
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [
+      "たと.える"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "例る",
+        "reading": "たとえる",
+        "meaning": "Example"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-参",
+    "character": "参",
+    "level": "N3",
+    "meanings": [
+      "Nonplussed",
+      "Three (in Documents)",
+      "Going",
+      "Coming",
+      "Visiting",
+      "Visit",
+      "Be Defeated",
+      "Die",
+      "Be Madly In Love",
+      "Participate",
+      "Take Part In"
+    ],
+    "onyomi": [
+      "さん",
+      "しん"
+    ],
+    "kunyomi": [
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "参る",
+        "reading": "まいる",
+        "meaning": "Nonplussed"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-完",
+    "character": "完",
+    "level": "N3",
+    "meanings": [
+      "Perfect",
+      "Completion",
+      "End"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "完る",
+        "reading": "完",
+        "meaning": "Perfect"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-念",
+    "character": "念",
+    "level": "N3",
+    "meanings": [
+      "Wish",
+      "Sense",
+      "Idea",
+      "Thought",
+      "Feeling",
+      "Desire",
+      "Attention"
+    ],
+    "onyomi": [
+      "ねん"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "念る",
+        "reading": "念",
+        "meaning": "Wish"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-折",
+    "character": "折",
+    "level": "N3",
+    "meanings": [
+      "Fold",
+      "Break",
+      "Fracture",
+      "Bend",
+      "Yield",
+      "Submit"
+    ],
+    "onyomi": [
+      "せつ",
+      "しゃく"
+    ],
+    "kunyomi": [
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "折る",
+        "reading": "おる",
+        "meaning": "Fold"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-望",
+    "character": "望",
+    "level": "N3",
+    "meanings": [
+      "Ambition",
+      "Full Moon",
+      "Hope",
+      "Desire",
+      "Aspire To",
+      "Expect"
+    ],
+    "onyomi": [
+      "ぼう",
+      "もう"
+    ],
+    "kunyomi": [
+      "のぞ.む",
+      "もち"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "望る",
+        "reading": "のぞむ",
+        "meaning": "Ambition"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-束",
+    "character": "束",
+    "level": "N3",
+    "meanings": [
+      "Bundle",
+      "Sheaf",
+      "Ream",
+      "Tie In Bundles",
+      "Govern",
+      "Manage",
+      "Control"
+    ],
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "束る",
+        "reading": "たば",
+        "meaning": "Bundle"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-残",
+    "character": "残",
+    "level": "N3",
+    "meanings": [
+      "Remainder",
+      "Leftover",
+      "Balance"
+    ],
+    "onyomi": [
+      "ざん",
+      "さん"
+    ],
+    "kunyomi": [
+      "のこ.る",
+      "のこ.す",
+      "そこな.う",
+      "のこ.り"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "Remainder"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-求",
+    "character": "求",
+    "level": "N3",
+    "meanings": [
+      "Request",
+      "Want",
+      "Wish For",
+      "Require",
+      "Demand"
+    ],
+    "onyomi": [
+      "きゅう",
+      "ぐ"
+    ],
+    "kunyomi": [
+      "もと.める"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "求る",
+        "reading": "もとめる",
+        "meaning": "Request"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-約",
+    "character": "約",
+    "level": "N3",
+    "meanings": [
+      "Promise",
+      "Approximately",
+      "Shrink"
+    ],
+    "onyomi": [
+      "やく"
+    ],
+    "kunyomi": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "約る",
+        "reading": "つづまる",
+        "meaning": "Promise"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-性",
+    "character": "性",
+    "level": "N3",
+    "meanings": [
+      "Sex",
+      "Gender",
+      "Nature"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "さが"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "性る",
+        "reading": "さが",
+        "meaning": "Sex"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-格",
+    "character": "格",
+    "level": "N3",
+    "meanings": [
+      "Status",
+      "Rank",
+      "Capacity",
+      "Character",
+      "Case (law, Grammar)"
+    ],
+    "onyomi": [
+      "かく",
+      "こう",
+      "きゃく",
+      "ごう"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "格る",
+        "reading": "格",
+        "meaning": "Status"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-能",
+    "character": "能",
+    "level": "N3",
+    "meanings": [
+      "Ability",
+      "Talent",
+      "Skill",
+      "Capacity"
+    ],
+    "onyomi": [
+      "のう"
+    ],
+    "kunyomi": [
+      "よ.く"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "能る",
+        "reading": "よく",
+        "meaning": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-術",
+    "character": "術",
+    "level": "N3",
+    "meanings": [
+      "Art",
+      "Technique",
+      "Skill",
+      "Means",
+      "Trick",
+      "Resources",
+      "Magic"
+    ],
+    "onyomi": [
+      "じゅつ"
+    ],
+    "kunyomi": [
+      "すべ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "術る",
+        "reading": "すべ",
+        "meaning": "Art"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-晴",
+    "character": "晴",
+    "level": "N3",
+    "meanings": [
+      "Clear Up"
+    ],
+    "onyomi": [
+      "せい"
+    ],
+    "kunyomi": [
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "晴る",
+        "reading": "はれる",
+        "meaning": "Clear Up"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-列",
+    "character": "列",
+    "level": "N3",
+    "meanings": [
+      "File",
+      "Row",
+      "Rank",
+      "Tier",
+      "Column"
+    ],
+    "onyomi": [
+      "れつ",
+      "れ"
+    ],
+    "kunyomi": [],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "列る",
+        "reading": "列",
+        "meaning": "File"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-式",
+    "character": "式",
+    "level": "N3",
+    "meanings": [
+      "Style",
+      "Ceremony",
+      "Rite",
+      "Function",
+      "Method",
+      "System",
+      "Form",
+      "Expression"
+    ],
+    "onyomi": [
+      "しき"
+    ],
+    "kunyomi": [],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "式る",
+        "reading": "式",
+        "meaning": "Style"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-信",
+    "character": "信",
+    "level": "N3",
+    "meanings": [
+      "Faith",
+      "Truth",
+      "Fidelity",
+      "Trust"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "信る",
+        "reading": "信",
+        "meaning": "Faith"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-単",
+    "character": "単",
+    "level": "N3",
+    "meanings": [
+      "Simple",
+      "One",
+      "Single",
+      "Merely"
+    ],
+    "onyomi": [
+      "たん"
+    ],
+    "kunyomi": [
+      "ひとえ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "単る",
+        "reading": "ひとえ",
+        "meaning": "Simple"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-変",
+    "character": "変",
+    "level": "N3",
+    "meanings": [
+      "Unusual",
+      "Change",
+      "Strange"
+    ],
+    "onyomi": [
+      "へん"
+    ],
+    "kunyomi": [
+      "か.わる",
+      "か.わり",
+      "か.える"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "変る",
+        "reading": "かわる",
+        "meaning": "Unusual"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-夫",
+    "character": "夫",
+    "level": "N3",
+    "meanings": [
+      "Husband",
+      "Man"
+    ],
+    "onyomi": [
+      "ふ",
+      "ふう",
+      "ぶ"
+    ],
+    "kunyomi": [
+      "おっと",
+      "それ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "夫る",
+        "reading": "おっと",
+        "meaning": "Husband"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-昨",
+    "character": "昨",
+    "level": "N3",
+    "meanings": [
+      "Yesterday",
+      "Previous"
+    ],
+    "onyomi": [
+      "さく"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "昨る",
+        "reading": "昨",
+        "meaning": "Yesterday"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-法",
+    "character": "法",
+    "level": "N3",
+    "meanings": [
+      "Method",
+      "Law",
+      "Rule",
+      "Principle",
+      "Model",
+      "System"
+    ],
+    "onyomi": [
+      "ほう",
+      "はっ",
+      "ほっ",
+      "ふらん"
+    ],
+    "kunyomi": [
+      "のり"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "法る",
+        "reading": "のり",
+        "meaning": "Method"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-晩",
+    "character": "晩",
+    "level": "N3",
+    "meanings": [
+      "Nightfall",
+      "Night"
+    ],
+    "onyomi": [
+      "ばん"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "晩る",
+        "reading": "晩",
+        "meaning": "Nightfall"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-猫",
+    "character": "猫",
+    "level": "N3",
+    "meanings": [
+      "Cat"
+    ],
+    "onyomi": [
+      "びょう"
+    ],
+    "kunyomi": [
+      "ねこ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "猫る",
+        "reading": "ねこ",
+        "meaning": "Cat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-園",
+    "character": "園",
+    "level": "N3",
+    "meanings": [
+      "Park",
+      "Garden",
+      "Yard",
+      "Farm"
+    ],
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "その"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "園る",
+        "reading": "その",
+        "meaning": "Park"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-遠",
+    "character": "遠",
+    "level": "N3",
+    "meanings": [
+      "Distant",
+      "Far"
+    ],
+    "onyomi": [
+      "えん",
+      "おん"
+    ],
+    "kunyomi": [
+      "とお.い"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "遠る",
+        "reading": "とおい",
+        "meaning": "Distant"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-係",
+    "character": "係",
+    "level": "N3",
+    "meanings": [
+      "Person In Charge",
+      "Connection",
+      "Duty",
+      "Concern Oneself"
+    ],
+    "onyomi": [
+      "けい"
+    ],
+    "kunyomi": [
+      "かか.る",
+      "かかり",
+      "-がかり",
+      "かか.わる"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "係る",
+        "reading": "かかる",
+        "meaning": "Person In Charge"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-取",
+    "character": "取",
+    "level": "N3",
+    "meanings": [
+      "Take",
+      "Fetch",
+      "Take Up"
+    ],
+    "onyomi": [
+      "しゅ"
+    ],
+    "kunyomi": [
+      "と.る",
+      "と.り",
+      "と.り-",
+      "とり",
+      "-ど.り"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "取る",
+        "reading": "とる",
+        "meaning": "Take"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-守",
+    "character": "守",
+    "level": "N3",
+    "meanings": [
+      "Guard",
+      "Protect",
+      "Defend",
+      "Obey"
+    ],
+    "onyomi": [
+      "しゅ",
+      "す"
+    ],
+    "kunyomi": [
+      "まも.る",
+      "まも.り",
+      "もり",
+      "-もり",
+      "かみ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "Guard"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-幸",
+    "character": "幸",
+    "level": "N3",
+    "meanings": [
+      "Happiness",
+      "Blessing",
+      "Fortune"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "さいわ.い",
+      "さち",
+      "しあわ.せ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "幸る",
+        "reading": "さいわい",
+        "meaning": "Happiness"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-箱",
+    "character": "箱",
+    "level": "N3",
+    "meanings": [
+      "Box",
+      "Chest",
+      "Case",
+      "Bin",
+      "Railway Car"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "はこ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "箱る",
+        "reading": "はこ",
+        "meaning": "Box"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-面",
+    "character": "面",
+    "level": "N3",
+    "meanings": [
+      "Mask",
+      "Face",
+      "Features",
+      "Surface"
+    ],
+    "onyomi": [
+      "めん",
+      "べん"
+    ],
+    "kunyomi": [
+      "おも",
+      "おもて",
+      "つら"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "面る",
+        "reading": "おも",
+        "meaning": "Mask"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-喜",
+    "character": "喜",
+    "level": "N3",
+    "meanings": [
+      "Rejoice",
+      "Take Pleasure In"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "よろこ.ぶ",
+      "よろこ.ばす"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "喜る",
+        "reading": "よろこぶ",
+        "meaning": "Rejoice"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-治",
+    "character": "治",
+    "level": "N3",
+    "meanings": [
+      "Reign",
+      "Be At Peace",
+      "Calm Down",
+      "Subdue",
+      "Quell",
+      "Govt",
+      "Cure",
+      "Heal",
+      "Rule",
+      "Conserve"
+    ],
+    "onyomi": [
+      "じ",
+      "ち"
+    ],
+    "kunyomi": [
+      "おさ.める",
+      "おさ.まる",
+      "なお.る",
+      "なお.す"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "治る",
+        "reading": "おさめる",
+        "meaning": "Reign"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-笑",
+    "character": "笑",
+    "level": "N3",
+    "meanings": [
+      "Laugh"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "わら.う",
+      "え.む"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "笑る",
+        "reading": "わらう",
+        "meaning": "Laugh"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-辞",
+    "character": "辞",
+    "level": "N3",
+    "meanings": [
+      "Resign",
+      "Word",
+      "Term",
+      "Expression"
+    ],
+    "onyomi": [
+      "じ"
+    ],
+    "kunyomi": [
+      "や.める",
+      "いな.む"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "辞る",
+        "reading": "やめる",
+        "meaning": "Resign"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-関",
+    "character": "関",
+    "level": "N3",
+    "meanings": [
+      "Connection",
+      "Barrier",
+      "Gateway",
+      "Involve",
+      "Concerning"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "関る",
+        "reading": "せき",
+        "meaning": "Connection"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-政",
+    "character": "政",
+    "level": "N3",
+    "meanings": [
+      "Politics",
+      "Government"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "まつりごと",
+      "まん"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "政る",
+        "reading": "まつりごと",
+        "meaning": "Politics"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-留",
+    "character": "留",
+    "level": "N3",
+    "meanings": [
+      "Detain",
+      "Fasten",
+      "Halt",
+      "Stop"
+    ],
+    "onyomi": [
+      "りゅう",
+      "る"
+    ],
+    "kunyomi": [
+      "と.める",
+      "と.まる",
+      "とど.める",
+      "とど.まる",
+      "るうぶる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "留る",
+        "reading": "とめる",
+        "meaning": "Detain"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-険",
+    "character": "険",
+    "level": "N3",
+    "meanings": [
+      "Precipitous",
+      "Inaccessible Place",
+      "Impregnable Position",
+      "Steep Place",
+      "Sharp Eyes"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "険る",
+        "reading": "けわしい",
+        "meaning": "Precipitous"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-危",
+    "character": "危",
+    "level": "N3",
+    "meanings": [
+      "Dangerous",
+      "Fear",
+      "Uneasy"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "危る",
+        "reading": "あぶない",
+        "meaning": "Dangerous"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-存",
+    "character": "存",
+    "level": "N3",
+    "meanings": [
+      "Exist",
+      "Suppose",
+      "Be Aware Of",
+      "Believe",
+      "Feel"
+    ],
+    "onyomi": [
+      "そん",
+      "ぞん"
+    ],
+    "kunyomi": [
+      "ながら.える",
+      "あ.る",
+      "たも.つ",
+      "と.う"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "存る",
+        "reading": "ながらえる",
+        "meaning": "Exist"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-原",
+    "character": "原",
+    "level": "N3",
+    "meanings": [
+      "Meadow",
+      "Original",
+      "Primitive",
+      "Field",
+      "Plain",
+      "Prairie",
+      "Tundra",
+      "Wilderness"
+    ],
+    "onyomi": [
+      "げん"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "原る",
+        "reading": "はら",
+        "meaning": "Meadow"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-薬",
+    "character": "薬",
+    "level": "N3",
+    "meanings": [
+      "Medicine",
+      "Chemical",
+      "Enamel",
+      "Gunpowder",
+      "Benefit"
+    ],
+    "onyomi": [
+      "やく"
+    ],
+    "kunyomi": [
+      "くすり"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "薬る",
+        "reading": "くすり",
+        "meaning": "Medicine"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-側",
+    "character": "側",
+    "level": "N3",
+    "meanings": [
+      "Side",
+      "Lean",
+      "Oppose",
+      "Regret"
+    ],
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "側る",
+        "reading": "かわ",
+        "meaning": "Side"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-席",
+    "character": "席",
+    "level": "N3",
+    "meanings": [
+      "Seat",
+      "Mat",
+      "Occasion",
+      "Place"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [
+      "むしろ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "席る",
+        "reading": "むしろ",
+        "meaning": "Seat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-敗",
+    "character": "敗",
+    "level": "N3",
+    "meanings": [
+      "Failure",
+      "Defeat",
+      "Reversal"
+    ],
+    "onyomi": [
+      "はい"
+    ],
+    "kunyomi": [
+      "やぶ.れる"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "敗る",
+        "reading": "やぶれる",
+        "meaning": "Failure"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-果",
+    "character": "果",
+    "level": "N3",
+    "meanings": [
+      "Fruit",
+      "Reward",
+      "Carry Out",
+      "Achieve",
+      "Complete",
+      "End",
+      "Finish",
+      "Succeed"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "果る",
+        "reading": "はたす",
+        "meaning": "Fruit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-因",
+    "character": "因",
+    "level": "N3",
+    "meanings": [
+      "Cause",
+      "Factor",
+      "Be Associated With",
+      "Depend On",
+      "Be Limited To"
+    ],
+    "onyomi": [
+      "いん"
+    ],
+    "kunyomi": [
+      "よ.る",
+      "ちな.む"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "因る",
+        "reading": "よる",
+        "meaning": "Cause"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-常",
+    "character": "常",
+    "level": "N3",
+    "meanings": [
+      "Usual",
+      "Ordinary",
+      "Normal",
+      "Common",
+      "Regular",
+      "Continually",
+      "Always",
+      "Long-lasting"
+    ],
+    "onyomi": [
+      "じょう"
+    ],
+    "kunyomi": [
+      "つね",
+      "とこ-"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "常る",
+        "reading": "つね",
+        "meaning": "Usual"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-識",
+    "character": "識",
+    "level": "N3",
+    "meanings": [
+      "Discriminating",
+      "Know",
+      "Write"
+    ],
+    "onyomi": [
+      "しき"
+    ],
+    "kunyomi": [
+      "し.る",
+      "しる.す"
+    ],
+    "strokes": 19,
+    "examples": [
+      {
+        "word": "識る",
+        "reading": "しる",
+        "meaning": "Discriminating"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-非",
+    "character": "非",
+    "level": "N3",
+    "meanings": [
+      "Un-",
+      "Mistake",
+      "Negative",
+      "Injustice",
+      "Non-"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "あら.ず"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "非る",
+        "reading": "あらず",
+        "meaning": "Un-"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-官",
+    "character": "官",
+    "level": "N3",
+    "meanings": [
+      "Bureaucrat",
+      "The Government",
+      "Organ"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "官る",
+        "reading": "官",
+        "meaning": "Bureaucrat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-察",
+    "character": "察",
+    "level": "N3",
+    "meanings": [
+      "Guess",
+      "Presume",
+      "Surmise",
+      "Judge",
+      "Understand"
+    ],
+    "onyomi": [
+      "さつ"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "察る",
+        "reading": "察",
+        "meaning": "Guess"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-愛",
+    "character": "愛",
+    "level": "N3",
+    "meanings": [
+      "Love",
+      "Affection",
+      "Favourite"
+    ],
+    "onyomi": [
+      "あい"
+    ],
+    "kunyomi": [
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "愛る",
+        "reading": "いとしい",
+        "meaning": "Love"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-警",
+    "character": "警",
+    "level": "N3",
+    "meanings": [
+      "Admonish",
+      "Commandment"
+    ],
+    "onyomi": [
+      "けい"
+    ],
+    "kunyomi": [
+      "いまし.める"
+    ],
+    "strokes": 19,
+    "examples": [
+      {
+        "word": "警る",
+        "reading": "いましめる",
+        "meaning": "Admonish"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-覚",
+    "character": "覚",
+    "level": "N3",
+    "meanings": [
+      "Memorize",
+      "Learn",
+      "Remember",
+      "Awake",
+      "Sober Up"
+    ],
+    "onyomi": [
+      "かく"
+    ],
+    "kunyomi": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "覚る",
+        "reading": "おぼえる",
+        "meaning": "Memorize"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-説",
+    "character": "説",
+    "level": "N3",
+    "meanings": [
+      "Opinion",
+      "Theory",
+      "Explanation",
+      "Rumor"
+    ],
+    "onyomi": [
+      "せつ",
+      "ぜい"
+    ],
+    "kunyomi": [
+      "と.く"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "説る",
+        "reading": "とく",
+        "meaning": "Opinion"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-告",
+    "character": "告",
+    "level": "N3",
+    "meanings": [
+      "Revelation",
+      "Tell",
+      "Inform",
+      "Announce"
+    ],
+    "onyomi": [
+      "こく"
+    ],
+    "kunyomi": [
+      "つ.げる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "告る",
+        "reading": "つげる",
+        "meaning": "Revelation"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-種",
+    "character": "種",
+    "level": "N3",
+    "meanings": [
+      "Species",
+      "Kind",
+      "Class",
+      "Variety",
+      "Seed"
+    ],
+    "onyomi": [
+      "しゅ"
+    ],
+    "kunyomi": [
+      "たね",
+      "-ぐさ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "種る",
+        "reading": "たね",
+        "meaning": "Species"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-達",
+    "character": "達",
+    "level": "N3",
+    "meanings": [
+      "Accomplished",
+      "Reach",
+      "Arrive",
+      "Attain"
+    ],
+    "onyomi": [
+      "たつ",
+      "だ"
+    ],
+    "kunyomi": [
+      "-たち"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "達る",
+        "reading": "-たち",
+        "meaning": "Accomplished"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-類",
+    "character": "類",
+    "level": "N3",
+    "meanings": [
+      "Sort",
+      "Kind",
+      "Variety",
+      "Class",
+      "Genus"
+    ],
+    "onyomi": [
+      "るい"
+    ],
+    "kunyomi": [
+      "たぐ.い"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "類る",
+        "reading": "たぐい",
+        "meaning": "Sort"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-報",
+    "character": "報",
+    "level": "N3",
+    "meanings": [
+      "Report",
+      "News",
+      "Reward",
+      "Retribution"
+    ],
+    "onyomi": [
+      "ほう"
+    ],
+    "kunyomi": [
+      "むく.いる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "報る",
+        "reading": "むくいる",
+        "meaning": "Report"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-等",
+    "character": "等",
+    "level": "N3",
+    "meanings": [
+      "Etc.",
+      "And So Forth",
+      "Class (first)",
+      "Quality",
+      "Equal",
+      "Similar"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "ひと.しい",
+      "など",
+      "-ら"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "等る",
+        "reading": "ひとしい",
+        "meaning": "Etc."
+      }
+    ]
+  },
+  {
+    "id": "k-n3-座",
+    "character": "座",
+    "level": "N3",
+    "meanings": [
+      "Squat",
+      "Seat",
+      "Cushion",
+      "Gathering",
+      "Sit"
+    ],
+    "onyomi": [
+      "ざ"
+    ],
+    "kunyomi": [
+      "すわ.る"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "座る",
+        "reading": "すわる",
+        "meaning": "Squat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-忘",
+    "character": "忘",
+    "level": "N3",
+    "meanings": [
+      "Forget"
+    ],
+    "onyomi": [
+      "ぼう"
+    ],
+    "kunyomi": [
+      "わす.れる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "忘る",
+        "reading": "わすれる",
+        "meaning": "Forget"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-洗",
+    "character": "洗",
+    "level": "N3",
+    "meanings": [
+      "Wash",
+      "Inquire Into",
+      "Probe"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "あら.う"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "洗る",
+        "reading": "あらう",
+        "meaning": "Wash"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-許",
+    "character": "許",
+    "level": "N3",
+    "meanings": [
+      "Permit",
+      "Approve"
+    ],
+    "onyomi": [
+      "きょ"
+    ],
+    "kunyomi": [
+      "ゆる.す",
+      "もと"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "許る",
+        "reading": "ゆるす",
+        "meaning": "Permit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-静",
+    "character": "静",
+    "level": "N3",
+    "meanings": [
+      "Quiet"
+    ],
+    "onyomi": [
+      "せい",
+      "じょう"
+    ],
+    "kunyomi": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "静る",
+        "reading": "しず-",
+        "meaning": "Quiet"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-煙",
+    "character": "煙",
+    "level": "N3",
+    "meanings": [
+      "Smoke"
+    ],
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "けむ.る",
+      "けむり",
+      "けむ.い"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "煙る",
+        "reading": "けむる",
+        "meaning": "Smoke"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-加",
+    "character": "加",
+    "level": "N3",
+    "meanings": [
+      "Add",
+      "Addition",
+      "Increase",
+      "Join",
+      "Include",
+      "Canada"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "加る",
+        "reading": "くわえる",
+        "meaning": "Add"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-容",
+    "character": "容",
+    "level": "N3",
+    "meanings": [
+      "Contain",
+      "Form",
+      "Looks"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "い.れる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "容る",
+        "reading": "いれる",
+        "meaning": "Contain"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-易",
+    "character": "易",
+    "level": "N3",
+    "meanings": [
+      "Easy",
+      "Ready To",
+      "Simple",
+      "Fortune-telling",
+      "Divination"
+    ],
+    "onyomi": [
+      "えき",
+      "い"
+    ],
+    "kunyomi": [
+      "やさ.しい",
+      "やす.い"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "易る",
+        "reading": "やさしい",
+        "meaning": "Easy"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-財",
+    "character": "財",
+    "level": "N3",
+    "meanings": [
+      "Property",
+      "Money",
+      "Wealth",
+      "Assets"
+    ],
+    "onyomi": [
+      "ざい",
+      "さい",
+      "ぞく"
+    ],
+    "kunyomi": [
+      "たから"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "財る",
+        "reading": "たから",
+        "meaning": "Property"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-若",
+    "character": "若",
+    "level": "N3",
+    "meanings": [
+      "Young",
+      "If",
+      "Perhaps",
+      "Possibly",
+      "Low Number",
+      "Immature"
+    ],
+    "onyomi": [
+      "じゃく",
+      "にゃく",
+      "にゃ"
+    ],
+    "kunyomi": [
+      "わか.い",
+      "わか-",
+      "も.しくわ",
+      "も.し",
+      "も.しくは",
+      "ごと.し"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "若る",
+        "reading": "わかい",
+        "meaning": "Young"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-忙",
+    "character": "忙",
+    "level": "N3",
+    "meanings": [
+      "Busy",
+      "Occupied",
+      "Restless"
+    ],
+    "onyomi": [
+      "ぼう",
+      "もう"
+    ],
+    "kunyomi": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "忙る",
+        "reading": "いそがしい",
+        "meaning": "Busy"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-徒",
+    "character": "徒",
+    "level": "N3",
+    "meanings": [
+      "On Foot",
+      "Junior",
+      "Emptiness",
+      "Vanity",
+      "Futility",
+      "Uselessness",
+      "Ephemeral Thing",
+      "Gang",
+      "Set",
+      "Party",
+      "People"
+    ],
+    "onyomi": [
+      "と"
+    ],
+    "kunyomi": [
+      "いたずら",
+      "あだ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "徒る",
+        "reading": "いたずら",
+        "meaning": "On Foot"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-得",
+    "character": "得",
+    "level": "N3",
+    "meanings": [
+      "Gain",
+      "Get",
+      "Find",
+      "Earn",
+      "Acquire",
+      "Can",
+      "May",
+      "Able To",
+      "Profit",
+      "Advantage",
+      "Benefit"
+    ],
+    "onyomi": [
+      "とく"
+    ],
+    "kunyomi": [
+      "え.る",
+      "う.る"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "得る",
+        "reading": "える",
+        "meaning": "Gain"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-続",
+    "character": "続",
+    "level": "N3",
+    "meanings": [
+      "Continue",
+      "Series",
+      "Sequel"
+    ],
+    "onyomi": [
+      "ぞく",
+      "しょく",
+      "こう",
+      "きょう"
+    ],
+    "kunyomi": [
+      "つづ.く",
+      "つづ.ける",
+      "つぐ.ない"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "続る",
+        "reading": "つづく",
+        "meaning": "Continue"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-連",
+    "character": "連",
+    "level": "N3",
+    "meanings": [
+      "Take Along",
+      "Lead",
+      "Join",
+      "Connect",
+      "Party",
+      "Gang",
+      "Clique"
+    ],
+    "onyomi": [
+      "れん"
+    ],
+    "kunyomi": [
+      "つら.なる",
+      "つら.ねる",
+      "つ.れる",
+      "-づ.れ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "連る",
+        "reading": "つらなる",
+        "meaning": "Take Along"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-困",
+    "character": "困",
+    "level": "N3",
+    "meanings": [
+      "Quandary",
+      "Become Distressed",
+      "Annoyed"
+    ],
+    "onyomi": [
+      "こん"
+    ],
+    "kunyomi": [
+      "こま.る"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "困る",
+        "reading": "こまる",
+        "meaning": "Quandary"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-機",
+    "character": "機",
+    "level": "N3",
+    "meanings": [
+      "Loom",
+      "Mechanism",
+      "Machine",
+      "Airplane",
+      "Opportunity",
+      "Potency",
+      "Efficacy",
+      "Occasion"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "はた"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "機る",
+        "reading": "はた",
+        "meaning": "Loom"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-飛",
+    "character": "飛",
+    "level": "N3",
+    "meanings": [
+      "Fly",
+      "Skip (pages)",
+      "Scatter"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "飛る",
+        "reading": "とぶ",
+        "meaning": "Fly"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-害",
+    "character": "害",
+    "level": "N3",
+    "meanings": [
+      "Harm",
+      "Injury"
+    ],
+    "onyomi": [
+      "がい"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "害る",
+        "reading": "害",
+        "meaning": "Harm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-余",
+    "character": "余",
+    "level": "N3",
+    "meanings": [
+      "Too Much",
+      "Myself",
+      "Surplus",
+      "Other",
+      "Remainder"
+    ],
+    "onyomi": [
+      "よ"
+    ],
+    "kunyomi": [
+      "あま.る",
+      "あま.り",
+      "あま.す",
+      "あんま.り"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "余る",
+        "reading": "あまる",
+        "meaning": "Too Much"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-難",
+    "character": "難",
+    "level": "N3",
+    "meanings": [
+      "Difficult",
+      "Impossible",
+      "Trouble",
+      "Accident",
+      "Defect"
+    ],
+    "onyomi": [
+      "なん"
+    ],
+    "kunyomi": [
+      "かた.い",
+      "-がた.い",
+      "むずか.しい",
+      "むづか.しい",
+      "むつか.しい",
+      "-にく.い"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "難る",
+        "reading": "かたい",
+        "meaning": "Difficult"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-確",
+    "character": "確",
+    "level": "N3",
+    "meanings": [
+      "Assurance",
+      "Firm",
+      "Tight",
+      "Hard",
+      "Solid",
+      "Confirm",
+      "Clear",
+      "Evident"
+    ],
+    "onyomi": [
+      "かく",
+      "こう"
+    ],
+    "kunyomi": [
+      "たし.か",
+      "たし.かめる"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "確る",
+        "reading": "たしか",
+        "meaning": "Assurance"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-在",
+    "character": "在",
+    "level": "N3",
+    "meanings": [
+      "Exist",
+      "Outskirts",
+      "Suburbs",
+      "Located In"
+    ],
+    "onyomi": [
+      "ざい"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "在る",
+        "reading": "ある",
+        "meaning": "Exist"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-夢",
+    "character": "夢",
+    "level": "N3",
+    "meanings": [
+      "Dream",
+      "Vision",
+      "Illusion"
+    ],
+    "onyomi": [
+      "む",
+      "ぼう"
+    ],
+    "kunyomi": [
+      "ゆめ",
+      "ゆめ.みる",
+      "くら.い"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "夢る",
+        "reading": "ゆめ",
+        "meaning": "Dream"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-産",
+    "character": "産",
+    "level": "N3",
+    "meanings": [
+      "Products",
+      "Bear",
+      "Give Birth",
+      "Yield",
+      "Childbirth",
+      "Native",
+      "Property"
+    ],
+    "onyomi": [
+      "さん"
+    ],
+    "kunyomi": [
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "産る",
+        "reading": "うむ",
+        "meaning": "Products"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-倒",
+    "character": "倒",
+    "level": "N3",
+    "meanings": [
+      "Overthrow",
+      "Fall",
+      "Collapse",
+      "Drop",
+      "Break Down"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "たお.れる",
+      "-だお.れ",
+      "たお.す",
+      "さかさま",
+      "さかさ",
+      "さかしま"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "倒る",
+        "reading": "たおれる",
+        "meaning": "Overthrow"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-妻",
+    "character": "妻",
+    "level": "N3",
+    "meanings": [
+      "Wife",
+      "Spouse"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [
+      "つま"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "妻る",
+        "reading": "つま",
+        "meaning": "Wife"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-議",
+    "character": "議",
+    "level": "N3",
+    "meanings": [
+      "Deliberation",
+      "Consultation",
+      "Debate",
+      "Consideration"
+    ],
+    "onyomi": [
+      "ぎ"
+    ],
+    "kunyomi": [],
+    "strokes": 20,
+    "examples": [
+      {
+        "word": "議る",
+        "reading": "議",
+        "meaning": "Deliberation"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-犯",
+    "character": "犯",
+    "level": "N3",
+    "meanings": [
+      "Crime",
+      "Sin",
+      "Offense"
+    ],
+    "onyomi": [
+      "はん",
+      "ぼん"
+    ],
+    "kunyomi": [
+      "おか.す"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "犯る",
+        "reading": "おかす",
+        "meaning": "Crime"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-罪",
+    "character": "罪",
+    "level": "N3",
+    "meanings": [
+      "Guilt",
+      "Sin",
+      "Crime",
+      "Fault",
+      "Blame",
+      "Offense"
+    ],
+    "onyomi": [
+      "ざい"
+    ],
+    "kunyomi": [
+      "つみ"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "罪る",
+        "reading": "つみ",
+        "meaning": "Guilt"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-論",
+    "character": "論",
+    "level": "N3",
+    "meanings": [
+      "Argument",
+      "Discourse"
+    ],
+    "onyomi": [
+      "ろん"
+    ],
+    "kunyomi": [],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "論る",
+        "reading": "論",
+        "meaning": "Argument"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-経",
+    "character": "経",
+    "level": "N3",
+    "meanings": [
+      "Sutra",
+      "Longitude",
+      "Pass Thru",
+      "Expire",
+      "Warp"
+    ],
+    "onyomi": [
+      "けい",
+      "きょう",
+      "きん"
+    ],
+    "kunyomi": [
+      "へ.る",
+      "た.つ",
+      "たていと",
+      "はか.る",
+      "のり"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "経る",
+        "reading": "へる",
+        "meaning": "Sutra"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-済",
+    "character": "済",
+    "level": "N3",
+    "meanings": [
+      "Settle (debt, Etc.)",
+      "Relieve (burden)",
+      "Finish",
+      "Come To An End",
+      "Excusable",
+      "Need Not"
+    ],
+    "onyomi": [
+      "さい",
+      "せい"
+    ],
+    "kunyomi": [
+      "す.む",
+      "-ず.み",
+      "-ずみ",
+      "す.まない",
+      "す.ます",
+      "-す.ます",
+      "すく.う",
+      "な.す",
+      "わたし",
+      "わた.る"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "済る",
+        "reading": "すむ",
+        "meaning": "Settle (debt, Etc.)"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-判",
+    "character": "判",
+    "level": "N3",
+    "meanings": [
+      "Judgement",
+      "Signature",
+      "Stamp",
+      "Seal"
+    ],
+    "onyomi": [
+      "はん",
+      "ばん"
+    ],
+    "kunyomi": [
+      "わか.る"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "判る",
+        "reading": "わかる",
+        "meaning": "Judgement"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-制",
+    "character": "制",
+    "level": "N3",
+    "meanings": [
+      "System",
+      "Law",
+      "Rule"
+    ],
+    "onyomi": [
+      "せい"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "制る",
+        "reading": "制",
+        "meaning": "System"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-務",
+    "character": "務",
+    "level": "N3",
+    "meanings": [
+      "Task",
+      "Duties"
+    ],
+    "onyomi": [
+      "む"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "務る",
+        "reading": "つとめる",
+        "meaning": "Task"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-資",
+    "character": "資",
+    "level": "N3",
+    "meanings": [
+      "Assets",
+      "Resources",
+      "Capital",
+      "Funds",
+      "Data",
+      "Be Conducive To",
+      "Contribute To"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "資る",
+        "reading": "資",
+        "meaning": "Assets"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-権",
+    "character": "権",
+    "level": "N3",
+    "meanings": [
+      "Authority",
+      "Power",
+      "Rights"
+    ],
+    "onyomi": [
+      "けん",
+      "ごん"
+    ],
+    "kunyomi": [
+      "おもり",
+      "かり",
+      "はか.る"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "権る",
+        "reading": "おもり",
+        "meaning": "Authority"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-件",
+    "character": "件",
+    "level": "N3",
+    "meanings": [
+      "Affair",
+      "Case",
+      "Matter",
+      "Item"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "くだん"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "件る",
+        "reading": "くだん",
+        "meaning": "Affair"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-断",
+    "character": "断",
+    "level": "N3",
+    "meanings": [
+      "Severance",
+      "Decline",
+      "Refuse",
+      "Apologize",
+      "Warn",
+      "Dismiss",
+      "Prohibit",
+      "Decision",
+      "Judgement",
+      "Cutting"
+    ],
+    "onyomi": [
+      "だん"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "ことわ.る",
+      "さだ.める"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "断る",
+        "reading": "たつ",
+        "meaning": "Severance"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-任",
+    "character": "任",
+    "level": "N3",
+    "meanings": [
+      "Responsibility",
+      "Duty",
+      "Term",
+      "Entrust To",
+      "Appoint"
+    ],
+    "onyomi": [
+      "にん"
+    ],
+    "kunyomi": [
+      "まか.せる",
+      "まか.す"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "任る",
+        "reading": "まかせる",
+        "meaning": "Responsibility"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-責",
+    "character": "責",
+    "level": "N3",
+    "meanings": [
+      "Blame",
+      "Condemn",
+      "Censure"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [
+      "せ.める"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "責る",
+        "reading": "せめる",
+        "meaning": "Blame"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-増",
+    "character": "増",
+    "level": "N3",
+    "meanings": [
+      "Increase",
+      "Add",
+      "Augment",
+      "Gain",
+      "Promote"
+    ],
+    "onyomi": [
+      "ぞう"
+    ],
+    "kunyomi": [
+      "ま.す",
+      "ま.し",
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "増る",
+        "reading": "ます",
+        "meaning": "Increase"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-解",
+    "character": "解",
+    "level": "N3",
+    "meanings": [
+      "Unravel",
+      "Notes",
+      "Key",
+      "Explanation",
+      "Understanding",
+      "Untie",
+      "Undo",
+      "Solve",
+      "Answer",
+      "Cancel",
+      "Absolve",
+      "Explain",
+      "Minute"
+    ],
+    "onyomi": [
+      "かい",
+      "げ"
+    ],
+    "kunyomi": [
+      "と.く",
+      "と.かす",
+      "と.ける",
+      "ほど.く",
+      "ほど.ける",
+      "わか.る",
+      "さと.る"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "解る",
+        "reading": "とく",
+        "meaning": "Unravel"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-際",
+    "character": "際",
+    "level": "N3",
+    "meanings": [
+      "Occasion",
+      "Side",
+      "Edge",
+      "Verge",
+      "Dangerous",
+      "Adventurous",
+      "Indecent",
+      "Time",
+      "When"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [
+      "きわ",
+      "-ぎわ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "際る",
+        "reading": "きわ",
+        "meaning": "Occasion"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-認",
+    "character": "認",
+    "level": "N3",
+    "meanings": [
+      "Acknowledge",
+      "Witness",
+      "Discern",
+      "Recognize",
+      "Appreciate",
+      "Believe"
+    ],
+    "onyomi": [
+      "にん"
+    ],
+    "kunyomi": [
+      "みと.める",
+      "したた.める"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "認る",
+        "reading": "みとめる",
+        "meaning": "Acknowledge"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-過",
+    "character": "過",
+    "level": "N3",
+    "meanings": [
+      "Overdo",
+      "Exceed",
+      "Go Beyond",
+      "Error"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "す.ぎる",
+      "-す.ぎる",
+      "-す.ぎ",
+      "す.ごす",
+      "あやま.つ",
+      "あやま.ち",
+      "よ.ぎる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "過る",
+        "reading": "すぎる",
+        "meaning": "Overdo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-寝",
+    "character": "寝",
+    "level": "N3",
+    "meanings": [
+      "Lie Down",
+      "Sleep",
+      "Rest",
+      "Bed",
+      "Remain Unsold"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "ね.る",
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "meaning": "Lie Down"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-置",
+    "character": "置",
+    "level": "N3",
+    "meanings": [
+      "Placement",
+      "Put",
+      "Set",
+      "Deposit",
+      "Leave Behind",
+      "Keep",
+      "Employ",
+      "Pawn"
+    ],
+    "onyomi": [
+      "ち"
+    ],
+    "kunyomi": [
+      "お.く",
+      "-お.き"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "置る",
+        "reading": "おく",
+        "meaning": "Placement"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-費",
+    "character": "費",
+    "level": "N3",
+    "meanings": [
+      "Expense",
+      "Cost",
+      "Spend",
+      "Consume",
+      "Waste"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "つい.やす",
+      "つい.える"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "費る",
+        "reading": "ついやす",
+        "meaning": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-示",
+    "character": "示",
+    "level": "N3",
+    "meanings": [
+      "Show",
+      "Indicate",
+      "Point Out",
+      "Express",
+      "Display"
+    ],
+    "onyomi": [
+      "じ",
+      "し"
+    ],
+    "kunyomi": [
+      "しめ.す"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "示る",
+        "reading": "しめす",
+        "meaning": "Show"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-観",
+    "character": "観",
+    "level": "N3",
+    "meanings": [
+      "Outlook",
+      "Look",
+      "Appearance",
+      "Condition",
+      "View"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "み.る",
+      "しめ.す"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "観る",
+        "reading": "みる",
+        "meaning": "Outlook"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-値",
+    "character": "値",
+    "level": "N3",
+    "meanings": [
+      "Price",
+      "Cost",
+      "Value"
+    ],
+    "onyomi": [
+      "ち"
+    ],
+    "kunyomi": [
+      "ね",
+      "あたい"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "値る",
+        "reading": "ね",
+        "meaning": "Price"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-吸",
+    "character": "吸",
+    "level": "N3",
+    "meanings": [
+      "Suck",
+      "Imbibe",
+      "Inhale",
+      "Sip"
+    ],
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "す.う"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "吸る",
+        "reading": "すう",
+        "meaning": "Suck"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-状",
+    "character": "状",
+    "level": "N3",
+    "meanings": [
+      "Status Quo",
+      "Conditions",
+      "Circumstances",
+      "Form",
+      "Appearance"
+    ],
+    "onyomi": [
+      "じょう"
+    ],
+    "kunyomi": [],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "状る",
+        "reading": "状",
+        "meaning": "Status Quo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-収",
+    "character": "収",
+    "level": "N3",
+    "meanings": [
+      "Income",
+      "Obtain",
+      "Reap",
+      "Pay",
+      "Supply",
+      "Store"
+    ],
+    "onyomi": [
+      "しゅう"
+    ],
+    "kunyomi": [
+      "おさ.める",
+      "おさ.まる"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "収る",
+        "reading": "おさめる",
+        "meaning": "Income"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-職",
+    "character": "職",
+    "level": "N3",
+    "meanings": [
+      "Post",
+      "Employment",
+      "Work"
+    ],
+    "onyomi": [
+      "しょく",
+      "そく"
+    ],
+    "kunyomi": [],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "職る",
+        "reading": "職",
+        "meaning": "Post"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-規",
+    "character": "規",
+    "level": "N3",
+    "meanings": [
+      "Standard",
+      "Measure"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "規る",
+        "reading": "規",
+        "meaning": "Standard"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-割",
+    "character": "割",
+    "level": "N3",
+    "meanings": [
+      "Proportion",
+      "Comparatively",
+      "Divide",
+      "Cut",
+      "Separate",
+      "Split"
+    ],
+    "onyomi": [
+      "かつ"
+    ],
+    "kunyomi": [
+      "わ.る",
+      "わり",
+      "わ.り",
+      "わ.れる",
+      "さ.く"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "割る",
+        "reading": "わる",
+        "meaning": "Proportion"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-演",
+    "character": "演",
+    "level": "N3",
+    "meanings": [
+      "Performance",
+      "Act",
+      "Play",
+      "Render",
+      "Stage"
+    ],
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "演る",
+        "reading": "演",
+        "meaning": "Performance"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-師",
+    "character": "師",
+    "level": "N3",
+    "meanings": [
+      "Expert",
+      "Teacher",
+      "Master",
+      "Model",
+      "Exemplar",
+      "Army (incl. Counter)",
+      "War"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "いくさ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "師る",
+        "reading": "いくさ",
+        "meaning": "Expert"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-備",
+    "character": "備",
+    "level": "N3",
+    "meanings": [
+      "Equip",
+      "Provision",
+      "Preparation"
+    ],
+    "onyomi": [
+      "び"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "そな.わる",
+      "つぶさ.に"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "備る",
+        "reading": "そなえる",
+        "meaning": "Equip"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-優",
+    "character": "優",
+    "level": "N3",
+    "meanings": [
+      "Tenderness",
+      "Excel",
+      "Surpass",
+      "Actor",
+      "Superiority",
+      "Gentleness"
+    ],
+    "onyomi": [
+      "ゆう",
+      "う"
+    ],
+    "kunyomi": [
+      "やさ.しい",
+      "すぐ.れる",
+      "まさ.る"
+    ],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "優る",
+        "reading": "やさしい",
+        "meaning": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-宅",
+    "character": "宅",
+    "level": "N3",
+    "meanings": [
+      "Home",
+      "House",
+      "Residence",
+      "Our House",
+      "My Husband"
+    ],
+    "onyomi": [
+      "たく"
+    ],
+    "kunyomi": [],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "宅る",
+        "reading": "宅",
+        "meaning": "Home"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-現",
+    "character": "現",
+    "level": "N3",
+    "meanings": [
+      "Present",
+      "Existing",
+      "Actual"
+    ],
+    "onyomi": [
+      "げん"
+    ],
+    "kunyomi": [
+      "あらわ.れる",
+      "あらわ.す",
+      "うつつ",
+      "うつ.つ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "現る",
+        "reading": "あらわれる",
+        "meaning": "Present"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-呼",
+    "character": "呼",
+    "level": "N3",
+    "meanings": [
+      "Call",
+      "Call Out To",
+      "Invite"
+    ],
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "よ.ぶ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "呼る",
+        "reading": "よぶ",
+        "meaning": "Call"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-違",
+    "character": "違",
+    "level": "N3",
+    "meanings": [
+      "Difference",
+      "Differ"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [
+      "ちが.う",
+      "ちが.い",
+      "ちが.える",
+      "-ちが.える",
+      "たが.う",
+      "たが.える"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "違る",
+        "reading": "ちがう",
+        "meaning": "Difference"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-差",
+    "character": "差",
+    "level": "N3",
+    "meanings": [
+      "Distinction",
+      "Difference",
+      "Variation",
+      "Discrepancy",
+      "Margin",
+      "Balance"
+    ],
+    "onyomi": [
+      "さ"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "さ.し"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "差る",
+        "reading": "さす",
+        "meaning": "Distinction"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-供",
+    "character": "供",
+    "level": "N3",
+    "meanings": [
+      "Submit",
+      "Offer",
+      "Present",
+      "Serve (meal)",
+      "Accompany"
+    ],
+    "onyomi": [
+      "きょう",
+      "く",
+      "くう",
+      "ぐ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "とも",
+      "-ども"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "供る",
+        "reading": "そなえる",
+        "meaning": "Submit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-限",
+    "character": "限",
+    "level": "N3",
+    "meanings": [
+      "Limit",
+      "Restrict",
+      "To Best Of Ability"
+    ],
+    "onyomi": [
+      "げん"
+    ],
+    "kunyomi": [
+      "かぎ.る",
+      "かぎ.り",
+      "-かぎ.り"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "限る",
+        "reading": "かぎる",
+        "meaning": "Limit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-与",
+    "character": "与",
+    "level": "N3",
+    "meanings": [
+      "Bestow",
+      "Participate In",
+      "Give",
+      "Award",
+      "Impart",
+      "Provide",
+      "Cause",
+      "Gift",
+      "Godsend"
+    ],
+    "onyomi": [
+      "よ"
+    ],
+    "kunyomi": [
+      "あた.える",
+      "あずか.る",
+      "くみ.する",
+      "ともに"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "与る",
+        "reading": "あたえる",
+        "meaning": "Bestow"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-渡",
+    "character": "渡",
+    "level": "N3",
+    "meanings": [
+      "Transit",
+      "Ford",
+      "Ferry",
+      "Cross",
+      "Import",
+      "Deliver",
+      "Diameter",
+      "Migrate"
+    ],
+    "onyomi": [
+      "と"
+    ],
+    "kunyomi": [
+      "わた.る",
+      "-わた.る",
+      "わた.す"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "渡る",
+        "reading": "わたる",
+        "meaning": "Transit"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-景",
+    "character": "景",
+    "level": "N3",
+    "meanings": [
+      "Scenery",
+      "View"
+    ],
+    "onyomi": [
+      "けい"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "景る",
+        "reading": "景",
+        "meaning": "Scenery"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-抜",
+    "character": "抜",
+    "level": "N3",
+    "meanings": [
+      "Slip Out",
+      "Extract",
+      "Pull Out",
+      "Pilfer",
+      "Quote",
+      "Remove",
+      "Omit"
+    ],
+    "onyomi": [
+      "ばつ",
+      "はつ",
+      "はい"
+    ],
+    "kunyomi": [
+      "ぬ.く",
+      "-ぬ.く",
+      "ぬ.き",
+      "ぬ.ける",
+      "ぬ.かす",
+      "ぬ.かる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "抜る",
+        "reading": "ぬく",
+        "meaning": "Slip Out"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-候",
+    "character": "候",
+    "level": "N3",
+    "meanings": [
+      "Climate",
+      "Season",
+      "Weather",
+      "Wait For",
+      "Expect"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "そうろう"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "候る",
+        "reading": "そうろう",
+        "meaning": "Climate"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-構",
+    "character": "構",
+    "level": "N3",
+    "meanings": [
+      "Posture",
+      "Build",
+      "Pretend"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "かま.える",
+      "かま.う"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "構る",
+        "reading": "かまえる",
+        "meaning": "Posture"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-捕",
+    "character": "捕",
+    "level": "N3",
+    "meanings": [
+      "Catch",
+      "Capture"
+    ],
+    "onyomi": [
+      "ほ"
+    ],
+    "kunyomi": [
+      "と.らえる",
+      "と.らわれる",
+      "と.る",
+      "とら.える",
+      "とら.われる",
+      "つか.まえる",
+      "つか.まる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "捕る",
+        "reading": "とらえる",
+        "meaning": "Catch"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-慣",
+    "character": "慣",
+    "level": "N3",
+    "meanings": [
+      "Accustomed",
+      "Get Used To",
+      "Become Experienced"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "な.れる",
+      "な.らす"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "慣る",
+        "reading": "なれる",
+        "meaning": "Accustomed"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-満",
+    "character": "満",
+    "level": "N3",
+    "meanings": [
+      "Full",
+      "Fullness",
+      "Enough",
+      "Satisfy"
+    ],
+    "onyomi": [
+      "まん",
+      "ばん"
+    ],
+    "kunyomi": [
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "満る",
+        "reading": "みちる",
+        "meaning": "Full"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-掛",
+    "character": "掛",
+    "level": "N3",
+    "meanings": [
+      "Hang",
+      "Suspend",
+      "Depend",
+      "Arrive At",
+      "Tax",
+      "Pour"
+    ],
+    "onyomi": [
+      "かい",
+      "けい"
+    ],
+    "kunyomi": [
+      "か.ける",
+      "-か.ける",
+      "か.け",
+      "-か.け",
+      "-が.け",
+      "か.かる",
+      "-か.かる",
+      "-が.かる",
+      "か.かり",
+      "-が.かり",
+      "かかり",
+      "-がかり"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "掛る",
+        "reading": "かける",
+        "meaning": "Hang"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-居",
+    "character": "居",
+    "level": "N3",
+    "meanings": [
+      "Reside",
+      "To Be",
+      "Exist",
+      "Live With"
+    ],
+    "onyomi": [
+      "きょ",
+      "こ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "-い",
+      "お.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "居る",
+        "reading": "いる",
+        "meaning": "Reside"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-突",
+    "character": "突",
+    "level": "N3",
+    "meanings": [
+      "Stab",
+      "Protruding",
+      "Thrust",
+      "Pierce",
+      "Prick",
+      "Collision",
+      "Sudden"
+    ],
+    "onyomi": [
+      "とつ",
+      "か"
+    ],
+    "kunyomi": [
+      "つ.く"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "突る",
+        "reading": "つく",
+        "meaning": "Stab"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-招",
+    "character": "招",
+    "level": "N3",
+    "meanings": [
+      "Beckon",
+      "Invite",
+      "Summon",
+      "Engage"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "まね.く"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "招る",
+        "reading": "まねく",
+        "meaning": "Beckon"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-段",
+    "character": "段",
+    "level": "N3",
+    "meanings": [
+      "Grade",
+      "Steps",
+      "Stairs"
+    ],
+    "onyomi": [
+      "だん",
+      "たん"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "段る",
+        "reading": "段",
+        "meaning": "Grade"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-腹",
+    "character": "腹",
+    "level": "N3",
+    "meanings": [
+      "Abdomen",
+      "Belly",
+      "Stomach"
+    ],
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "腹る",
+        "reading": "はら",
+        "meaning": "Abdomen"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-痛",
+    "character": "痛",
+    "level": "N3",
+    "meanings": [
+      "Pain",
+      "Hurt",
+      "Damage",
+      "Bruise"
+    ],
+    "onyomi": [
+      "つう"
+    ],
+    "kunyomi": [
+      "いた.い",
+      "いた.む",
+      "いた.ましい",
+      "いた.める"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "痛る",
+        "reading": "いたい",
+        "meaning": "Pain"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-退",
+    "character": "退",
+    "level": "N3",
+    "meanings": [
+      "Retreat",
+      "Withdraw",
+      "Retire",
+      "Resign",
+      "Repel",
+      "Expel",
+      "Reject"
+    ],
+    "onyomi": [
+      "たい"
+    ],
+    "kunyomi": [
+      "しりぞ.く",
+      "しりぞ.ける",
+      "ひ.く",
+      "の.く",
+      "の.ける",
+      "ど.く"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "退る",
+        "reading": "しりぞく",
+        "meaning": "Retreat"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-迷",
+    "character": "迷",
+    "level": "N3",
+    "meanings": [
+      "Astray",
+      "Be Perplexed",
+      "In Doubt",
+      "Lost",
+      "Err",
+      "Illusion"
+    ],
+    "onyomi": [
+      "めい"
+    ],
+    "kunyomi": [
+      "まよ.う"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "迷る",
+        "reading": "まよう",
+        "meaning": "Astray"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-訪",
+    "character": "訪",
+    "level": "N3",
+    "meanings": [
+      "Call On",
+      "Visit",
+      "Look Up",
+      "Offer Sympathy"
+    ],
+    "onyomi": [
+      "ほう"
+    ],
+    "kunyomi": [
+      "おとず.れる",
+      "たず.ねる",
+      "と.う"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "訪る",
+        "reading": "おとずれる",
+        "meaning": "Call On"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-怒",
+    "character": "怒",
+    "level": "N3",
+    "meanings": [
+      "Angry",
+      "Be Offended"
+    ],
+    "onyomi": [
+      "ど",
+      "ぬ"
+    ],
+    "kunyomi": [
+      "いか.る",
+      "おこ.る"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "怒る",
+        "reading": "いかる",
+        "meaning": "Angry"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-眠",
+    "character": "眠",
+    "level": "N3",
+    "meanings": [
+      "Sleep",
+      "Die",
+      "Sleepy"
+    ],
+    "onyomi": [
+      "みん"
+    ],
+    "kunyomi": [
+      "ねむ.る",
+      "ねむ.い"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "眠る",
+        "reading": "ねむる",
+        "meaning": "Sleep"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-靴",
+    "character": "靴",
+    "level": "N3",
+    "meanings": [
+      "Shoes"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "くつ"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "靴る",
+        "reading": "くつ",
+        "meaning": "Shoes"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-途",
+    "character": "途",
+    "level": "N3",
+    "meanings": [
+      "Route",
+      "Way",
+      "Road"
+    ],
+    "onyomi": [
+      "と"
+    ],
+    "kunyomi": [
+      "みち"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "途る",
+        "reading": "みち",
+        "meaning": "Route"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-給",
+    "character": "給",
+    "level": "N3",
+    "meanings": [
+      "Salary",
+      "Wage",
+      "Gift",
+      "Allow",
+      "Grant",
+      "Bestow On"
+    ],
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "給る",
+        "reading": "たまう",
+        "meaning": "Salary"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-冷",
+    "character": "冷",
+    "level": "N3",
+    "meanings": [
+      "Cool",
+      "Cold (beer, Person)",
+      "Chill"
+    ],
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "冷る",
+        "reading": "つめたい",
+        "meaning": "Cool"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-処",
+    "character": "処",
+    "level": "N3",
+    "meanings": [
+      "Dispose",
+      "Manage",
+      "Deal With",
+      "Sentence",
+      "Condemn",
+      "Act",
+      "Behave",
+      "Place"
+    ],
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "処る",
+        "reading": "ところ",
+        "meaning": "Dispose"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-婦",
+    "character": "婦",
+    "level": "N3",
+    "meanings": [
+      "Lady",
+      "Woman",
+      "Wife",
+      "Bride"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "よめ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "婦る",
+        "reading": "よめ",
+        "meaning": "Lady"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-程",
+    "character": "程",
+    "level": "N3",
+    "meanings": [
+      "Extent",
+      "Degree",
+      "Law",
+      "Formula",
+      "Distance",
+      "Limits",
+      "Amount"
+    ],
+    "onyomi": [
+      "てい"
+    ],
+    "kunyomi": [
+      "ほど",
+      "-ほど"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "程る",
+        "reading": "ほど",
+        "meaning": "Extent"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-精",
+    "character": "精",
+    "level": "N3",
+    "meanings": [
+      "Refined",
+      "Ghost",
+      "Fairy",
+      "Energy",
+      "Vitality",
+      "Semen",
+      "Excellence",
+      "Purity",
+      "Skill"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "しら.げる",
+      "くわ.しい"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "精る",
+        "reading": "しらげる",
+        "meaning": "Refined"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-絶",
+    "character": "絶",
+    "level": "N3",
+    "meanings": [
+      "Discontinue",
+      "Sever",
+      "Cut Off",
+      "Abstain",
+      "Interrupt",
+      "Suppress",
+      "Be Beyond",
+      "Without Match",
+      "Peerless",
+      "Unparalleled"
+    ],
+    "onyomi": [
+      "ぜつ"
+    ],
+    "kunyomi": [
+      "た.える",
+      "た.やす",
+      "た.つ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "絶る",
+        "reading": "たえる",
+        "meaning": "Discontinue"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-杯",
+    "character": "杯",
+    "level": "N3",
+    "meanings": [
+      "Counter For Cupfuls",
+      "Wine Glass",
+      "Glass",
+      "Toast"
+    ],
+    "onyomi": [
+      "はい"
+    ],
+    "kunyomi": [
+      "さかずき"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "杯る",
+        "reading": "さかずき",
+        "meaning": "Counter For Cupfuls"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-積",
+    "character": "積",
+    "level": "N3",
+    "meanings": [
+      "Volume",
+      "Product (x*y)",
+      "Acreage",
+      "Contents",
+      "Pile Up",
+      "Stack",
+      "Load",
+      "Amass"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [
+      "つ.む",
+      "-づ.み",
+      "つ.もる",
+      "つ.もり"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "積る",
+        "reading": "つむ",
+        "meaning": "Volume"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-寄",
+    "character": "寄",
+    "level": "N3",
+    "meanings": [
+      "Draw Near",
+      "Stop In",
+      "Bring Near",
+      "Gather",
+      "Collect",
+      "Send",
+      "Forward"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "よ.る",
+      "-よ.り",
+      "よ.せる"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "寄る",
+        "reading": "よる",
+        "meaning": "Draw Near"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-娘",
+    "character": "娘",
+    "level": "N3",
+    "meanings": [
+      "Daughter",
+      "Girl"
+    ],
+    "onyomi": [
+      "じょう"
+    ],
+    "kunyomi": [
+      "むすめ",
+      "こ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "娘る",
+        "reading": "むすめ",
+        "meaning": "Daughter"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-怖",
+    "character": "怖",
+    "level": "N3",
+    "meanings": [
+      "Dreadful",
+      "Be Frightened",
+      "Fearful"
+    ],
+    "onyomi": [
+      "ふ",
+      "ほ"
+    ],
+    "kunyomi": [
+      "こわ.い",
+      "こわ.がる",
+      "お.じる",
+      "おそ.れる"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "怖る",
+        "reading": "こわい",
+        "meaning": "Dreadful"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-恐",
+    "character": "恐",
+    "level": "N3",
+    "meanings": [
+      "Fear",
+      "Dread",
+      "Awe"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "おそ.れる",
+      "おそ.る",
+      "おそ.ろしい",
+      "こわ.い",
+      "こわ.がる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "恐る",
+        "reading": "おそれる",
+        "meaning": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-婚",
+    "character": "婚",
+    "level": "N3",
+    "meanings": [
+      "Marriage"
+    ],
+    "onyomi": [
+      "こん"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "婚る",
+        "reading": "婚",
+        "meaning": "Marriage"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-遊",
+    "character": "遊",
+    "level": "N3",
+    "meanings": [
+      "Play"
+    ],
+    "onyomi": [
+      "ゆう",
+      "ゆ"
+    ],
+    "kunyomi": [
+      "あそ.ぶ",
+      "あそ.ばす"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "遊る",
+        "reading": "あそぶ",
+        "meaning": "Play"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-貧",
+    "character": "貧",
+    "level": "N3",
+    "meanings": [
+      "Poverty",
+      "Poor"
+    ],
+    "onyomi": [
+      "ひん",
+      "びん"
+    ],
+    "kunyomi": [
+      "まず.しい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "貧る",
+        "reading": "まずしい",
+        "meaning": "Poverty"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-適",
+    "character": "適",
+    "level": "N3",
+    "meanings": [
+      "Suitable",
+      "Occasional",
+      "Rare",
+      "Qualified",
+      "Capable"
+    ],
+    "onyomi": [
+      "てき"
+    ],
+    "kunyomi": [
+      "かな.う"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "適る",
+        "reading": "かなう",
+        "meaning": "Suitable"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-押",
+    "character": "押",
+    "level": "N3",
+    "meanings": [
+      "Push",
+      "Stop",
+      "Check",
+      "Subdue",
+      "Attach",
+      "Seize",
+      "Weight",
+      "Shove",
+      "Press",
+      "Seal",
+      "Do In Spite Of"
+    ],
+    "onyomi": [
+      "おう"
+    ],
+    "kunyomi": [
+      "お.す",
+      "お.し-",
+      "お.っ-",
+      "お.さえる",
+      "おさ.える"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "押る",
+        "reading": "おす",
+        "meaning": "Push"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-更",
+    "character": "更",
+    "level": "N3",
+    "meanings": [
+      "Grow Late",
+      "Night Watch",
+      "Sit Up Late",
+      "Of Course",
+      "Renew",
+      "Renovate",
+      "Again",
+      "More And More",
+      "Further"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "さら",
+      "さら.に",
+      "ふ.ける",
+      "ふ.かす"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "更る",
+        "reading": "さら",
+        "meaning": "Grow Late"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-浮",
+    "character": "浮",
+    "level": "N3",
+    "meanings": [
+      "Floating",
+      "Float",
+      "Rise To Surface"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "う.く",
+      "う.かれる",
+      "う.かぶ",
+      "む",
+      "う.かべる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "浮る",
+        "reading": "うく",
+        "meaning": "Floating"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-越",
+    "character": "越",
+    "level": "N3",
+    "meanings": [
+      "Surpass",
+      "Cross Over",
+      "Move To",
+      "Exceed",
+      "Vietnam"
+    ],
+    "onyomi": [
+      "えつ",
+      "おつ"
+    ],
+    "kunyomi": [
+      "こ.す",
+      "-こ.す",
+      "-ご.し",
+      "こ.える",
+      "-ご.え"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "越る",
+        "reading": "こす",
+        "meaning": "Surpass"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-背",
+    "character": "背",
+    "level": "N3",
+    "meanings": [
+      "Stature",
+      "Height",
+      "Back",
+      "Behind",
+      "Disobey",
+      "Defy",
+      "Go Back On",
+      "Rebel"
+    ],
+    "onyomi": [
+      "はい"
+    ],
+    "kunyomi": [
+      "せ",
+      "せい",
+      "そむ.く",
+      "そむ.ける"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "背る",
+        "reading": "せ",
+        "meaning": "Stature"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-盗",
+    "character": "盗",
+    "level": "N3",
+    "meanings": [
+      "Steal",
+      "Rob",
+      "Pilfer"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "ぬす.む",
+      "ぬす.み"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "盗る",
+        "reading": "ぬすむ",
+        "meaning": "Steal"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-除",
+    "character": "除",
+    "level": "N3",
+    "meanings": [
+      "Exclude",
+      "Division (x/3)",
+      "Remove",
+      "Abolish",
+      "Cancel",
+      "Except"
+    ],
+    "onyomi": [
+      "じょ",
+      "じ"
+    ],
+    "kunyomi": [
+      "のぞ.く",
+      "-よ.け"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "除る",
+        "reading": "のぞく",
+        "meaning": "Exclude"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-幾",
+    "character": "幾",
+    "level": "N3",
+    "meanings": [
+      "How Many",
+      "How Much",
+      "How Far",
+      "How Long",
+      "Some",
+      "Several"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "いく-",
+      "いく.つ",
+      "いく.ら"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "幾る",
+        "reading": "いく-",
+        "meaning": "How Many"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-散",
+    "character": "散",
+    "level": "N3",
+    "meanings": [
+      "Scatter",
+      "Disperse",
+      "Spend",
+      "Squander"
+    ],
+    "onyomi": [
+      "さん"
+    ],
+    "kunyomi": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "散る",
+        "reading": "ちる",
+        "meaning": "Scatter"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-似",
+    "character": "似",
+    "level": "N3",
+    "meanings": [
+      "Becoming",
+      "Resemble",
+      "Counterfeit",
+      "Imitate",
+      "Suitable"
+    ],
+    "onyomi": [
+      "じ"
+    ],
+    "kunyomi": [
+      "に.る",
+      "ひ.る"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "似る",
+        "reading": "にる",
+        "meaning": "Becoming"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-富",
+    "character": "富",
+    "level": "N3",
+    "meanings": [
+      "Wealth",
+      "Enrich",
+      "Abundant"
+    ],
+    "onyomi": [
+      "ふ",
+      "ふう"
+    ],
+    "kunyomi": [
+      "と.む",
+      "とみ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "富る",
+        "reading": "とむ",
+        "meaning": "Wealth"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-探",
+    "character": "探",
+    "level": "N3",
+    "meanings": [
+      "Grope",
+      "Search",
+      "Look For"
+    ],
+    "onyomi": [
+      "たん"
+    ],
+    "kunyomi": [
+      "さぐ.る",
+      "さが.す"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "探る",
+        "reading": "さぐる",
+        "meaning": "Grope"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-迎",
+    "character": "迎",
+    "level": "N3",
+    "meanings": [
+      "Welcome",
+      "Meet",
+      "Greet"
+    ],
+    "onyomi": [
+      "げい"
+    ],
+    "kunyomi": [
+      "むか.える"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "迎る",
+        "reading": "むかえる",
+        "meaning": "Welcome"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-祖",
+    "character": "祖",
+    "level": "N3",
+    "meanings": [
+      "Ancestor",
+      "Pioneer",
+      "Founder"
+    ],
+    "onyomi": [
+      "そ"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "祖る",
+        "reading": "祖",
+        "meaning": "Ancestor"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-雑",
+    "character": "雑",
+    "level": "N3",
+    "meanings": [
+      "Miscellaneous"
+    ],
+    "onyomi": [
+      "ざつ",
+      "ぞう"
+    ],
+    "kunyomi": [
+      "まじ.える",
+      "まじ.る"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "雑る",
+        "reading": "まじえる",
+        "meaning": "Miscellaneous"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-賛",
+    "character": "賛",
+    "level": "N3",
+    "meanings": [
+      "Approve",
+      "Praise",
+      "Title Or Inscription On Picture",
+      "Assist",
+      "Agree With"
+    ],
+    "onyomi": [
+      "さん"
+    ],
+    "kunyomi": [
+      "たす.ける",
+      "たた.える"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "賛る",
+        "reading": "たすける",
+        "meaning": "Approve"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-込",
+    "character": "込",
+    "level": "N3",
+    "meanings": [
+      "Crowded",
+      "Mixture",
+      "In Bulk",
+      "Included",
+      "(kokuji)"
+    ],
+    "onyomi": [],
+    "kunyomi": [
+      "-こ.む",
+      "こ.む",
+      "こ.み",
+      "-こ.み",
+      "こ.める"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "込る",
+        "reading": "-こむ",
+        "meaning": "Crowded"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-欲",
+    "character": "欲",
+    "level": "N3",
+    "meanings": [
+      "Longing",
+      "Covetousness",
+      "Greed",
+      "Passion",
+      "Desire",
+      "Craving"
+    ],
+    "onyomi": [
+      "よく"
+    ],
+    "kunyomi": [
+      "ほっ.する",
+      "ほ.しい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "欲る",
+        "reading": "ほっする",
+        "meaning": "Longing"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-閉",
+    "character": "閉",
+    "level": "N3",
+    "meanings": [
+      "Closed",
+      "Shut"
+    ],
+    "onyomi": [
+      "へい"
+    ],
+    "kunyomi": [
+      "と.じる",
+      "と.ざす",
+      "し.める",
+      "し.まる",
+      "た.てる"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "閉る",
+        "reading": "とじる",
+        "meaning": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-窓",
+    "character": "窓",
+    "level": "N3",
+    "meanings": [
+      "Window",
+      "Pane"
+    ],
+    "onyomi": [
+      "そう",
+      "す"
+    ],
+    "kunyomi": [
+      "まど",
+      "てんまど",
+      "けむだし"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "窓る",
+        "reading": "まど",
+        "meaning": "Window"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-否",
+    "character": "否",
+    "level": "N3",
+    "meanings": [
+      "Negate",
+      "No",
+      "Noes",
+      "Refuse",
+      "Decline",
+      "Deny"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "いな",
+      "いや"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "否る",
+        "reading": "いな",
+        "meaning": "Negate"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-暮",
+    "character": "暮",
+    "level": "N3",
+    "meanings": [
+      "Evening",
+      "Twilight",
+      "Season's End",
+      "Livelihood",
+      "Make A Living",
+      "Spend Time"
+    ],
+    "onyomi": [
+      "ぼ"
+    ],
+    "kunyomi": [
+      "く.れる",
+      "く.らす"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "暮る",
+        "reading": "くれる",
+        "meaning": "Evening"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-誤",
+    "character": "誤",
+    "level": "N3",
+    "meanings": [
+      "Mistake",
+      "Err",
+      "Do Wrong",
+      "Mislead"
+    ],
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "あやま.る",
+      "-あやま.る"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "誤る",
+        "reading": "あやまる",
+        "meaning": "Mistake"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-降",
+    "character": "降",
+    "level": "N3",
+    "meanings": [
+      "Descend",
+      "Precipitate",
+      "Fall",
+      "Surrender"
+    ],
+    "onyomi": [
+      "こう",
+      "ご"
+    ],
+    "kunyomi": [
+      "お.りる",
+      "お.ろす",
+      "ふ.る",
+      "ふ.り",
+      "くだ.る",
+      "くだ.す"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "降る",
+        "reading": "おりる",
+        "meaning": "Descend"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-勤",
+    "character": "勤",
+    "level": "N3",
+    "meanings": [
+      "Diligence",
+      "Become Employed",
+      "Serve"
+    ],
+    "onyomi": [
+      "きん",
+      "ごん"
+    ],
+    "kunyomi": [
+      "つと.める",
+      "-づと.め",
+      "つと.まる",
+      "いそ.しむ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "勤る",
+        "reading": "つとめる",
+        "meaning": "Diligence"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-刻",
+    "character": "刻",
+    "level": "N3",
+    "meanings": [
+      "Engrave",
+      "Cut Fine",
+      "Chop",
+      "Hash",
+      "Mince",
+      "Time",
+      "Carving"
+    ],
+    "onyomi": [
+      "こく"
+    ],
+    "kunyomi": [
+      "きざ.む",
+      "きざ.み"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "刻る",
+        "reading": "きざむ",
+        "meaning": "Engrave"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-遅",
+    "character": "遅",
+    "level": "N3",
+    "meanings": [
+      "Slow",
+      "Late",
+      "Back",
+      "Later"
+    ],
+    "onyomi": [
+      "ち"
+    ],
+    "kunyomi": [
+      "おく.れる",
+      "おく.らす",
+      "おそ.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "遅る",
+        "reading": "おくれる",
+        "meaning": "Slow"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-破",
+    "character": "破",
+    "level": "N3",
+    "meanings": [
+      "Rend",
+      "Rip",
+      "Tear",
+      "Break",
+      "Destroy",
+      "Defeat",
+      "Frustrate"
+    ],
+    "onyomi": [
+      "は"
+    ],
+    "kunyomi": [
+      "やぶ.る",
+      "やぶ.れる",
+      "わ.れる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "破る",
+        "reading": "やぶる",
+        "meaning": "Rend"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-互",
+    "character": "互",
+    "level": "N3",
+    "meanings": [
+      "Mutually",
+      "Reciprocally",
+      "Together"
+    ],
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "たが.い",
+      "かたみ.に"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "互る",
+        "reading": "たがい",
+        "meaning": "Mutually"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-彼",
+    "character": "彼",
+    "level": "N3",
+    "meanings": [
+      "He",
+      "That",
+      "The"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "かれ",
+      "かの",
+      "か.の"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "彼る",
+        "reading": "かれ",
+        "meaning": "He"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-恥",
+    "character": "恥",
+    "level": "N3",
+    "meanings": [
+      "Shame",
+      "Dishonor"
+    ],
+    "onyomi": [
+      "ち"
+    ],
+    "kunyomi": [
+      "は.じる",
+      "はじ",
+      "は.じらう",
+      "は.ずかしい"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "恥る",
+        "reading": "はじる",
+        "meaning": "Shame"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-払",
+    "character": "払",
+    "level": "N3",
+    "meanings": [
+      "Pay",
+      "Clear Out",
+      "Prune",
+      "Banish",
+      "Dispose Of"
+    ],
+    "onyomi": [
+      "ふつ",
+      "ひつ",
+      "ほつ"
+    ],
+    "kunyomi": [
+      "はら.う",
+      "-はら.い",
+      "-ばら.い"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "払る",
+        "reading": "はらう",
+        "meaning": "Pay"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-舞",
+    "character": "舞",
+    "level": "N3",
+    "meanings": [
+      "Dance",
+      "Flit",
+      "Circle",
+      "Wheel"
+    ],
+    "onyomi": [
+      "ぶ"
+    ],
+    "kunyomi": [
+      "ま.う",
+      "-ま.う",
+      "まい"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "舞る",
+        "reading": "まう",
+        "meaning": "Dance"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-頼",
+    "character": "頼",
+    "level": "N3",
+    "meanings": [
+      "Trust",
+      "Request"
+    ],
+    "onyomi": [
+      "らい"
+    ],
+    "kunyomi": [
+      "たの.む",
+      "たの.もしい",
+      "たよ.る"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "頼る",
+        "reading": "たのむ",
+        "meaning": "Trust"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-戻",
+    "character": "戻",
+    "level": "N3",
+    "meanings": [
+      "Re-",
+      "Return",
+      "Revert",
+      "Resume",
+      "Restore",
+      "Go Backwards"
+    ],
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [
+      "もど.す",
+      "もど.る"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "戻る",
+        "reading": "もどす",
+        "meaning": "Re-"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-抱",
+    "character": "抱",
+    "level": "N3",
+    "meanings": [
+      "Embrace",
+      "Hug",
+      "Hold In Arms"
+    ],
+    "onyomi": [
+      "ほう"
+    ],
+    "kunyomi": [
+      "だ.く",
+      "いだ.く",
+      "かか.える"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "抱る",
+        "reading": "だく",
+        "meaning": "Embrace"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-緒",
+    "character": "緒",
+    "level": "N3",
+    "meanings": [
+      "Thong",
+      "Beginning",
+      "Inception",
+      "End",
+      "Cord",
+      "Strap",
+      "Mental Or Emotional State"
+    ],
+    "onyomi": [
+      "しょ",
+      "ちょ"
+    ],
+    "kunyomi": [
+      "お",
+      "いとぐち"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "緒る",
+        "reading": "お",
+        "meaning": "Thong"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-逃",
+    "character": "逃",
+    "level": "N3",
+    "meanings": [
+      "Escape",
+      "Flee",
+      "Shirk",
+      "Evade",
+      "Set Free"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "に.げる",
+      "に.がす",
+      "のが.す",
+      "のが.れる"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "逃る",
+        "reading": "にげる",
+        "meaning": "Escape"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-御",
+    "character": "御",
+    "level": "N3",
+    "meanings": [
+      "Honorable",
+      "Manipulate",
+      "Govern"
+    ],
+    "onyomi": [
+      "ぎょ",
+      "ご"
+    ],
+    "kunyomi": [
+      "おん-",
+      "お-",
+      "み-"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "御る",
+        "reading": "おん-",
+        "meaning": "Honorable"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-吹",
+    "character": "吹",
+    "level": "N3",
+    "meanings": [
+      "Blow",
+      "Breathe",
+      "Puff",
+      "Emit",
+      "Smoke"
+    ],
+    "onyomi": [
+      "すい"
+    ],
+    "kunyomi": [
+      "ふ.く"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "吹る",
+        "reading": "ふく",
+        "meaning": "Blow"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-到",
+    "character": "到",
+    "level": "N3",
+    "meanings": [
+      "Arrival",
+      "Proceed",
+      "Reach",
+      "Attain",
+      "Result In"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "いた.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "到る",
+        "reading": "いたる",
+        "meaning": "Arrival"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-髪",
+    "character": "髪",
+    "level": "N3",
+    "meanings": [
+      "Hair Of The Head"
+    ],
+    "onyomi": [
+      "はつ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "髪る",
+        "reading": "かみ",
+        "meaning": "Hair Of The Head"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-疲",
+    "character": "疲",
+    "level": "N3",
+    "meanings": [
+      "Exhausted",
+      "Tire",
+      "Weary"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "つか.れる",
+      "-づか.れ",
+      "つか.らす"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "疲る",
+        "reading": "つかれる",
+        "meaning": "Exhausted"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-歳",
+    "character": "歳",
+    "level": "N3",
+    "meanings": [
+      "Year-end",
+      "Age",
+      "Occasion",
+      "Opportunity"
+    ],
+    "onyomi": [
+      "さい",
+      "せい"
+    ],
+    "kunyomi": [
+      "とし",
+      "とせ",
+      "よわい"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "歳る",
+        "reading": "とし",
+        "meaning": "Year-end"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-偶",
+    "character": "偶",
+    "level": "N3",
+    "meanings": [
+      "Accidentally",
+      "Even Number",
+      "Couple",
+      "Man & Wife",
+      "Same Kind"
+    ],
+    "onyomi": [
+      "ぐう"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "偶る",
+        "reading": "たま",
+        "meaning": "Accidentally"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-偉",
+    "character": "偉",
+    "level": "N3",
+    "meanings": [
+      "Admirable",
+      "Greatness",
+      "Remarkable",
+      "Conceited",
+      "Famous",
+      "Excellent"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [
+      "えら.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "偉る",
+        "reading": "えらい",
+        "meaning": "Admirable"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-頂",
+    "character": "頂",
+    "level": "N3",
+    "meanings": [
+      "Place On The Head",
+      "Receive",
+      "Top Of Head",
+      "Top",
+      "Summit",
+      "Peak"
+    ],
+    "onyomi": [
+      "ちょう"
+    ],
+    "kunyomi": [
+      "いただ.く",
+      "いただき"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "頂る",
+        "reading": "いただく",
+        "meaning": "Place On The Head"
+      }
+    ]
+  }
+]

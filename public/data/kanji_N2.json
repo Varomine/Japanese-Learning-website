@@ -1,0 +1,9371 @@
+[
+  {
+    "id": "k-n2-了",
+    "character": "了",
+    "level": "N2",
+    "meanings": [
+      "Complete",
+      "Finish"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [],
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "了る",
+        "reading": "了",
+        "meaning": "Complete"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-丸",
+    "character": "丸",
+    "level": "N2",
+    "meanings": [
+      "Round",
+      "Full (month)",
+      "Perfection",
+      "-ship",
+      "Pills",
+      "Make Round",
+      "Roll Up",
+      "Curl Up",
+      "Seduce",
+      "Explain Away"
+    ],
+    "onyomi": [
+      "がん"
+    ],
+    "kunyomi": [
+      "まる",
+      "まる.める",
+      "まる.い"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "丸る",
+        "reading": "まる",
+        "meaning": "Round"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-玉",
+    "character": "玉",
+    "level": "N2",
+    "meanings": [
+      "Jewel",
+      "Ball"
+    ],
+    "onyomi": [
+      "ぎょく"
+    ],
+    "kunyomi": [
+      "たま",
+      "たま-",
+      "-だま"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "玉る",
+        "reading": "たま",
+        "meaning": "Jewel"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-久",
+    "character": "久",
+    "level": "N2",
+    "meanings": [
+      "Long Time",
+      "Old Story"
+    ],
+    "onyomi": [
+      "きゅう",
+      "く"
+    ],
+    "kunyomi": [
+      "ひさ.しい"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "久る",
+        "reading": "ひさしい",
+        "meaning": "Long Time"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-戸",
+    "character": "戸",
+    "level": "N2",
+    "meanings": [
+      "Door",
+      "Counter For Houses",
+      "Door Radical (no. 63)"
+    ],
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "と"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "戸る",
+        "reading": "と",
+        "meaning": "Door"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-毛",
+    "character": "毛",
+    "level": "N2",
+    "meanings": [
+      "Fur",
+      "Hair",
+      "Feather",
+      "Down"
+    ],
+    "onyomi": [
+      "もう"
+    ],
+    "kunyomi": [
+      "け"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "毛る",
+        "reading": "け",
+        "meaning": "Fur"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-央",
+    "character": "央",
+    "level": "N2",
+    "meanings": [
+      "Center",
+      "Middle"
+    ],
+    "onyomi": [
+      "おう"
+    ],
+    "kunyomi": [],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "央る",
+        "reading": "央",
+        "meaning": "Center"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-氷",
+    "character": "氷",
+    "level": "N2",
+    "meanings": [
+      "Icicle",
+      "Ice",
+      "Hail",
+      "Freeze",
+      "Congeal"
+    ],
+    "onyomi": [
+      "ひょう"
+    ],
+    "kunyomi": [
+      "こおり",
+      "ひ",
+      "こお.る"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "氷る",
+        "reading": "こおり",
+        "meaning": "Icicle"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-皮",
+    "character": "皮",
+    "level": "N2",
+    "meanings": [
+      "Pelt",
+      "Skin",
+      "Hide",
+      "Leather",
+      "Skin Radical (no. 107)"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "皮る",
+        "reading": "かわ",
+        "meaning": "Pelt"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-皿",
+    "character": "皿",
+    "level": "N2",
+    "meanings": [
+      "Dish",
+      "A Helping",
+      "Plate"
+    ],
+    "onyomi": [
+      "べい"
+    ],
+    "kunyomi": [
+      "さら"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "皿る",
+        "reading": "さら",
+        "meaning": "Dish"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-竹",
+    "character": "竹",
+    "level": "N2",
+    "meanings": [
+      "Bamboo"
+    ],
+    "onyomi": [
+      "ちく"
+    ],
+    "kunyomi": [
+      "たけ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "竹る",
+        "reading": "たけ",
+        "meaning": "Bamboo"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-糸",
+    "character": "糸",
+    "level": "N2",
+    "meanings": [
+      "Thread"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "いと"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "糸る",
+        "reading": "いと",
+        "meaning": "Thread"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-虫",
+    "character": "虫",
+    "level": "N2",
+    "meanings": [
+      "Insect",
+      "Bug",
+      "Temper"
+    ],
+    "onyomi": [
+      "ちゅう",
+      "き"
+    ],
+    "kunyomi": [
+      "むし"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "虫る",
+        "reading": "むし",
+        "meaning": "Insect"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-村",
+    "character": "村",
+    "level": "N2",
+    "meanings": [
+      "Village",
+      "Town"
+    ],
+    "onyomi": [
+      "そん"
+    ],
+    "kunyomi": [
+      "むら"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "村る",
+        "reading": "むら",
+        "meaning": "Village"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-貝",
+    "character": "貝",
+    "level": "N2",
+    "meanings": [
+      "Shellfish"
+    ],
+    "onyomi": [
+      "ばい"
+    ],
+    "kunyomi": [
+      "かい"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "貝る",
+        "reading": "かい",
+        "meaning": "Shellfish"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-池",
+    "character": "池",
+    "level": "N2",
+    "meanings": [
+      "Pond",
+      "Cistern",
+      "Pool",
+      "Reservoir"
+    ],
+    "onyomi": [
+      "ち"
+    ],
+    "kunyomi": [
+      "いけ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "池る",
+        "reading": "いけ",
+        "meaning": "Pond"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-羽",
+    "character": "羽",
+    "level": "N2",
+    "meanings": [
+      "Feathers",
+      "Counter For Birds, Rabbits"
+    ],
+    "onyomi": [
+      "う"
+    ],
+    "kunyomi": [
+      "は",
+      "わ",
+      "はね"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "羽る",
+        "reading": "は",
+        "meaning": "Feathers"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-角",
+    "character": "角",
+    "level": "N2",
+    "meanings": [
+      "Angle",
+      "Corner",
+      "Square",
+      "Horn",
+      "Antlers"
+    ],
+    "onyomi": [
+      "かく"
+    ],
+    "kunyomi": [
+      "かど",
+      "つの"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "角る",
+        "reading": "かど",
+        "meaning": "Angle"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-谷",
+    "character": "谷",
+    "level": "N2",
+    "meanings": [
+      "Valley"
+    ],
+    "onyomi": [
+      "こく"
+    ],
+    "kunyomi": [
+      "たに",
+      "きわ.まる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "谷る",
+        "reading": "たに",
+        "meaning": "Valley"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-麦",
+    "character": "麦",
+    "level": "N2",
+    "meanings": [
+      "Barley",
+      "Wheat"
+    ],
+    "onyomi": [
+      "ばく"
+    ],
+    "kunyomi": [
+      "むぎ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "麦る",
+        "reading": "むぎ",
+        "meaning": "Barley"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-林",
+    "character": "林",
+    "level": "N2",
+    "meanings": [
+      "Grove",
+      "Forest"
+    ],
+    "onyomi": [
+      "りん"
+    ],
+    "kunyomi": [
+      "はやし"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "林る",
+        "reading": "はやし",
+        "meaning": "Grove"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-州",
+    "character": "州",
+    "level": "N2",
+    "meanings": [
+      "State",
+      "Province"
+    ],
+    "onyomi": [
+      "しゅう",
+      "す"
+    ],
+    "kunyomi": [
+      "す"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "州る",
+        "reading": "す",
+        "meaning": "State"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-血",
+    "character": "血",
+    "level": "N2",
+    "meanings": [
+      "Blood"
+    ],
+    "onyomi": [
+      "けつ"
+    ],
+    "kunyomi": [
+      "ち"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "血る",
+        "reading": "ち",
+        "meaning": "Blood"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-星",
+    "character": "星",
+    "level": "N2",
+    "meanings": [
+      "Star",
+      "Spot",
+      "Dot",
+      "Mark"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "ほし",
+      "-ぼし"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "星る",
+        "reading": "ほし",
+        "meaning": "Star"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-札",
+    "character": "札",
+    "level": "N2",
+    "meanings": [
+      "Tag",
+      "Paper Money",
+      "Counter For Bonds",
+      "Placard",
+      "Bid"
+    ],
+    "onyomi": [
+      "さつ"
+    ],
+    "kunyomi": [
+      "ふだ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "札る",
+        "reading": "ふだ",
+        "meaning": "Tag"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-辺",
+    "character": "辺",
+    "level": "N2",
+    "meanings": [
+      "Environs",
+      "Boundary",
+      "Border",
+      "Vicinity"
+    ],
+    "onyomi": [
+      "へん"
+    ],
+    "kunyomi": [
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "辺る",
+        "reading": "あたり",
+        "meaning": "Environs"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-弱",
+    "character": "弱",
+    "level": "N2",
+    "meanings": [
+      "Weak",
+      "Frail"
+    ],
+    "onyomi": [
+      "じゃく"
+    ],
+    "kunyomi": [
+      "よわ.い",
+      "よわ.る",
+      "よわ.まる",
+      "よわ.める"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "弱る",
+        "reading": "よわい",
+        "meaning": "Weak"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-黄",
+    "character": "黄",
+    "level": "N2",
+    "meanings": [
+      "Yellow"
+    ],
+    "onyomi": [
+      "こう",
+      "おう"
+    ],
+    "kunyomi": [
+      "き",
+      "こ-"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "黄る",
+        "reading": "き",
+        "meaning": "Yellow"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-森",
+    "character": "森",
+    "level": "N2",
+    "meanings": [
+      "Forest",
+      "Woods"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "もり"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "森る",
+        "reading": "もり",
+        "meaning": "Forest"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-雲",
+    "character": "雲",
+    "level": "N2",
+    "meanings": [
+      "Cloud"
+    ],
+    "onyomi": [
+      "うん"
+    ],
+    "kunyomi": [
+      "くも",
+      "-ぐも"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "雲る",
+        "reading": "くも",
+        "meaning": "Cloud"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-県",
+    "character": "県",
+    "level": "N2",
+    "meanings": [
+      "Prefecture"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "か.ける"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "県る",
+        "reading": "かける",
+        "meaning": "Prefecture"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-軽",
+    "character": "軽",
+    "level": "N2",
+    "meanings": [
+      "Lightly",
+      "Trifling",
+      "Unimportant"
+    ],
+    "onyomi": [
+      "けい",
+      "きょう",
+      "きん"
+    ],
+    "kunyomi": [
+      "かる.い",
+      "かろ.やか",
+      "かろ.んじる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "軽る",
+        "reading": "かるい",
+        "meaning": "Lightly"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-農",
+    "character": "農",
+    "level": "N2",
+    "meanings": [
+      "Agriculture",
+      "Farmers"
+    ],
+    "onyomi": [
+      "のう"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "農る",
+        "reading": "農",
+        "meaning": "Agriculture"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-鉄",
+    "character": "鉄",
+    "level": "N2",
+    "meanings": [
+      "Iron"
+    ],
+    "onyomi": [
+      "てつ"
+    ],
+    "kunyomi": [
+      "くろがね"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "鉄る",
+        "reading": "くろがね",
+        "meaning": "Iron"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-算",
+    "character": "算",
+    "level": "N2",
+    "meanings": [
+      "Calculate",
+      "Divining",
+      "Number",
+      "Abacus",
+      "Probability"
+    ],
+    "onyomi": [
+      "さん"
+    ],
+    "kunyomi": [
+      "そろ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "算る",
+        "reading": "そろ",
+        "meaning": "Calculate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-線",
+    "character": "線",
+    "level": "N2",
+    "meanings": [
+      "Line",
+      "Track"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "すじ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "線る",
+        "reading": "すじ",
+        "meaning": "Line"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-仲",
+    "character": "仲",
+    "level": "N2",
+    "meanings": [
+      "Go-between",
+      "Relationship"
+    ],
+    "onyomi": [
+      "ちゅう"
+    ],
+    "kunyomi": [
+      "なか"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "仲る",
+        "reading": "なか",
+        "meaning": "Go-between"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-低",
+    "character": "低",
+    "level": "N2",
+    "meanings": [
+      "Lower",
+      "Short",
+      "Humble"
+    ],
+    "onyomi": [
+      "てい"
+    ],
+    "kunyomi": [
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "低る",
+        "reading": "ひくい",
+        "meaning": "Lower"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-岸",
+    "character": "岸",
+    "level": "N2",
+    "meanings": [
+      "Beach"
+    ],
+    "onyomi": [
+      "がん"
+    ],
+    "kunyomi": [
+      "きし"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "岸る",
+        "reading": "きし",
+        "meaning": "Beach"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-波",
+    "character": "波",
+    "level": "N2",
+    "meanings": [
+      "Waves",
+      "Billows",
+      "Poland"
+    ],
+    "onyomi": [
+      "は"
+    ],
+    "kunyomi": [
+      "なみ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "波る",
+        "reading": "なみ",
+        "meaning": "Waves"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-拾",
+    "character": "拾",
+    "level": "N2",
+    "meanings": [
+      "Pick Up",
+      "Gather",
+      "Find",
+      "Go On Foot",
+      "Ten"
+    ],
+    "onyomi": [
+      "しゅう",
+      "じゅう"
+    ],
+    "kunyomi": [
+      "ひろ.う"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "拾る",
+        "reading": "ひろう",
+        "meaning": "Pick Up"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-秒",
+    "character": "秒",
+    "level": "N2",
+    "meanings": [
+      "Second (1/60 Minute)"
+    ],
+    "onyomi": [
+      "びょう"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "秒る",
+        "reading": "秒",
+        "meaning": "Second (1/60 Minute)"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-競",
+    "character": "競",
+    "level": "N2",
+    "meanings": [
+      "Emulate",
+      "Compete With",
+      "Bid",
+      "Sell At Auction",
+      "Bout",
+      "Contest",
+      "Race"
+    ],
+    "onyomi": [
+      "きょう",
+      "けい"
+    ],
+    "kunyomi": [
+      "きそ.う",
+      "せ.る",
+      "くら.べる"
+    ],
+    "strokes": 20,
+    "examples": [
+      {
+        "word": "競る",
+        "reading": "きそう",
+        "meaning": "Emulate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-令",
+    "character": "令",
+    "level": "N2",
+    "meanings": [
+      "Orders",
+      "Ancient Laws",
+      "Command",
+      "Decree"
+    ],
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "令る",
+        "reading": "令",
+        "meaning": "Orders"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-根",
+    "character": "根",
+    "level": "N2",
+    "meanings": [
+      "Root",
+      "Radical",
+      "Head (pimple)"
+    ],
+    "onyomi": [
+      "こん"
+    ],
+    "kunyomi": [
+      "ね",
+      "-ね"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "根る",
+        "reading": "ね",
+        "meaning": "Root"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-倍",
+    "character": "倍",
+    "level": "N2",
+    "meanings": [
+      "Double",
+      "Twice",
+      "Times",
+      "Fold"
+    ],
+    "onyomi": [
+      "ばい"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "倍る",
+        "reading": "倍",
+        "meaning": "Double"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-島",
+    "character": "島",
+    "level": "N2",
+    "meanings": [
+      "Island"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "しま"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "島る",
+        "reading": "しま",
+        "meaning": "Island"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-祭",
+    "character": "祭",
+    "level": "N2",
+    "meanings": [
+      "Ritual",
+      "Offer Prayers",
+      "Celebrate",
+      "Deify",
+      "Enshrine",
+      "Worship"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [
+      "まつ.る",
+      "まつ.り",
+      "まつり"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "祭る",
+        "reading": "まつる",
+        "meaning": "Ritual"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-章",
+    "character": "章",
+    "level": "N2",
+    "meanings": [
+      "Badge",
+      "Chapter",
+      "Composition",
+      "Poem",
+      "Design"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "章る",
+        "reading": "章",
+        "meaning": "Badge"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-童",
+    "character": "童",
+    "level": "N2",
+    "meanings": [
+      "Juvenile",
+      "Child"
+    ],
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [
+      "わらべ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "童る",
+        "reading": "わらべ",
+        "meaning": "Juvenile"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-階",
+    "character": "階",
+    "level": "N2",
+    "meanings": [
+      "Storey",
+      "Stair",
+      "Counter For Storeys Of A Building"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "きざはし"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "階る",
+        "reading": "きざはし",
+        "meaning": "Storey"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-植",
+    "character": "植",
+    "level": "N2",
+    "meanings": [
+      "Plant"
+    ],
+    "onyomi": [
+      "しょく"
+    ],
+    "kunyomi": [
+      "う.える",
+      "う.わる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "植る",
+        "reading": "うえる",
+        "meaning": "Plant"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-温",
+    "character": "温",
+    "level": "N2",
+    "meanings": [
+      "Warm"
+    ],
+    "onyomi": [
+      "おん"
+    ],
+    "kunyomi": [
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める",
+      "ぬく"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "温る",
+        "reading": "あたたか",
+        "meaning": "Warm"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-湯",
+    "character": "湯",
+    "level": "N2",
+    "meanings": [
+      "Hot Water",
+      "Bath",
+      "Hot Spring"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "ゆ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "湯る",
+        "reading": "ゆ",
+        "meaning": "Hot Water"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-短",
+    "character": "短",
+    "level": "N2",
+    "meanings": [
+      "Short",
+      "Brevity",
+      "Fault",
+      "Defect",
+      "Weak Point"
+    ],
+    "onyomi": [
+      "たん"
+    ],
+    "kunyomi": [
+      "みじか.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "短る",
+        "reading": "みじかい",
+        "meaning": "Short"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-泉",
+    "character": "泉",
+    "level": "N2",
+    "meanings": [
+      "Spring",
+      "Fountain"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "いずみ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "泉る",
+        "reading": "いずみ",
+        "meaning": "Spring"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-橋",
+    "character": "橋",
+    "level": "N2",
+    "meanings": [
+      "Bridge"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "はし"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "橋る",
+        "reading": "はし",
+        "meaning": "Bridge"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-緑",
+    "character": "緑",
+    "level": "N2",
+    "meanings": [
+      "Green"
+    ],
+    "onyomi": [
+      "りょく",
+      "ろく"
+    ],
+    "kunyomi": [
+      "みどり"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "緑る",
+        "reading": "みどり",
+        "meaning": "Green"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-練",
+    "character": "練",
+    "level": "N2",
+    "meanings": [
+      "Practice",
+      "Gloss",
+      "Train",
+      "Drill",
+      "Polish",
+      "Refine"
+    ],
+    "onyomi": [
+      "れん"
+    ],
+    "kunyomi": [
+      "ね.る",
+      "ね.り"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "練る",
+        "reading": "ねる",
+        "meaning": "Practice"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-億",
+    "character": "億",
+    "level": "N2",
+    "meanings": [
+      "Hundred Million",
+      "10**8"
+    ],
+    "onyomi": [
+      "おく"
+    ],
+    "kunyomi": [],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "億る",
+        "reading": "億",
+        "meaning": "Hundred Million"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-課",
+    "character": "課",
+    "level": "N2",
+    "meanings": [
+      "Chapter",
+      "Lesson",
+      "Section",
+      "Department",
+      "Division",
+      "Counter For Chapters (of A Book)"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "課る",
+        "reading": "課",
+        "meaning": "Chapter"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-賞",
+    "character": "賞",
+    "level": "N2",
+    "meanings": [
+      "Prize",
+      "Reward",
+      "Praise"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "ほ.める"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "賞る",
+        "reading": "ほめる",
+        "meaning": "Prize"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-輪",
+    "character": "輪",
+    "level": "N2",
+    "meanings": [
+      "Wheel",
+      "Ring",
+      "Circle",
+      "Link",
+      "Loop",
+      "Counter For Wheels And Flowers"
+    ],
+    "onyomi": [
+      "りん"
+    ],
+    "kunyomi": [
+      "わ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "輪る",
+        "reading": "わ",
+        "meaning": "Wheel"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-像",
+    "character": "像",
+    "level": "N2",
+    "meanings": [
+      "Statue",
+      "Picture",
+      "Image",
+      "Figure",
+      "Portrait"
+    ],
+    "onyomi": [
+      "ぞう"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "像る",
+        "reading": "像",
+        "meaning": "Statue"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-卒",
+    "character": "卒",
+    "level": "N2",
+    "meanings": [
+      "Graduate",
+      "Soldier",
+      "Private",
+      "Die"
+    ],
+    "onyomi": [
+      "そつ",
+      "しゅつ"
+    ],
+    "kunyomi": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "卒る",
+        "reading": "そっする",
+        "meaning": "Graduate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-協",
+    "character": "協",
+    "level": "N2",
+    "meanings": [
+      "Co-",
+      "Cooperation"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "協る",
+        "reading": "協",
+        "meaning": "Co-"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-周",
+    "character": "周",
+    "level": "N2",
+    "meanings": [
+      "Circumference",
+      "Circuit",
+      "Lap"
+    ],
+    "onyomi": [
+      "しゅう"
+    ],
+    "kunyomi": [
+      "まわ.り"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "周る",
+        "reading": "まわり",
+        "meaning": "Circumference"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-囲",
+    "character": "囲",
+    "level": "N2",
+    "meanings": [
+      "Surround",
+      "Besiege",
+      "Store",
+      "Paling",
+      "Enclosure",
+      "Encircle",
+      "Preserve",
+      "Keep"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [
+      "かこ.む",
+      "かこ.う",
+      "かこ.い"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "囲る",
+        "reading": "かこむ",
+        "meaning": "Surround"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-固",
+    "character": "固",
+    "level": "N2",
+    "meanings": [
+      "Harden",
+      "Set",
+      "Clot",
+      "Curdle"
+    ],
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "かた.める",
+      "かた.まる",
+      "かた.まり",
+      "かた.い"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "固る",
+        "reading": "かためる",
+        "meaning": "Harden"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-季",
+    "character": "季",
+    "level": "N2",
+    "meanings": [
+      "Seasons"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "季る",
+        "reading": "季",
+        "meaning": "Seasons"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-希",
+    "character": "希",
+    "level": "N2",
+    "meanings": [
+      "Hope",
+      "Beg",
+      "Request",
+      "Pray",
+      "Beseech",
+      "Greece",
+      "Dilute (acid)",
+      "Rare",
+      "Few",
+      "Phenomenal"
+    ],
+    "onyomi": [
+      "き",
+      "け"
+    ],
+    "kunyomi": [
+      "まれ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "希る",
+        "reading": "まれ",
+        "meaning": "Hope"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-材",
+    "character": "材",
+    "level": "N2",
+    "meanings": [
+      "Lumber",
+      "Log",
+      "Timber",
+      "Wood",
+      "Materials",
+      "Ingredients",
+      "Talent"
+    ],
+    "onyomi": [
+      "ざい"
+    ],
+    "kunyomi": [],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "材る",
+        "reading": "材",
+        "meaning": "Lumber"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-芸",
+    "character": "芸",
+    "level": "N2",
+    "meanings": [
+      "Technique",
+      "Art",
+      "Craft",
+      "Performance",
+      "Acting",
+      "Trick",
+      "Stunt"
+    ],
+    "onyomi": [
+      "げい",
+      "うん"
+    ],
+    "kunyomi": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "芸る",
+        "reading": "うえる",
+        "meaning": "Technique"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-技",
+    "character": "技",
+    "level": "N2",
+    "meanings": [
+      "Skill",
+      "Art",
+      "Craft",
+      "Ability",
+      "Feat",
+      "Performance",
+      "Vocation",
+      "Arts"
+    ],
+    "onyomi": [
+      "ぎ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "技る",
+        "reading": "わざ",
+        "meaning": "Skill"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-骨",
+    "character": "骨",
+    "level": "N2",
+    "meanings": [
+      "Skeleton",
+      "Bone",
+      "Remains",
+      "Frame"
+    ],
+    "onyomi": [
+      "こつ"
+    ],
+    "kunyomi": [
+      "ほね"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "骨る",
+        "reading": "ほね",
+        "meaning": "Skeleton"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-寺",
+    "character": "寺",
+    "level": "N2",
+    "meanings": [
+      "Buddhist Temple"
+    ],
+    "onyomi": [
+      "じ"
+    ],
+    "kunyomi": [
+      "てら"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "寺る",
+        "reading": "てら",
+        "meaning": "Buddhist Temple"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-岩",
+    "character": "岩",
+    "level": "N2",
+    "meanings": [
+      "Boulder",
+      "Rock",
+      "Cliff"
+    ],
+    "onyomi": [
+      "がん"
+    ],
+    "kunyomi": [
+      "いわ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "岩る",
+        "reading": "いわ",
+        "meaning": "Boulder"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-区",
+    "character": "区",
+    "level": "N2",
+    "meanings": [
+      "Ward",
+      "District"
+    ],
+    "onyomi": [
+      "く",
+      "おう",
+      "こう"
+    ],
+    "kunyomi": [],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "区る",
+        "reading": "区",
+        "meaning": "Ward"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-坂",
+    "character": "坂",
+    "level": "N2",
+    "meanings": [
+      "Slope",
+      "Incline",
+      "Hill"
+    ],
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [
+      "さか"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "坂る",
+        "reading": "さか",
+        "meaning": "Slope"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-勇",
+    "character": "勇",
+    "level": "N2",
+    "meanings": [
+      "Courage",
+      "Cheer Up",
+      "Be In High Spirits",
+      "Bravery",
+      "Heroism"
+    ],
+    "onyomi": [
+      "ゆう"
+    ],
+    "kunyomi": [
+      "いさ.む"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "勇る",
+        "reading": "いさむ",
+        "meaning": "Courage"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-毒",
+    "character": "毒",
+    "level": "N2",
+    "meanings": [
+      "Poison",
+      "Virus",
+      "Venom",
+      "Germ",
+      "Harm",
+      "Injury",
+      "Spite"
+    ],
+    "onyomi": [
+      "どく"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "毒る",
+        "reading": "毒",
+        "meaning": "Poison"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-浅",
+    "character": "浅",
+    "level": "N2",
+    "meanings": [
+      "Shallow",
+      "Superficial",
+      "Frivolous",
+      "Wretched",
+      "Shameful"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "あさ.い"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "浅る",
+        "reading": "あさい",
+        "meaning": "Shallow"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-軍",
+    "character": "軍",
+    "level": "N2",
+    "meanings": [
+      "Army",
+      "Force",
+      "Troops",
+      "War",
+      "Battle"
+    ],
+    "onyomi": [
+      "ぐん"
+    ],
+    "kunyomi": [
+      "いくさ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "軍る",
+        "reading": "いくさ",
+        "meaning": "Army"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-仏",
+    "character": "仏",
+    "level": "N2",
+    "meanings": [
+      "Buddha",
+      "The Dead",
+      "France"
+    ],
+    "onyomi": [
+      "ぶつ",
+      "ふつ"
+    ],
+    "kunyomi": [
+      "ほとけ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "仏る",
+        "reading": "ほとけ",
+        "meaning": "Buddha"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-築",
+    "character": "築",
+    "level": "N2",
+    "meanings": [
+      "Fabricate",
+      "Build",
+      "Construct"
+    ],
+    "onyomi": [
+      "ちく"
+    ],
+    "kunyomi": [
+      "きず.く"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "築る",
+        "reading": "きずく",
+        "meaning": "Fabricate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-門",
+    "character": "門",
+    "level": "N2",
+    "meanings": [
+      "Gate",
+      "Counter For Cannons"
+    ],
+    "onyomi": [
+      "もん"
+    ],
+    "kunyomi": [
+      "かど",
+      "と"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "門る",
+        "reading": "かど",
+        "meaning": "Gate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-荷",
+    "character": "荷",
+    "level": "N2",
+    "meanings": [
+      "Baggage",
+      "Shoulder-pole Load",
+      "Bear (a Burden)",
+      "Shoulder (a Gun)",
+      "Load",
+      "Cargo",
+      "Freight"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "に"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "荷る",
+        "reading": "に",
+        "meaning": "Baggage"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-府",
+    "character": "府",
+    "level": "N2",
+    "meanings": [
+      "Borough",
+      "Urban Prefecture",
+      "Govt Office",
+      "Representative Body",
+      "Storehouse"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "府る",
+        "reading": "府",
+        "meaning": "Borough"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-浴",
+    "character": "浴",
+    "level": "N2",
+    "meanings": [
+      "Bathe",
+      "Be Favored With",
+      "Bask In"
+    ],
+    "onyomi": [
+      "よく"
+    ],
+    "kunyomi": [
+      "あ.びる",
+      "あ.びせる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "浴る",
+        "reading": "あびる",
+        "meaning": "Bathe"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-専",
+    "character": "専",
+    "level": "N2",
+    "meanings": [
+      "Specialty",
+      "Exclusive",
+      "Mainly",
+      "Solely"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "もっぱ.ら"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "専る",
+        "reading": "もっぱら",
+        "meaning": "Specialty"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-細",
+    "character": "細",
+    "level": "N2",
+    "meanings": [
+      "Dainty",
+      "Get Thin",
+      "Taper",
+      "Slender",
+      "Narrow",
+      "Detailed",
+      "Precise"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [
+      "ほそ.い",
+      "ほそ.る",
+      "こま.か",
+      "こま.かい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "細る",
+        "reading": "ほそい",
+        "meaning": "Dainty"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-鼻",
+    "character": "鼻",
+    "level": "N2",
+    "meanings": [
+      "Nose",
+      "Snout"
+    ],
+    "onyomi": [
+      "び"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "鼻る",
+        "reading": "はな",
+        "meaning": "Nose"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-兵",
+    "character": "兵",
+    "level": "N2",
+    "meanings": [
+      "Soldier",
+      "Private",
+      "Troops",
+      "Army",
+      "Warfare",
+      "Strategy",
+      "Tactics"
+    ],
+    "onyomi": [
+      "へい",
+      "ひょう"
+    ],
+    "kunyomi": [
+      "つわもの"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "兵る",
+        "reading": "つわもの",
+        "meaning": "Soldier"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-塩",
+    "character": "塩",
+    "level": "N2",
+    "meanings": [
+      "Salt"
+    ],
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "しお"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "塩る",
+        "reading": "しお",
+        "meaning": "Salt"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-栄",
+    "character": "栄",
+    "level": "N2",
+    "meanings": [
+      "Flourish",
+      "Prosperity",
+      "Honor",
+      "Glory",
+      "Splendor"
+    ],
+    "onyomi": [
+      "えい",
+      "よう"
+    ],
+    "kunyomi": [
+      "さか.える",
+      "は.え",
+      "-ば.え",
+      "は.える",
+      "え"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "栄る",
+        "reading": "さかえる",
+        "meaning": "Flourish"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-干",
+    "character": "干",
+    "level": "N2",
+    "meanings": [
+      "Dry",
+      "Parch",
+      "Ebb",
+      "Recede",
+      "Interfere",
+      "Intercede"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "ほ.す",
+      "ほ.し-",
+      "-ぼ.し",
+      "ひ.る"
+    ],
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "干る",
+        "reading": "ほす",
+        "meaning": "Dry"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-底",
+    "character": "底",
+    "level": "N2",
+    "meanings": [
+      "Bottom",
+      "Sole",
+      "Depth",
+      "Bottom Price",
+      "Base",
+      "Kind",
+      "Sort"
+    ],
+    "onyomi": [
+      "てい"
+    ],
+    "kunyomi": [
+      "そこ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "底る",
+        "reading": "そこ",
+        "meaning": "Bottom"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-署",
+    "character": "署",
+    "level": "N2",
+    "meanings": [
+      "Signature",
+      "Govt Office",
+      "Police Station"
+    ],
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "署る",
+        "reading": "署",
+        "meaning": "Signature"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-恋",
+    "character": "恋",
+    "level": "N2",
+    "meanings": [
+      "Romance",
+      "In Love",
+      "Yearn For",
+      "Miss",
+      "Darling"
+    ],
+    "onyomi": [
+      "れん"
+    ],
+    "kunyomi": [
+      "こ.う",
+      "こい",
+      "こい.しい"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "恋る",
+        "reading": "こう",
+        "meaning": "Romance"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-訓",
+    "character": "訓",
+    "level": "N2",
+    "meanings": [
+      "Instruction",
+      "Japanese Character Reading",
+      "Explanation",
+      "Read"
+    ],
+    "onyomi": [
+      "くん",
+      "きん"
+    ],
+    "kunyomi": [
+      "おし.える",
+      "よ.む",
+      "くん.ずる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "訓る",
+        "reading": "おしえる",
+        "meaning": "Instruction"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-祈",
+    "character": "祈",
+    "level": "N2",
+    "meanings": [
+      "Pray",
+      "Wish"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "いの.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning": "Pray"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-焼",
+    "character": "焼",
+    "level": "N2",
+    "meanings": [
+      "Bake",
+      "Burning"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "や.く",
+      "や.き",
+      "や.き-",
+      "-や.き",
+      "や.ける"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "焼る",
+        "reading": "やく",
+        "meaning": "Bake"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-胸",
+    "character": "胸",
+    "level": "N2",
+    "meanings": [
+      "Bosom",
+      "Breast",
+      "Chest",
+      "Heart",
+      "Feelings"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "むね",
+      "むな-"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "胸る",
+        "reading": "むね",
+        "meaning": "Bosom"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-脳",
+    "character": "脳",
+    "level": "N2",
+    "meanings": [
+      "Brain",
+      "Memory"
+    ],
+    "onyomi": [
+      "のう",
+      "どう"
+    ],
+    "kunyomi": [
+      "のうずる"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "脳る",
+        "reading": "のうずる",
+        "meaning": "Brain"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-枚",
+    "character": "枚",
+    "level": "N2",
+    "meanings": [
+      "Sheet Of...",
+      "Counter For Flat Thin Objects Or Sheets"
+    ],
+    "onyomi": [
+      "まい",
+      "ばい"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "枚る",
+        "reading": "枚",
+        "meaning": "Sheet Of..."
+      }
+    ]
+  },
+  {
+    "id": "k-n2-禁",
+    "character": "禁",
+    "level": "N2",
+    "meanings": [
+      "Prohibition",
+      "Ban",
+      "Forbid"
+    ],
+    "onyomi": [
+      "きん"
+    ],
+    "kunyomi": [],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "禁る",
+        "reading": "禁",
+        "meaning": "Prohibition"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-喫",
+    "character": "喫",
+    "level": "N2",
+    "meanings": [
+      "Consume",
+      "Eat",
+      "Drink",
+      "Smoke",
+      "Receive (a Blow)"
+    ],
+    "onyomi": [
+      "きつ"
+    ],
+    "kunyomi": [
+      "の.む"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "喫る",
+        "reading": "のむ",
+        "meaning": "Consume"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-減",
+    "character": "減",
+    "level": "N2",
+    "meanings": [
+      "Dwindle",
+      "Decrease",
+      "Reduce",
+      "Decline",
+      "Curtail",
+      "Get Hungry"
+    ],
+    "onyomi": [
+      "げん"
+    ],
+    "kunyomi": [
+      "へ.る",
+      "へ.らす"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "減る",
+        "reading": "へる",
+        "meaning": "Dwindle"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-順",
+    "character": "順",
+    "level": "N2",
+    "meanings": [
+      "Obey",
+      "Order",
+      "Turn",
+      "Right",
+      "Docility",
+      "Occasion"
+    ],
+    "onyomi": [
+      "じゅん"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "順る",
+        "reading": "順",
+        "meaning": "Obey"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-布",
+    "character": "布",
+    "level": "N2",
+    "meanings": [
+      "Linen",
+      "Cloth",
+      "Spread",
+      "Distribute"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "ぬの"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "布る",
+        "reading": "ぬの",
+        "meaning": "Linen"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-詞",
+    "character": "詞",
+    "level": "N2",
+    "meanings": [
+      "Part Of Speech",
+      "Words",
+      "Poetry"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "ことば"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "詞る",
+        "reading": "ことば",
+        "meaning": "Part Of Speech"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-歴",
+    "character": "歴",
+    "level": "N2",
+    "meanings": [
+      "Curriculum",
+      "Continuation",
+      "Passage Of Time"
+    ],
+    "onyomi": [
+      "れき",
+      "れっき"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "歴る",
+        "reading": "歴",
+        "meaning": "Curriculum"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-冊",
+    "character": "冊",
+    "level": "N2",
+    "meanings": [
+      "Tome",
+      "Counter For Books",
+      "Volume"
+    ],
+    "onyomi": [
+      "さつ",
+      "さく"
+    ],
+    "kunyomi": [
+      "ふみ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "冊る",
+        "reading": "ふみ",
+        "meaning": "Tome"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-宇",
+    "character": "宇",
+    "level": "N2",
+    "meanings": [
+      "Eaves",
+      "Roof",
+      "House",
+      "Heaven"
+    ],
+    "onyomi": [
+      "う"
+    ],
+    "kunyomi": [],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "宇る",
+        "reading": "宇",
+        "meaning": "Eaves"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-団",
+    "character": "団",
+    "level": "N2",
+    "meanings": [
+      "Group",
+      "Association"
+    ],
+    "onyomi": [
+      "だん",
+      "とん"
+    ],
+    "kunyomi": [
+      "かたまり",
+      "まる.い"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "団る",
+        "reading": "かたまり",
+        "meaning": "Group"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-暴",
+    "character": "暴",
+    "level": "N2",
+    "meanings": [
+      "Outburst",
+      "Rave",
+      "Fret",
+      "Force",
+      "Violence",
+      "Cruelty",
+      "Outrage"
+    ],
+    "onyomi": [
+      "ぼう",
+      "ばく"
+    ],
+    "kunyomi": [
+      "あば.く",
+      "あば.れる"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "暴る",
+        "reading": "あばく",
+        "meaning": "Outburst"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-混",
+    "character": "混",
+    "level": "N2",
+    "meanings": [
+      "Mix",
+      "Blend",
+      "Confuse"
+    ],
+    "onyomi": [
+      "こん"
+    ],
+    "kunyomi": [
+      "ま.じる",
+      "-ま.じり",
+      "ま.ざる",
+      "ま.ぜる",
+      "こ.む"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "混る",
+        "reading": "まじる",
+        "meaning": "Mix"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-乱",
+    "character": "乱",
+    "level": "N2",
+    "meanings": [
+      "Riot",
+      "War",
+      "Disorder",
+      "Disturb"
+    ],
+    "onyomi": [
+      "らん",
+      "ろん"
+    ],
+    "kunyomi": [
+      "みだ.れる",
+      "みだ.る",
+      "みだ.す",
+      "みだ",
+      "おさ.める",
+      "わた.る"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "乱る",
+        "reading": "みだれる",
+        "meaning": "Riot"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-改",
+    "character": "改",
+    "level": "N2",
+    "meanings": [
+      "Reformation",
+      "Change",
+      "Modify",
+      "Mend",
+      "Renew",
+      "Examine",
+      "Inspect",
+      "Search"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "あらた.める",
+      "あらた.まる"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "改る",
+        "reading": "あらためる",
+        "meaning": "Reformation"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-絡",
+    "character": "絡",
+    "level": "N2",
+    "meanings": [
+      "Entwine",
+      "Coil Around",
+      "Get Caught In"
+    ],
+    "onyomi": [
+      "らく"
+    ],
+    "kunyomi": [
+      "から.む",
+      "から.まる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "絡る",
+        "reading": "からむ",
+        "meaning": "Entwine"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-比",
+    "character": "比",
+    "level": "N2",
+    "meanings": [
+      "Compare",
+      "Race",
+      "Ratio",
+      "Philippines"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "くら.べる"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "比る",
+        "reading": "くらべる",
+        "meaning": "Compare"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-被",
+    "character": "被",
+    "level": "N2",
+    "meanings": [
+      "Incur",
+      "Cover",
+      "Veil",
+      "Brood Over",
+      "Shelter",
+      "Wear",
+      "Put On",
+      "Be Exposed (film)",
+      "Receiving"
+    ],
+    "onyomi": [
+      "ひ"
+    ],
+    "kunyomi": [
+      "こうむ.る",
+      "おお.う",
+      "かぶ.る",
+      "かぶ.せる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "被る",
+        "reading": "こうむる",
+        "meaning": "Incur"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-震",
+    "character": "震",
+    "level": "N2",
+    "meanings": [
+      "Quake",
+      "Shake",
+      "Tremble",
+      "Quiver",
+      "Shiver"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "ふる.う",
+      "ふる.える"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "震る",
+        "reading": "ふるう",
+        "meaning": "Quake"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-械",
+    "character": "械",
+    "level": "N2",
+    "meanings": [
+      "Contraption",
+      "Fetter",
+      "Machine",
+      "Instrument"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "かせ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "械る",
+        "reading": "かせ",
+        "meaning": "Contraption"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-個",
+    "character": "個",
+    "level": "N2",
+    "meanings": [
+      "Individual",
+      "Counter For Articles"
+    ],
+    "onyomi": [
+      "こ",
+      "か"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "個る",
+        "reading": "個",
+        "meaning": "Individual"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-圧",
+    "character": "圧",
+    "level": "N2",
+    "meanings": [
+      "Pressure",
+      "Push",
+      "Overwhelm",
+      "Oppress",
+      "Dominate"
+    ],
+    "onyomi": [
+      "あつ",
+      "えん",
+      "おう"
+    ],
+    "kunyomi": [
+      "お.す",
+      "へ.す",
+      "おさ.える",
+      "お.さえる"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "圧る",
+        "reading": "おす",
+        "meaning": "Pressure"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-厚",
+    "character": "厚",
+    "level": "N2",
+    "meanings": [
+      "Thick",
+      "Heavy",
+      "Rich",
+      "Kind",
+      "Cordial",
+      "Brazen",
+      "Shameless"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "あつ.い",
+      "あか"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "厚る",
+        "reading": "あつい",
+        "meaning": "Thick"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-防",
+    "character": "防",
+    "level": "N2",
+    "meanings": [
+      "Ward Off",
+      "Defend",
+      "Protect",
+      "Resist"
+    ],
+    "onyomi": [
+      "ぼう"
+    ],
+    "kunyomi": [
+      "ふせ.ぐ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "防る",
+        "reading": "ふせぐ",
+        "meaning": "Ward Off"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-史",
+    "character": "史",
+    "level": "N2",
+    "meanings": [
+      "History",
+      "Chronicle"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "史る",
+        "reading": "史",
+        "meaning": "History"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-委",
+    "character": "委",
+    "level": "N2",
+    "meanings": [
+      "Committee",
+      "Entrust To",
+      "Leave To",
+      "Devote",
+      "Discard"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [
+      "ゆだ.ねる"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "委る",
+        "reading": "ゆだねる",
+        "meaning": "Committee"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-査",
+    "character": "査",
+    "level": "N2",
+    "meanings": [
+      "Investigate"
+    ],
+    "onyomi": [
+      "さ"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "査る",
+        "reading": "査",
+        "meaning": "Investigate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-総",
+    "character": "総",
+    "level": "N2",
+    "meanings": [
+      "General",
+      "Whole",
+      "All",
+      "Full",
+      "Total"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "す.べて",
+      "すべ.て",
+      "ふさ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "総る",
+        "reading": "すべて",
+        "meaning": "General"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-設",
+    "character": "設",
+    "level": "N2",
+    "meanings": [
+      "Establishment",
+      "Provision",
+      "Prepare"
+    ],
+    "onyomi": [
+      "せつ"
+    ],
+    "kunyomi": [
+      "もう.ける"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "設る",
+        "reading": "もうける",
+        "meaning": "Establishment"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-省",
+    "character": "省",
+    "level": "N2",
+    "meanings": [
+      "Focus",
+      "Government Ministry",
+      "Conserve"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [
+      "かえり.みる",
+      "はぶ.く"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "省る",
+        "reading": "かえりみる",
+        "meaning": "Focus"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-税",
+    "character": "税",
+    "level": "N2",
+    "meanings": [
+      "Tax",
+      "Duty"
+    ],
+    "onyomi": [
+      "ぜい"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "税る",
+        "reading": "税",
+        "meaning": "Tax"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-各",
+    "character": "各",
+    "level": "N2",
+    "meanings": [
+      "Each",
+      "Every",
+      "Either"
+    ],
+    "onyomi": [
+      "かく"
+    ],
+    "kunyomi": [
+      "おのおの"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "各る",
+        "reading": "おのおの",
+        "meaning": "Each"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-勢",
+    "character": "勢",
+    "level": "N2",
+    "meanings": [
+      "Forces",
+      "Energy",
+      "Military Strength"
+    ],
+    "onyomi": [
+      "せい",
+      "ぜい"
+    ],
+    "kunyomi": [
+      "いきお.い",
+      "はずみ"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "勢る",
+        "reading": "いきおい",
+        "meaning": "Forces"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-営",
+    "character": "営",
+    "level": "N2",
+    "meanings": [
+      "Occupation",
+      "Camp",
+      "Perform",
+      "Build",
+      "Conduct (business)"
+    ],
+    "onyomi": [
+      "えい"
+    ],
+    "kunyomi": [
+      "いとな.む",
+      "いとな.み"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "営る",
+        "reading": "いとなむ",
+        "meaning": "Occupation"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-領",
+    "character": "領",
+    "level": "N2",
+    "meanings": [
+      "Jurisdiction",
+      "Dominion",
+      "Territory",
+      "Fief",
+      "Reign"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [
+      "えり"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "領る",
+        "reading": "えり",
+        "meaning": "Jurisdiction"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-副",
+    "character": "副",
+    "level": "N2",
+    "meanings": [
+      "Vice-",
+      "Assistant",
+      "Aide",
+      "Duplicate",
+      "Copy"
+    ],
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "副る",
+        "reading": "副",
+        "meaning": "Vice-"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-域",
+    "character": "域",
+    "level": "N2",
+    "meanings": [
+      "Range",
+      "Region",
+      "Limits",
+      "Stage",
+      "Level"
+    ],
+    "onyomi": [
+      "いき"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "域る",
+        "reading": "域",
+        "meaning": "Range"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-停",
+    "character": "停",
+    "level": "N2",
+    "meanings": [
+      "Halt",
+      "Stopping"
+    ],
+    "onyomi": [
+      "てい"
+    ],
+    "kunyomi": [
+      "と.める",
+      "と.まる"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "停る",
+        "reading": "とめる",
+        "meaning": "Halt"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-革",
+    "character": "革",
+    "level": "N2",
+    "meanings": [
+      "Leather",
+      "Skin",
+      "Reform",
+      "Become Serious"
+    ],
+    "onyomi": [
+      "かく"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "革る",
+        "reading": "かわ",
+        "meaning": "Leather"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-律",
+    "character": "律",
+    "level": "N2",
+    "meanings": [
+      "Rhythm",
+      "Law",
+      "Regulation",
+      "Gauge",
+      "Control"
+    ],
+    "onyomi": [
+      "りつ",
+      "りち",
+      "れつ"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "律る",
+        "reading": "律",
+        "meaning": "Rhythm"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-準",
+    "character": "準",
+    "level": "N2",
+    "meanings": [
+      "Semi-",
+      "Correspond To",
+      "Proportionate To",
+      "Conform",
+      "Imitate"
+    ],
+    "onyomi": [
+      "じゅん"
+    ],
+    "kunyomi": [
+      "じゅん.じる",
+      "じゅん.ずる",
+      "なぞら.える",
+      "のり",
+      "ひと.しい",
+      "みずもり"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "準る",
+        "reading": "じゅんじる",
+        "meaning": "Semi-"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-則",
+    "character": "則",
+    "level": "N2",
+    "meanings": [
+      "Rule",
+      "Follow",
+      "Based On",
+      "Model After"
+    ],
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "のっと.る"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "則る",
+        "reading": "のっとる",
+        "meaning": "Rule"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-導",
+    "character": "導",
+    "level": "N2",
+    "meanings": [
+      "Guidance",
+      "Leading",
+      "Conduct",
+      "Usher"
+    ],
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [
+      "みちび.く"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "導る",
+        "reading": "みちびく",
+        "meaning": "Guidance"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-乳",
+    "character": "乳",
+    "level": "N2",
+    "meanings": [
+      "Milk",
+      "Breasts"
+    ],
+    "onyomi": [
+      "にゅう"
+    ],
+    "kunyomi": [
+      "ちち",
+      "ち"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "乳る",
+        "reading": "ちち",
+        "meaning": "Milk"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-城",
+    "character": "城",
+    "level": "N2",
+    "meanings": [
+      "Castle"
+    ],
+    "onyomi": [
+      "じょう",
+      "せい"
+    ],
+    "kunyomi": [
+      "しろ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "城る",
+        "reading": "しろ",
+        "meaning": "Castle"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-担",
+    "character": "担",
+    "level": "N2",
+    "meanings": [
+      "Shouldering",
+      "Carry",
+      "Raise",
+      "Bear"
+    ],
+    "onyomi": [
+      "たん"
+    ],
+    "kunyomi": [
+      "かつ.ぐ",
+      "にな.う"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "担る",
+        "reading": "かつぐ",
+        "meaning": "Shouldering"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-額",
+    "character": "額",
+    "level": "N2",
+    "meanings": [
+      "Forehead",
+      "Tablet",
+      "Plaque",
+      "Framed Picture",
+      "Sum",
+      "Amount",
+      "Volume"
+    ],
+    "onyomi": [
+      "がく"
+    ],
+    "kunyomi": [
+      "ひたい"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "額る",
+        "reading": "ひたい",
+        "meaning": "Forehead"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-輸",
+    "character": "輸",
+    "level": "N2",
+    "meanings": [
+      "Transport",
+      "Send",
+      "Be Inferior"
+    ],
+    "onyomi": [
+      "ゆ",
+      "しゅ"
+    ],
+    "kunyomi": [],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "輸る",
+        "reading": "輸",
+        "meaning": "Transport"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-燃",
+    "character": "燃",
+    "level": "N2",
+    "meanings": [
+      "Burn",
+      "Blaze",
+      "Glow"
+    ],
+    "onyomi": [
+      "ねん"
+    ],
+    "kunyomi": [
+      "も.える",
+      "も.やす",
+      "も.す"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "燃る",
+        "reading": "もえる",
+        "meaning": "Burn"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-祝",
+    "character": "祝",
+    "level": "N2",
+    "meanings": [
+      "Celebrate",
+      "Congratulate"
+    ],
+    "onyomi": [
+      "しゅく",
+      "しゅう"
+    ],
+    "kunyomi": [
+      "いわ.う"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "祝る",
+        "reading": "いわう",
+        "meaning": "Celebrate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-届",
+    "character": "届",
+    "level": "N2",
+    "meanings": [
+      "Deliver",
+      "Reach",
+      "Arrive",
+      "Report",
+      "Notify",
+      "Forward"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "とど.ける",
+      "-とど.け",
+      "とど.く"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "届る",
+        "reading": "とどける",
+        "meaning": "Deliver"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-肩",
+    "character": "肩",
+    "level": "N2",
+    "meanings": [
+      "Shoulder"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "かた"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "肩る",
+        "reading": "かた",
+        "meaning": "Shoulder"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-腕",
+    "character": "腕",
+    "level": "N2",
+    "meanings": [
+      "Arm",
+      "Ability",
+      "Talent"
+    ],
+    "onyomi": [
+      "わん"
+    ],
+    "kunyomi": [
+      "うで"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "腕る",
+        "reading": "うで",
+        "meaning": "Arm"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-腰",
+    "character": "腰",
+    "level": "N2",
+    "meanings": [
+      "Loins",
+      "Hips",
+      "Waist",
+      "Low Wainscoting"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "こし"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "腰る",
+        "reading": "こし",
+        "meaning": "Loins"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-触",
+    "character": "触",
+    "level": "N2",
+    "meanings": [
+      "Contact",
+      "Touch",
+      "Feel",
+      "Hit",
+      "Proclaim",
+      "Announce",
+      "Conflict"
+    ],
+    "onyomi": [
+      "しょく"
+    ],
+    "kunyomi": [
+      "ふ.れる",
+      "さわ.る",
+      "さわ"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "触る",
+        "reading": "ふれる",
+        "meaning": "Contact"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-層",
+    "character": "層",
+    "level": "N2",
+    "meanings": [
+      "Stratum",
+      "Social Class",
+      "Layer",
+      "Story",
+      "Floor"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "層る",
+        "reading": "層",
+        "meaning": "Stratum"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-型",
+    "character": "型",
+    "level": "N2",
+    "meanings": [
+      "Mould",
+      "Type",
+      "Model"
+    ],
+    "onyomi": [
+      "けい"
+    ],
+    "kunyomi": [
+      "かた",
+      "-がた"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "型る",
+        "reading": "かた",
+        "meaning": "Mould"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-庁",
+    "character": "庁",
+    "level": "N2",
+    "meanings": [
+      "Government Office"
+    ],
+    "onyomi": [
+      "ちょう",
+      "てい"
+    ],
+    "kunyomi": [
+      "やくしょ"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "庁る",
+        "reading": "やくしょ",
+        "meaning": "Government Office"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-管",
+    "character": "管",
+    "level": "N2",
+    "meanings": [
+      "Pipe",
+      "Tube",
+      "Wind Instrument",
+      "Drunken Talk",
+      "Control",
+      "Jurisdiction"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "くだ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "管る",
+        "reading": "くだ",
+        "meaning": "Pipe"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-象",
+    "character": "象",
+    "level": "N2",
+    "meanings": [
+      "Elephant",
+      "Pattern After",
+      "Imitate",
+      "Image",
+      "Shape",
+      "Sign (of The Times)"
+    ],
+    "onyomi": [
+      "しょう",
+      "ぞう"
+    ],
+    "kunyomi": [
+      "かたど.る"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "象る",
+        "reading": "かたどる",
+        "meaning": "Elephant"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-量",
+    "character": "量",
+    "level": "N2",
+    "meanings": [
+      "Quantity",
+      "Measure",
+      "Weight",
+      "Amount",
+      "Consider",
+      "Estimate",
+      "Surmise"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [
+      "はか.る"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "量る",
+        "reading": "はかる",
+        "meaning": "Quantity"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-境",
+    "character": "境",
+    "level": "N2",
+    "meanings": [
+      "Boundary",
+      "Border",
+      "Region"
+    ],
+    "onyomi": [
+      "きょう",
+      "けい"
+    ],
+    "kunyomi": [
+      "さかい"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "境る",
+        "reading": "さかい",
+        "meaning": "Boundary"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-武",
+    "character": "武",
+    "level": "N2",
+    "meanings": [
+      "Warrior",
+      "Military",
+      "Chivalry",
+      "Arms"
+    ],
+    "onyomi": [
+      "ぶ",
+      "む"
+    ],
+    "kunyomi": [
+      "たけ",
+      "たけ.し"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "武る",
+        "reading": "たけ",
+        "meaning": "Warrior"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-述",
+    "character": "述",
+    "level": "N2",
+    "meanings": [
+      "Mention",
+      "State",
+      "Speak",
+      "Relate"
+    ],
+    "onyomi": [
+      "じゅつ"
+    ],
+    "kunyomi": [
+      "の.べる"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "述る",
+        "reading": "のべる",
+        "meaning": "Mention"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-販",
+    "character": "販",
+    "level": "N2",
+    "meanings": [
+      "Marketing",
+      "Sell",
+      "Trade"
+    ],
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "販る",
+        "reading": "販",
+        "meaning": "Marketing"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-含",
+    "character": "含",
+    "level": "N2",
+    "meanings": [
+      "Contain",
+      "Include",
+      "Hold In The Mouth",
+      "Bear In Mind",
+      "Understand",
+      "Cherish"
+    ],
+    "onyomi": [
+      "がん"
+    ],
+    "kunyomi": [
+      "ふく.む",
+      "ふく.める"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "含る",
+        "reading": "ふくむ",
+        "meaning": "Contain"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-況",
+    "character": "況",
+    "level": "N2",
+    "meanings": [
+      "Condition",
+      "Situation"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "まし.て",
+      "いわ.んや",
+      "おもむき"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "況る",
+        "reading": "まして",
+        "meaning": "Condition"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-補",
+    "character": "補",
+    "level": "N2",
+    "meanings": [
+      "Supplement",
+      "Supply",
+      "Make Good",
+      "Offset",
+      "Compensate",
+      "Assistant",
+      "Learner"
+    ],
+    "onyomi": [
+      "ほ"
+    ],
+    "kunyomi": [
+      "おぎな.う"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "補る",
+        "reading": "おぎなう",
+        "meaning": "Supplement"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-効",
+    "character": "効",
+    "level": "N2",
+    "meanings": [
+      "Merit",
+      "Efficacy",
+      "Efficiency",
+      "Benefit"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "き.く",
+      "ききめ",
+      "なら.う"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "効る",
+        "reading": "きく",
+        "meaning": "Merit"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-豊",
+    "character": "豊",
+    "level": "N2",
+    "meanings": [
+      "Bountiful",
+      "Excellent",
+      "Rich"
+    ],
+    "onyomi": [
+      "ほう",
+      "ぶ"
+    ],
+    "kunyomi": [
+      "ゆた.か",
+      "とよ"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "豊る",
+        "reading": "ゆたか",
+        "meaning": "Bountiful"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-巻",
+    "character": "巻",
+    "level": "N2",
+    "meanings": [
+      "Scroll",
+      "Volume",
+      "Book",
+      "Part",
+      "Roll Up",
+      "Wind Up",
+      "Tie",
+      "Coil",
+      "Counter For Texts (or Book Scrolls)"
+    ],
+    "onyomi": [
+      "かん",
+      "けん"
+    ],
+    "kunyomi": [
+      "ま.く",
+      "まき",
+      "ま.き"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "巻る",
+        "reading": "まく",
+        "meaning": "Scroll"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-捜",
+    "character": "捜",
+    "level": "N2",
+    "meanings": [
+      "Search",
+      "Look For",
+      "Locate"
+    ],
+    "onyomi": [
+      "そう",
+      "しゅ",
+      "しゅう"
+    ],
+    "kunyomi": [
+      "さが.す"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "捜る",
+        "reading": "さがす",
+        "meaning": "Search"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-替",
+    "character": "替",
+    "level": "N2",
+    "meanings": [
+      "Exchange",
+      "Spare",
+      "Substitute",
+      "Per-"
+    ],
+    "onyomi": [
+      "たい"
+    ],
+    "kunyomi": [
+      "か.える",
+      "か.え-",
+      "か.わる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "替る",
+        "reading": "かえる",
+        "meaning": "Exchange"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-造",
+    "character": "造",
+    "level": "N2",
+    "meanings": [
+      "Create",
+      "Make",
+      "Structure",
+      "Physique"
+    ],
+    "onyomi": [
+      "ぞう"
+    ],
+    "kunyomi": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "造る",
+        "reading": "つくる",
+        "meaning": "Create"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-印",
+    "character": "印",
+    "level": "N2",
+    "meanings": [
+      "Stamp",
+      "Seal",
+      "Mark",
+      "Imprint",
+      "Symbol",
+      "Emblem",
+      "Trademark",
+      "Evidence",
+      "Souvenir",
+      "India"
+    ],
+    "onyomi": [
+      "いん"
+    ],
+    "kunyomi": [
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "印る",
+        "reading": "しるし",
+        "meaning": "Stamp"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-復",
+    "character": "復",
+    "level": "N2",
+    "meanings": [
+      "Restore",
+      "Return To",
+      "Revert",
+      "Resume"
+    ],
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [
+      "また"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "復る",
+        "reading": "また",
+        "meaning": "Restore"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-筆",
+    "character": "筆",
+    "level": "N2",
+    "meanings": [
+      "Writing Brush",
+      "Writing",
+      "Painting Brush",
+      "Handwriting"
+    ],
+    "onyomi": [
+      "ひつ"
+    ],
+    "kunyomi": [
+      "ふで"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "筆る",
+        "reading": "ふで",
+        "meaning": "Writing Brush"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-貯",
+    "character": "貯",
+    "level": "N2",
+    "meanings": [
+      "Savings",
+      "Store",
+      "Lay In",
+      "Keep",
+      "Wear Mustache"
+    ],
+    "onyomi": [
+      "ちょ"
+    ],
+    "kunyomi": [
+      "た.める",
+      "たくわ.える"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "貯る",
+        "reading": "ためる",
+        "meaning": "Savings"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-刺",
+    "character": "刺",
+    "level": "N2",
+    "meanings": [
+      "Thorn",
+      "Pierce",
+      "Stab",
+      "Prick",
+      "Sting",
+      "Calling Card"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "さ.さる",
+      "さ.し",
+      "さし",
+      "とげ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "刺る",
+        "reading": "さす",
+        "meaning": "Thorn"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-郵",
+    "character": "郵",
+    "level": "N2",
+    "meanings": [
+      "Mail",
+      "Stagecoach Stop"
+    ],
+    "onyomi": [
+      "ゆう"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "郵る",
+        "reading": "郵",
+        "meaning": "Mail"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-針",
+    "character": "針",
+    "level": "N2",
+    "meanings": [
+      "Needle",
+      "Pin",
+      "Staple",
+      "Stinger"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "はり"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "針る",
+        "reading": "はり",
+        "meaning": "Needle"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-菓",
+    "character": "菓",
+    "level": "N2",
+    "meanings": [
+      "Candy",
+      "Cakes",
+      "Fruit"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "菓る",
+        "reading": "菓",
+        "meaning": "Candy"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-河",
+    "character": "河",
+    "level": "N2",
+    "meanings": [
+      "River"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "河る",
+        "reading": "かわ",
+        "meaning": "River"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-汗",
+    "character": "汗",
+    "level": "N2",
+    "meanings": [
+      "Sweat",
+      "Perspire"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "あせ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "汗る",
+        "reading": "あせ",
+        "meaning": "Sweat"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-再",
+    "character": "再",
+    "level": "N2",
+    "meanings": [
+      "Again",
+      "Twice",
+      "Second Time"
+    ],
+    "onyomi": [
+      "さい",
+      "さ"
+    ],
+    "kunyomi": [
+      "ふたた.び"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "再る",
+        "reading": "ふたたび",
+        "meaning": "Again"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-接",
+    "character": "接",
+    "level": "N2",
+    "meanings": [
+      "Touch",
+      "Contact",
+      "Adjoin",
+      "Piece Together"
+    ],
+    "onyomi": [
+      "せつ",
+      "しょう"
+    ],
+    "kunyomi": [
+      "つ.ぐ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "接る",
+        "reading": "つぐ",
+        "meaning": "Touch"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-占",
+    "character": "占",
+    "level": "N2",
+    "meanings": [
+      "Fortune-telling",
+      "Divining",
+      "Forecasting",
+      "Occupy",
+      "Hold",
+      "Have",
+      "Get",
+      "Take"
+    ],
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "し.める",
+      "うらな.う"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "占る",
+        "reading": "しめる",
+        "meaning": "Fortune-telling"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-胃",
+    "character": "胃",
+    "level": "N2",
+    "meanings": [
+      "Stomach",
+      "Paunch",
+      "Crop",
+      "Craw"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "胃る",
+        "reading": "胃",
+        "meaning": "Stomach"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-悩",
+    "character": "悩",
+    "level": "N2",
+    "meanings": [
+      "Trouble",
+      "Worry",
+      "In Pain",
+      "Distress",
+      "Illness"
+    ],
+    "onyomi": [
+      "のう"
+    ],
+    "kunyomi": [
+      "なや.む",
+      "なや.ます",
+      "なや.ましい",
+      "なやみ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "悩る",
+        "reading": "なやむ",
+        "meaning": "Trouble"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-昇",
+    "character": "昇",
+    "level": "N2",
+    "meanings": [
+      "Rise Up"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "のぼ.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "昇る",
+        "reading": "のぼる",
+        "meaning": "Rise Up"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-濃",
+    "character": "濃",
+    "level": "N2",
+    "meanings": [
+      "Concentrated",
+      "Thick",
+      "Dark",
+      "Undiluted"
+    ],
+    "onyomi": [
+      "のう"
+    ],
+    "kunyomi": [
+      "こ.い"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "濃る",
+        "reading": "こい",
+        "meaning": "Concentrated"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-極",
+    "character": "極",
+    "level": "N2",
+    "meanings": [
+      "Poles",
+      "Settlement",
+      "Conclusion",
+      "End",
+      "Highest Rank",
+      "Electric Poles",
+      "Very",
+      "Extremely",
+      "Most",
+      "Highly",
+      "10**48"
+    ],
+    "onyomi": [
+      "きょく",
+      "ごく"
+    ],
+    "kunyomi": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "極る",
+        "reading": "きわめる",
+        "meaning": "Poles"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-逆",
+    "character": "逆",
+    "level": "N2",
+    "meanings": [
+      "Inverted",
+      "Reverse",
+      "Opposite",
+      "Wicked"
+    ],
+    "onyomi": [
+      "ぎゃく",
+      "げき"
+    ],
+    "kunyomi": [
+      "さか",
+      "さか.さ",
+      "さか.らう"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "逆る",
+        "reading": "さか",
+        "meaning": "Inverted"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-巨",
+    "character": "巨",
+    "level": "N2",
+    "meanings": [
+      "Gigantic",
+      "Big",
+      "Large",
+      "Great"
+    ],
+    "onyomi": [
+      "きょ"
+    ],
+    "kunyomi": [],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "巨る",
+        "reading": "巨",
+        "meaning": "Gigantic"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-庫",
+    "character": "庫",
+    "level": "N2",
+    "meanings": [
+      "Warehouse",
+      "Storehouse"
+    ],
+    "onyomi": [
+      "こ",
+      "く"
+    ],
+    "kunyomi": [
+      "くら"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "庫る",
+        "reading": "くら",
+        "meaning": "Warehouse"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-児",
+    "character": "児",
+    "level": "N2",
+    "meanings": [
+      "Newborn Babe",
+      "Child",
+      "Young Of Animals"
+    ],
+    "onyomi": [
+      "じ",
+      "に",
+      "げい"
+    ],
+    "kunyomi": [
+      "こ",
+      "-こ",
+      "-っこ"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "児る",
+        "reading": "こ",
+        "meaning": "Newborn Babe"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-凍",
+    "character": "凍",
+    "level": "N2",
+    "meanings": [
+      "Frozen",
+      "Congeal",
+      "Refrigerate"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "こお.る",
+      "こご.える",
+      "こご.る",
+      "い.てる",
+      "し.みる"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "凍る",
+        "reading": "こおる",
+        "meaning": "Frozen"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-幼",
+    "character": "幼",
+    "level": "N2",
+    "meanings": [
+      "Infancy",
+      "Childhood"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "おさな.い"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "幼る",
+        "reading": "おさない",
+        "meaning": "Infancy"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-清",
+    "character": "清",
+    "level": "N2",
+    "meanings": [
+      "Pure",
+      "Purify",
+      "Cleanse",
+      "Exorcise",
+      "Manchu Dynasty"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう",
+      "しん"
+    ],
+    "kunyomi": [
+      "きよ.い",
+      "きよ.まる",
+      "きよ.める"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "清る",
+        "reading": "きよい",
+        "meaning": "Pure"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-録",
+    "character": "録",
+    "level": "N2",
+    "meanings": [
+      "Record"
+    ],
+    "onyomi": [
+      "ろく"
+    ],
+    "kunyomi": [
+      "しる.す",
+      "と.る"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "録る",
+        "reading": "しるす",
+        "meaning": "Record"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-券",
+    "character": "券",
+    "level": "N2",
+    "meanings": [
+      "Ticket"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "券る",
+        "reading": "券",
+        "meaning": "Ticket"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-移",
+    "character": "移",
+    "level": "N2",
+    "meanings": [
+      "Shift",
+      "Move",
+      "Change",
+      "Drift",
+      "Catch (cold, Fire)",
+      "Pass Into"
+    ],
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [
+      "うつ.る",
+      "うつ.す"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "移る",
+        "reading": "うつる",
+        "meaning": "Shift"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-並",
+    "character": "並",
+    "level": "N2",
+    "meanings": [
+      "Row",
+      "And",
+      "Besides",
+      "As Well As",
+      "Line Up",
+      "Rank With",
+      "Rival",
+      "Equal"
+    ],
+    "onyomi": [
+      "へい",
+      "ほう"
+    ],
+    "kunyomi": [
+      "な.み",
+      "なみ",
+      "なら.べる",
+      "なら.ぶ",
+      "なら.びに"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "並る",
+        "reading": "なみ",
+        "meaning": "Row"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-乾",
+    "character": "乾",
+    "level": "N2",
+    "meanings": [
+      "Drought",
+      "Dry",
+      "Dessicate",
+      "Drink Up",
+      "Heaven",
+      "Emperor"
+    ],
+    "onyomi": [
+      "かん",
+      "けん"
+    ],
+    "kunyomi": [
+      "かわ.く",
+      "かわ.かす",
+      "ほ.す",
+      "ひ.る",
+      "いぬい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "乾る",
+        "reading": "かわく",
+        "meaning": "Drought"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-欧",
+    "character": "欧",
+    "level": "N2",
+    "meanings": [
+      "Europe"
+    ],
+    "onyomi": [
+      "おう"
+    ],
+    "kunyomi": [
+      "うた.う",
+      "は.く"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "欧る",
+        "reading": "うたう",
+        "meaning": "Europe"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-臣",
+    "character": "臣",
+    "level": "N2",
+    "meanings": [
+      "Retainer",
+      "Subject"
+    ],
+    "onyomi": [
+      "しん",
+      "じん"
+    ],
+    "kunyomi": [],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "臣る",
+        "reading": "臣",
+        "meaning": "Retainer"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-略",
+    "character": "略",
+    "level": "N2",
+    "meanings": [
+      "Abbreviation",
+      "Omission",
+      "Outline",
+      "Shorten",
+      "Capture",
+      "Plunder"
+    ],
+    "onyomi": [
+      "りゃく"
+    ],
+    "kunyomi": [
+      "ほぼ",
+      "はぶ.く",
+      "おか.す",
+      "おさ.める",
+      "はかりごと",
+      "はか.る"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "略る",
+        "reading": "ほぼ",
+        "meaning": "Abbreviation"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-航",
+    "character": "航",
+    "level": "N2",
+    "meanings": [
+      "Navigate",
+      "Sail",
+      "Cruise",
+      "Fly"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "航る",
+        "reading": "航",
+        "meaning": "Navigate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-板",
+    "character": "板",
+    "level": "N2",
+    "meanings": [
+      "Plank",
+      "Board",
+      "Plate",
+      "Stage"
+    ],
+    "onyomi": [
+      "はん",
+      "ばん"
+    ],
+    "kunyomi": [
+      "いた"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "板る",
+        "reading": "いた",
+        "meaning": "Plank"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-詰",
+    "character": "詰",
+    "level": "N2",
+    "meanings": [
+      "Packed",
+      "Close",
+      "Pressed",
+      "Reprove",
+      "Rebuke",
+      "Blame"
+    ],
+    "onyomi": [
+      "きつ",
+      "きち"
+    ],
+    "kunyomi": [
+      "つ.める",
+      "つ.め",
+      "-づ.め",
+      "つ.まる",
+      "つ.む"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "詰る",
+        "reading": "つめる",
+        "meaning": "Packed"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-照",
+    "character": "照",
+    "level": "N2",
+    "meanings": [
+      "Illuminate",
+      "Shine",
+      "Compare",
+      "Bashful"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "て.る",
+      "て.らす",
+      "て.れる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "照る",
+        "reading": "てる",
+        "meaning": "Illuminate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-快",
+    "character": "快",
+    "level": "N2",
+    "meanings": [
+      "Cheerful",
+      "Pleasant",
+      "Agreeable",
+      "Comfortable"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "こころよ.い"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "快る",
+        "reading": "こころよい",
+        "meaning": "Cheerful"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-版",
+    "character": "版",
+    "level": "N2",
+    "meanings": [
+      "Printing Block",
+      "Printing Plate",
+      "Edition",
+      "Impression",
+      "Label"
+    ],
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "版る",
+        "reading": "版",
+        "meaning": "Printing Block"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-預",
+    "character": "預",
+    "level": "N2",
+    "meanings": [
+      "Deposit",
+      "Custody",
+      "Leave With",
+      "Entrust To"
+    ],
+    "onyomi": [
+      "よ"
+    ],
+    "kunyomi": [
+      "あず.ける",
+      "あず.かる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "預る",
+        "reading": "あずける",
+        "meaning": "Deposit"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-延",
+    "character": "延",
+    "level": "N2",
+    "meanings": [
+      "Prolong",
+      "Stretching"
+    ],
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "の.びる",
+      "の.べる",
+      "の.べ",
+      "の.ばす"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "延る",
+        "reading": "のびる",
+        "meaning": "Prolong"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-翌",
+    "character": "翌",
+    "level": "N2",
+    "meanings": [
+      "The Following",
+      "Next"
+    ],
+    "onyomi": [
+      "よく"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "翌る",
+        "reading": "翌",
+        "meaning": "The Following"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-符",
+    "character": "符",
+    "level": "N2",
+    "meanings": [
+      "Token",
+      "Sign",
+      "Mark",
+      "Tally",
+      "Charm"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "符る",
+        "reading": "符",
+        "meaning": "Token"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-編",
+    "character": "編",
+    "level": "N2",
+    "meanings": [
+      "Compilation",
+      "Knit",
+      "Plait",
+      "Braid",
+      "Twist",
+      "Editing",
+      "Completed Poem",
+      "Part Of A Book"
+    ],
+    "onyomi": [
+      "へん"
+    ],
+    "kunyomi": [
+      "あ.む",
+      "-あ.み"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "編る",
+        "reading": "あむ",
+        "meaning": "Compilation"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-普",
+    "character": "普",
+    "level": "N2",
+    "meanings": [
+      "Universal",
+      "Wide(ly)",
+      "Generally",
+      "Prussia"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "あまね.く",
+      "あまねし"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "普る",
+        "reading": "あまねく",
+        "meaning": "Universal"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-掃",
+    "character": "掃",
+    "level": "N2",
+    "meanings": [
+      "Sweep",
+      "Brush"
+    ],
+    "onyomi": [
+      "そう",
+      "しゅ"
+    ],
+    "kunyomi": [
+      "は.く"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "掃る",
+        "reading": "はく",
+        "meaning": "Sweep"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-泥",
+    "character": "泥",
+    "level": "N2",
+    "meanings": [
+      "Mud",
+      "Mire",
+      "Adhere To",
+      "Be Attached To"
+    ],
+    "onyomi": [
+      "でい",
+      "ない",
+      "で",
+      "に"
+    ],
+    "kunyomi": [
+      "どろ",
+      "なず.む"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "泥る",
+        "reading": "どろ",
+        "meaning": "Mud"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-棒",
+    "character": "棒",
+    "level": "N2",
+    "meanings": [
+      "Rod",
+      "Stick",
+      "Cane",
+      "Pole",
+      "Club",
+      "Line"
+    ],
+    "onyomi": [
+      "ぼう"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "棒る",
+        "reading": "棒",
+        "meaning": "Rod"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-孫",
+    "character": "孫",
+    "level": "N2",
+    "meanings": [
+      "Grandchild",
+      "Descendants"
+    ],
+    "onyomi": [
+      "そん"
+    ],
+    "kunyomi": [
+      "まご"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "孫る",
+        "reading": "まご",
+        "meaning": "Grandchild"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-帯",
+    "character": "帯",
+    "level": "N2",
+    "meanings": [
+      "Sash",
+      "Belt",
+      "Obi",
+      "Zone",
+      "Region"
+    ],
+    "onyomi": [
+      "たい"
+    ],
+    "kunyomi": [
+      "お.びる",
+      "おび"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "帯る",
+        "reading": "おびる",
+        "meaning": "Sash"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-粉",
+    "character": "粉",
+    "level": "N2",
+    "meanings": [
+      "Flour",
+      "Powder",
+      "Dust"
+    ],
+    "onyomi": [
+      "ふん"
+    ],
+    "kunyomi": [
+      "デシメートル",
+      "こ",
+      "こな"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "粉る",
+        "reading": "デシメートル",
+        "meaning": "Flour"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-菜",
+    "character": "菜",
+    "level": "N2",
+    "meanings": [
+      "Vegetable",
+      "Side Dish",
+      "Greens"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [
+      "な"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "菜る",
+        "reading": "な",
+        "meaning": "Vegetable"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-貨",
+    "character": "貨",
+    "level": "N2",
+    "meanings": [
+      "Freight",
+      "Goods",
+      "Property"
+    ],
+    "onyomi": [
+      "か"
+    ],
+    "kunyomi": [
+      "たから"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "貨る",
+        "reading": "たから",
+        "meaning": "Freight"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-陸",
+    "character": "陸",
+    "level": "N2",
+    "meanings": [
+      "Land",
+      "Six"
+    ],
+    "onyomi": [
+      "りく",
+      "ろく"
+    ],
+    "kunyomi": [
+      "おか"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "陸る",
+        "reading": "おか",
+        "meaning": "Land"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-均",
+    "character": "均",
+    "level": "N2",
+    "meanings": [
+      "Level",
+      "Average"
+    ],
+    "onyomi": [
+      "きん"
+    ],
+    "kunyomi": [
+      "なら.す"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "均る",
+        "reading": "ならす",
+        "meaning": "Level"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-採",
+    "character": "採",
+    "level": "N2",
+    "meanings": [
+      "Pick",
+      "Take",
+      "Fetch",
+      "Take Up"
+    ],
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [
+      "と.る"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "採る",
+        "reading": "とる",
+        "meaning": "Pick"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-永",
+    "character": "永",
+    "level": "N2",
+    "meanings": [
+      "Eternity",
+      "Long",
+      "Lengthy"
+    ],
+    "onyomi": [
+      "えい"
+    ],
+    "kunyomi": [
+      "なが.い"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "永る",
+        "reading": "ながい",
+        "meaning": "Eternity"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-液",
+    "character": "液",
+    "level": "N2",
+    "meanings": [
+      "Fluid",
+      "Liquid",
+      "Juice",
+      "Sap",
+      "Secretion"
+    ],
+    "onyomi": [
+      "えき"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "液る",
+        "reading": "液",
+        "meaning": "Fluid"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-績",
+    "character": "績",
+    "level": "N2",
+    "meanings": [
+      "Exploits",
+      "Achievements",
+      "Unreeling Cocoons"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "績る",
+        "reading": "績",
+        "meaning": "Exploits"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-複",
+    "character": "複",
+    "level": "N2",
+    "meanings": [
+      "Duplicate",
+      "Double",
+      "Compound",
+      "Multiple"
+    ],
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "複る",
+        "reading": "複",
+        "meaning": "Duplicate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-党",
+    "character": "党",
+    "level": "N2",
+    "meanings": [
+      "Party",
+      "Faction",
+      "Clique"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "なかま",
+      "むら"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "党る",
+        "reading": "なかま",
+        "meaning": "Party"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-卵",
+    "character": "卵",
+    "level": "N2",
+    "meanings": [
+      "Egg",
+      "Ovum",
+      "Spawn",
+      "Roe"
+    ],
+    "onyomi": [
+      "らん"
+    ],
+    "kunyomi": [
+      "たまご"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "卵る",
+        "reading": "たまご",
+        "meaning": "Egg"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-捨",
+    "character": "捨",
+    "level": "N2",
+    "meanings": [
+      "Discard",
+      "Throw Away",
+      "Abandon",
+      "Resign",
+      "Reject",
+      "Sacrifice"
+    ],
+    "onyomi": [
+      "しゃ"
+    ],
+    "kunyomi": [
+      "す.てる"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "捨る",
+        "reading": "すてる",
+        "meaning": "Discard"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-汚",
+    "character": "汚",
+    "level": "N2",
+    "meanings": [
+      "Dirty",
+      "Pollute",
+      "Disgrace",
+      "Rape",
+      "Defile"
+    ],
+    "onyomi": [
+      "お"
+    ],
+    "kunyomi": [
+      "けが.す",
+      "けが.れる",
+      "けが.らわしい",
+      "よご.す",
+      "よご.れる",
+      "きたな.い"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "汚る",
+        "reading": "けがす",
+        "meaning": "Dirty"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-机",
+    "character": "机",
+    "level": "N2",
+    "meanings": [
+      "Desk",
+      "Table"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "つくえ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "机る",
+        "reading": "つくえ",
+        "meaning": "Desk"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-簡",
+    "character": "簡",
+    "level": "N2",
+    "meanings": [
+      "Simplicity",
+      "Brevity"
+    ],
+    "onyomi": [
+      "かん",
+      "けん"
+    ],
+    "kunyomi": [
+      "えら.ぶ",
+      "ふだ"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "簡る",
+        "reading": "えらぶ",
+        "meaning": "Simplicity"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-誌",
+    "character": "誌",
+    "level": "N2",
+    "meanings": [
+      "Document",
+      "Records"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "誌る",
+        "reading": "誌",
+        "meaning": "Document"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-宝",
+    "character": "宝",
+    "level": "N2",
+    "meanings": [
+      "Treasure",
+      "Wealth",
+      "Valuables"
+    ],
+    "onyomi": [
+      "ほう"
+    ],
+    "kunyomi": [
+      "たから"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "宝る",
+        "reading": "たから",
+        "meaning": "Treasure"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-尊",
+    "character": "尊",
+    "level": "N2",
+    "meanings": [
+      "Revered",
+      "Valuable",
+      "Precious",
+      "Noble",
+      "Exalted"
+    ],
+    "onyomi": [
+      "そん"
+    ],
+    "kunyomi": [
+      "たっと.い",
+      "とうと.い",
+      "たっと.ぶ",
+      "とうと.ぶ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "尊る",
+        "reading": "たっとい",
+        "meaning": "Revered"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-敬",
+    "character": "敬",
+    "level": "N2",
+    "meanings": [
+      "Awe",
+      "Respect",
+      "Honor",
+      "Revere"
+    ],
+    "onyomi": [
+      "けい",
+      "きょう"
+    ],
+    "kunyomi": [
+      "うやま.う"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "敬る",
+        "reading": "うやまう",
+        "meaning": "Awe"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-灰",
+    "character": "灰",
+    "level": "N2",
+    "meanings": [
+      "Ashes",
+      "Puckery Juice",
+      "Cremate"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "はい"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "灰る",
+        "reading": "はい",
+        "meaning": "Ashes"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-砂",
+    "character": "砂",
+    "level": "N2",
+    "meanings": [
+      "Sand"
+    ],
+    "onyomi": [
+      "さ",
+      "しゃ"
+    ],
+    "kunyomi": [
+      "すな"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "砂る",
+        "reading": "すな",
+        "meaning": "Sand"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-著",
+    "character": "著",
+    "level": "N2",
+    "meanings": [
+      "Renowned",
+      "Publish",
+      "Write",
+      "Remarkable",
+      "Phenomenal",
+      "Put On",
+      "Don",
+      "Wear",
+      "Arrival",
+      "Finish (race)",
+      "Counter For Suits Of Clothing",
+      "Literary Work"
+    ],
+    "onyomi": [
+      "ちょ",
+      "ちゃく"
+    ],
+    "kunyomi": [
+      "あらわ.す",
+      "いちじる.しい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "著る",
+        "reading": "あらわす",
+        "meaning": "Renowned"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-蒸",
+    "character": "蒸",
+    "level": "N2",
+    "meanings": [
+      "Steam",
+      "Heat",
+      "Sultry",
+      "Foment",
+      "Get Musty"
+    ],
+    "onyomi": [
+      "じょう",
+      "せい"
+    ],
+    "kunyomi": [
+      "む.す",
+      "む.れる",
+      "む.らす"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "蒸る",
+        "reading": "むす",
+        "meaning": "Steam"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-蔵",
+    "character": "蔵",
+    "level": "N2",
+    "meanings": [
+      "Storehouse",
+      "Hide",
+      "Own",
+      "Have",
+      "Possess"
+    ],
+    "onyomi": [
+      "ぞう",
+      "そう"
+    ],
+    "kunyomi": [
+      "くら",
+      "おさ.める",
+      "かく.れる"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "蔵る",
+        "reading": "くら",
+        "meaning": "Storehouse"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-装",
+    "character": "装",
+    "level": "N2",
+    "meanings": [
+      "Attire",
+      "Dress",
+      "Pretend",
+      "Disguise",
+      "Profess"
+    ],
+    "onyomi": [
+      "そう",
+      "しょう"
+    ],
+    "kunyomi": [
+      "よそお.う",
+      "よそお.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "装る",
+        "reading": "よそおう",
+        "meaning": "Attire"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-裏",
+    "character": "裏",
+    "level": "N2",
+    "meanings": [
+      "Back",
+      "Amidst",
+      "In",
+      "Reverse",
+      "Inside",
+      "Palm",
+      "Sole",
+      "Rear",
+      "Lining",
+      "Wrong Side"
+    ],
+    "onyomi": [
+      "り"
+    ],
+    "kunyomi": [
+      "うら"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "裏る",
+        "reading": "うら",
+        "meaning": "Back"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-諸",
+    "character": "諸",
+    "level": "N2",
+    "meanings": [
+      "Various",
+      "Many",
+      "Several",
+      "Together"
+    ],
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "もろ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "諸る",
+        "reading": "もろ",
+        "meaning": "Various"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-臓",
+    "character": "臓",
+    "level": "N2",
+    "meanings": [
+      "Entrails",
+      "Viscera",
+      "Bowels"
+    ],
+    "onyomi": [
+      "ぞう"
+    ],
+    "kunyomi": [
+      "はらわた"
+    ],
+    "strokes": 19,
+    "examples": [
+      {
+        "word": "臓る",
+        "reading": "はらわた",
+        "meaning": "Entrails"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-純",
+    "character": "純",
+    "level": "N2",
+    "meanings": [
+      "Genuine",
+      "Purity",
+      "Innocence",
+      "Net (profit)"
+    ],
+    "onyomi": [
+      "じゅん"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "純る",
+        "reading": "純",
+        "meaning": "Genuine"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-紅",
+    "character": "紅",
+    "level": "N2",
+    "meanings": [
+      "Crimson",
+      "Deep Red"
+    ],
+    "onyomi": [
+      "こう",
+      "く"
+    ],
+    "kunyomi": [
+      "べに",
+      "くれない",
+      "あか.い"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "紅る",
+        "reading": "べに",
+        "meaning": "Crimson"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-拝",
+    "character": "拝",
+    "level": "N2",
+    "meanings": [
+      "Worship",
+      "Adore",
+      "Pray To"
+    ],
+    "onyomi": [
+      "はい"
+    ],
+    "kunyomi": [
+      "おが.む",
+      "おろが.む"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "拝る",
+        "reading": "おがむ",
+        "meaning": "Worship"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-劇",
+    "character": "劇",
+    "level": "N2",
+    "meanings": [
+      "Drama",
+      "Play"
+    ],
+    "onyomi": [
+      "げき"
+    ],
+    "kunyomi": [],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "劇る",
+        "reading": "劇",
+        "meaning": "Drama"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-承",
+    "character": "承",
+    "level": "N2",
+    "meanings": [
+      "Acquiesce",
+      "Hear",
+      "Listen To",
+      "Be Informed",
+      "Receive"
+    ],
+    "onyomi": [
+      "しょう",
+      "じょう"
+    ],
+    "kunyomi": [
+      "うけたまわ.る",
+      "う.ける"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "承る",
+        "reading": "うけたまわる",
+        "meaning": "Acquiesce"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-損",
+    "character": "損",
+    "level": "N2",
+    "meanings": [
+      "Damage",
+      "Loss",
+      "Disadvantage",
+      "Hurt",
+      "Injure"
+    ],
+    "onyomi": [
+      "そん"
+    ],
+    "kunyomi": [
+      "そこ.なう",
+      "そこな.う",
+      "-そこ.なう",
+      "そこ.ねる",
+      "-そこ.ねる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "損る",
+        "reading": "そこなう",
+        "meaning": "Damage"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-枝",
+    "character": "枝",
+    "level": "N2",
+    "meanings": [
+      "Bough",
+      "Branch",
+      "Twig",
+      "Limb",
+      "Counter For Branches"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "えだ"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "枝る",
+        "reading": "えだ",
+        "meaning": "Bough"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-測",
+    "character": "測",
+    "level": "N2",
+    "meanings": [
+      "Fathom",
+      "Plan",
+      "Scheme",
+      "Measure"
+    ],
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "はか.る"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "測る",
+        "reading": "はかる",
+        "meaning": "Fathom"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-講",
+    "character": "講",
+    "level": "N2",
+    "meanings": [
+      "Lecture",
+      "Club",
+      "Association"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "講る",
+        "reading": "講",
+        "meaning": "Lecture"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-紹",
+    "character": "紹",
+    "level": "N2",
+    "meanings": [
+      "Introduce",
+      "Inherit",
+      "Help"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "紹る",
+        "reading": "紹",
+        "meaning": "Introduce"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-介",
+    "character": "介",
+    "level": "N2",
+    "meanings": [
+      "Jammed In",
+      "Shellfish",
+      "Mediate",
+      "Concern Oneself With"
+    ],
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "介る",
+        "reading": "介",
+        "meaning": "Jammed In"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-湖",
+    "character": "湖",
+    "level": "N2",
+    "meanings": [
+      "Lake"
+    ],
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "みずうみ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "湖る",
+        "reading": "みずうみ",
+        "meaning": "Lake"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-銅",
+    "character": "銅",
+    "level": "N2",
+    "meanings": [
+      "Copper"
+    ],
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [
+      "あかがね"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "銅る",
+        "reading": "あかがね",
+        "meaning": "Copper"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-油",
+    "character": "油",
+    "level": "N2",
+    "meanings": [
+      "Oil",
+      "Fat"
+    ],
+    "onyomi": [
+      "ゆ",
+      "ゆう"
+    ],
+    "kunyomi": [
+      "あぶら"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "油る",
+        "reading": "あぶら",
+        "meaning": "Oil"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-旧",
+    "character": "旧",
+    "level": "N2",
+    "meanings": [
+      "Old Times",
+      "Old Things",
+      "Old Friend",
+      "Former",
+      "Ex-"
+    ],
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "ふる.い",
+      "もと"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "旧る",
+        "reading": "ふるい",
+        "meaning": "Old Times"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-姓",
+    "character": "姓",
+    "level": "N2",
+    "meanings": [
+      "Surname"
+    ],
+    "onyomi": [
+      "せい",
+      "しょう"
+    ],
+    "kunyomi": [],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "姓る",
+        "reading": "姓",
+        "meaning": "Surname"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-貿",
+    "character": "貿",
+    "level": "N2",
+    "meanings": [
+      "Trade",
+      "Exchange"
+    ],
+    "onyomi": [
+      "ぼう"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "貿る",
+        "reading": "貿",
+        "meaning": "Trade"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-将",
+    "character": "将",
+    "level": "N2",
+    "meanings": [
+      "Leader",
+      "Commander",
+      "General",
+      "Admiral",
+      "Or",
+      "And Again",
+      "Soon",
+      "From Now On",
+      "Just About"
+    ],
+    "onyomi": [
+      "しょう",
+      "そう"
+    ],
+    "kunyomi": [
+      "まさ.に",
+      "はた",
+      "まさ",
+      "ひきい.る",
+      "もって"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "将る",
+        "reading": "まさに",
+        "meaning": "Leader"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-伸",
+    "character": "伸",
+    "level": "N2",
+    "meanings": [
+      "Expand",
+      "Stretch",
+      "Extend",
+      "Lengthen",
+      "Increase"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "の.びる",
+      "の.ばす",
+      "の.べる",
+      "の.す"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "伸る",
+        "reading": "のびる",
+        "meaning": "Expand"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-幅",
+    "character": "幅",
+    "level": "N2",
+    "meanings": [
+      "Hanging Scroll",
+      "Width"
+    ],
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [
+      "はば"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "幅る",
+        "reading": "はば",
+        "meaning": "Hanging Scroll"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-甘",
+    "character": "甘",
+    "level": "N2",
+    "meanings": [
+      "Sweet",
+      "Coax",
+      "Pamper",
+      "Be Content",
+      "Sugary"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "あま.い",
+      "あま.える",
+      "あま.やかす",
+      "うま.い"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "甘る",
+        "reading": "あまい",
+        "meaning": "Sweet"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-換",
+    "character": "換",
+    "level": "N2",
+    "meanings": [
+      "Interchange",
+      "Period",
+      "Change",
+      "Convert",
+      "Replace",
+      "Renew"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "か.える",
+      "-か.える",
+      "か.わる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "換る",
+        "reading": "かえる",
+        "meaning": "Interchange"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-療",
+    "character": "療",
+    "level": "N2",
+    "meanings": [
+      "Heal",
+      "Cure"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "療る",
+        "reading": "療",
+        "meaning": "Heal"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-般",
+    "character": "般",
+    "level": "N2",
+    "meanings": [
+      "Carrier",
+      "Carry",
+      "All",
+      "General",
+      "Sort",
+      "Kind"
+    ],
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "般る",
+        "reading": "般",
+        "meaning": "Carrier"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-依",
+    "character": "依",
+    "level": "N2",
+    "meanings": [
+      "Reliant",
+      "Depend On",
+      "Consequently",
+      "Therefore",
+      "Due To"
+    ],
+    "onyomi": [
+      "い",
+      "え"
+    ],
+    "kunyomi": [
+      "よ.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "依る",
+        "reading": "よる",
+        "meaning": "Reliant"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-漁",
+    "character": "漁",
+    "level": "N2",
+    "meanings": [
+      "Fishing",
+      "Fishery"
+    ],
+    "onyomi": [
+      "ぎょ",
+      "りょう"
+    ],
+    "kunyomi": [
+      "あさ.る"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "漁る",
+        "reading": "あさる",
+        "meaning": "Fishing"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-募",
+    "character": "募",
+    "level": "N2",
+    "meanings": [
+      "Recruit",
+      "Campaign",
+      "Gather (contributions)",
+      "Enlist",
+      "Grow Violent"
+    ],
+    "onyomi": [
+      "ぼ"
+    ],
+    "kunyomi": [
+      "つの.る"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "募る",
+        "reading": "つのる",
+        "meaning": "Recruit"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-患",
+    "character": "患",
+    "level": "N2",
+    "meanings": [
+      "Afflicted",
+      "Disease",
+      "Suffer From",
+      "Be Ill"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "わずら.う"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "患る",
+        "reading": "わずらう",
+        "meaning": "Afflicted"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-湾",
+    "character": "湾",
+    "level": "N2",
+    "meanings": [
+      "Gulf",
+      "Bay",
+      "Inlet"
+    ],
+    "onyomi": [
+      "わん"
+    ],
+    "kunyomi": [
+      "いりえ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "湾る",
+        "reading": "いりえ",
+        "meaning": "Gulf"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-爆",
+    "character": "爆",
+    "level": "N2",
+    "meanings": [
+      "Bomb",
+      "Burst Open",
+      "Pop",
+      "Split"
+    ],
+    "onyomi": [
+      "ばく"
+    ],
+    "kunyomi": [
+      "は.ぜる"
+    ],
+    "strokes": 19,
+    "examples": [
+      {
+        "word": "爆る",
+        "reading": "はぜる",
+        "meaning": "Bomb"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-跡",
+    "character": "跡",
+    "level": "N2",
+    "meanings": [
+      "Tracks",
+      "Mark",
+      "Print",
+      "Impression"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [
+      "あと"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "跡る",
+        "reading": "あと",
+        "meaning": "Tracks"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-香",
+    "character": "香",
+    "level": "N2",
+    "meanings": [
+      "Incense",
+      "Smell",
+      "Perfume"
+    ],
+    "onyomi": [
+      "こう",
+      "きょう"
+    ],
+    "kunyomi": [
+      "か",
+      "かお.り",
+      "かお.る"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "香る",
+        "reading": "か",
+        "meaning": "Incense"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-兆",
+    "character": "兆",
+    "level": "N2",
+    "meanings": [
+      "Portent",
+      "10**12",
+      "Trillion",
+      "Sign",
+      "Omen",
+      "Symptoms"
+    ],
+    "onyomi": [
+      "ちょう"
+    ],
+    "kunyomi": [
+      "きざ.す",
+      "きざ.し"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "兆る",
+        "reading": "きざす",
+        "meaning": "Portent"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-齢",
+    "character": "齢",
+    "level": "N2",
+    "meanings": [
+      "Age"
+    ],
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [
+      "よわい",
+      "とし"
+    ],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "齢る",
+        "reading": "よわい",
+        "meaning": "Age"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-刊",
+    "character": "刊",
+    "level": "N2",
+    "meanings": [
+      "Publish",
+      "Carve",
+      "Engrave"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "刊る",
+        "reading": "刊",
+        "meaning": "Publish"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-傾",
+    "character": "傾",
+    "level": "N2",
+    "meanings": [
+      "Lean",
+      "Incline",
+      "Tilt",
+      "Trend",
+      "Wane",
+      "Sink",
+      "Ruin",
+      "Bias"
+    ],
+    "onyomi": [
+      "けい"
+    ],
+    "kunyomi": [
+      "かたむ.く",
+      "かたむ.ける",
+      "かたぶ.く",
+      "かた.げる",
+      "かし.げる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "傾る",
+        "reading": "かたむく",
+        "meaning": "Lean"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-奥",
+    "character": "奥",
+    "level": "N2",
+    "meanings": [
+      "Heart",
+      "Interior"
+    ],
+    "onyomi": [
+      "おう"
+    ],
+    "kunyomi": [
+      "おく",
+      "おく.まる",
+      "くま"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "奥る",
+        "reading": "おく",
+        "meaning": "Heart"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-贈",
+    "character": "贈",
+    "level": "N2",
+    "meanings": [
+      "Presents",
+      "Send",
+      "Give To",
+      "Award To",
+      "Confer On",
+      "Presenting Something"
+    ],
+    "onyomi": [
+      "ぞう",
+      "そう"
+    ],
+    "kunyomi": [
+      "おく.る"
+    ],
+    "strokes": 18,
+    "examples": [
+      {
+        "word": "贈る",
+        "reading": "おくる",
+        "meaning": "Presents"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-超",
+    "character": "超",
+    "level": "N2",
+    "meanings": [
+      "Transcend",
+      "Super-",
+      "Ultra-"
+    ],
+    "onyomi": [
+      "ちょう"
+    ],
+    "kunyomi": [
+      "こ.える",
+      "こ.す"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "超る",
+        "reading": "こえる",
+        "meaning": "Transcend"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-雇",
+    "character": "雇",
+    "level": "N2",
+    "meanings": [
+      "Employ",
+      "Hire"
+    ],
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "やと.う"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "雇る",
+        "reading": "やとう",
+        "meaning": "Employ"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-片",
+    "character": "片",
+    "level": "N2",
+    "meanings": [
+      "One-sided",
+      "Leaf",
+      "Sheet",
+      "Right-side Kata Radical (no. 91)"
+    ],
+    "onyomi": [
+      "へん"
+    ],
+    "kunyomi": [
+      "かた-",
+      "かた"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "片る",
+        "reading": "かた-",
+        "meaning": "One-sided"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-群",
+    "character": "群",
+    "level": "N2",
+    "meanings": [
+      "Flock",
+      "Group",
+      "Crowd",
+      "Herd",
+      "Swarm",
+      "Cluster"
+    ],
+    "onyomi": [
+      "ぐん"
+    ],
+    "kunyomi": [
+      "む.れる",
+      "む.れ",
+      "むら",
+      "むら.がる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "群る",
+        "reading": "むれる",
+        "meaning": "Flock"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-埋",
+    "character": "埋",
+    "level": "N2",
+    "meanings": [
+      "Bury",
+      "Be Filled Up",
+      "Embedded"
+    ],
+    "onyomi": [
+      "まい"
+    ],
+    "kunyomi": [
+      "う.める",
+      "う.まる",
+      "う.もれる",
+      "うず.める",
+      "うず.まる",
+      "い.ける"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "埋る",
+        "reading": "うめる",
+        "meaning": "Bury"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-駐",
+    "character": "駐",
+    "level": "N2",
+    "meanings": [
+      "Stop-over",
+      "Reside In",
+      "Resident"
+    ],
+    "onyomi": [
+      "ちゅう"
+    ],
+    "kunyomi": [],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "駐る",
+        "reading": "駐",
+        "meaning": "Stop-over"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-柱",
+    "character": "柱",
+    "level": "N2",
+    "meanings": [
+      "Pillar",
+      "Post",
+      "Cylinder",
+      "Support"
+    ],
+    "onyomi": [
+      "ちゅう"
+    ],
+    "kunyomi": [
+      "はしら"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "柱る",
+        "reading": "はしら",
+        "meaning": "Pillar"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-鋭",
+    "character": "鋭",
+    "level": "N2",
+    "meanings": [
+      "Pointed",
+      "Sharpness",
+      "Edge",
+      "Weapon",
+      "Sharp",
+      "Violent"
+    ],
+    "onyomi": [
+      "えい"
+    ],
+    "kunyomi": [
+      "するど.い"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "鋭る",
+        "reading": "するどい",
+        "meaning": "Pointed"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-殿",
+    "character": "殿",
+    "level": "N2",
+    "meanings": [
+      "Mr.",
+      "Hall",
+      "Mansion",
+      "Palace",
+      "Temple",
+      "Lord"
+    ],
+    "onyomi": [
+      "でん",
+      "てん"
+    ],
+    "kunyomi": [
+      "との",
+      "-どの"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "殿る",
+        "reading": "との",
+        "meaning": "Mr."
+      }
+    ]
+  },
+  {
+    "id": "k-n2-薄",
+    "character": "薄",
+    "level": "N2",
+    "meanings": [
+      "Dilute",
+      "Thin",
+      "Weak (tea)",
+      "Pampas Grass"
+    ],
+    "onyomi": [
+      "はく"
+    ],
+    "kunyomi": [
+      "うす.い",
+      "うす-",
+      "-うす",
+      "うす.める",
+      "うす.まる",
+      "うす.らぐ",
+      "うす.ら-",
+      "うす.れる",
+      "すすき"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "薄る",
+        "reading": "うすい",
+        "meaning": "Dilute"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-伺",
+    "character": "伺",
+    "level": "N2",
+    "meanings": [
+      "Pay Respects",
+      "Visit",
+      "Ask",
+      "Inquire",
+      "Question",
+      "Implore"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "うかが.う"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "伺る",
+        "reading": "うかがう",
+        "meaning": "Pay Respects"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-炭",
+    "character": "炭",
+    "level": "N2",
+    "meanings": [
+      "Charcoal",
+      "Coal"
+    ],
+    "onyomi": [
+      "たん"
+    ],
+    "kunyomi": [
+      "すみ"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "炭る",
+        "reading": "すみ",
+        "meaning": "Charcoal"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-包",
+    "character": "包",
+    "level": "N2",
+    "meanings": [
+      "Wrap",
+      "Pack Up",
+      "Cover",
+      "Conceal"
+    ],
+    "onyomi": [
+      "ほう"
+    ],
+    "kunyomi": [
+      "つつ.む",
+      "くる.む"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "包る",
+        "reading": "つつむ",
+        "meaning": "Wrap"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-衣",
+    "character": "衣",
+    "level": "N2",
+    "meanings": [
+      "Garment",
+      "Clothes",
+      "Dressing"
+    ],
+    "onyomi": [
+      "い",
+      "え"
+    ],
+    "kunyomi": [
+      "ころも",
+      "きぬ",
+      "-ぎ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "衣る",
+        "reading": "ころも",
+        "meaning": "Garment"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-鉱",
+    "character": "鉱",
+    "level": "N2",
+    "meanings": [
+      "Mineral",
+      "Ore"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "あらがね"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "鉱る",
+        "reading": "あらがね",
+        "meaning": "Mineral"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-双",
+    "character": "双",
+    "level": "N2",
+    "meanings": [
+      "Pair",
+      "Set",
+      "Comparison",
+      "Counter For Pairs"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "ふた",
+      "たぐい",
+      "ならぶ",
+      "ふたつ"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "双る",
+        "reading": "ふた",
+        "meaning": "Pair"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-床",
+    "character": "床",
+    "level": "N2",
+    "meanings": [
+      "Bed",
+      "Counter For Beds",
+      "Floor",
+      "Padding",
+      "Tatami"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "とこ",
+      "ゆか"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "床る",
+        "reading": "とこ",
+        "meaning": "Bed"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-掘",
+    "character": "掘",
+    "level": "N2",
+    "meanings": [
+      "Dig",
+      "Delve",
+      "Excavate"
+    ],
+    "onyomi": [
+      "くつ"
+    ],
+    "kunyomi": [
+      "ほ.る"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "掘る",
+        "reading": "ほる",
+        "meaning": "Dig"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-泊",
+    "character": "泊",
+    "level": "N2",
+    "meanings": [
+      "Overnight Stay",
+      "Put Up At",
+      "Ride At Anchor"
+    ],
+    "onyomi": [
+      "はく"
+    ],
+    "kunyomi": [
+      "と.まる",
+      "と.める"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "泊る",
+        "reading": "とまる",
+        "meaning": "Overnight Stay"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-荒",
+    "character": "荒",
+    "level": "N2",
+    "meanings": [
+      "Laid Waste",
+      "Rough",
+      "Rude",
+      "Wild"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "あら.い",
+      "あら-",
+      "あ.れる",
+      "あ.らす",
+      "-あ.らし",
+      "すさ.む"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "荒る",
+        "reading": "あらい",
+        "meaning": "Laid Waste"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-袋",
+    "character": "袋",
+    "level": "N2",
+    "meanings": [
+      "Sack",
+      "Bag",
+      "Pouch"
+    ],
+    "onyomi": [
+      "たい",
+      "だい"
+    ],
+    "kunyomi": [
+      "ふくろ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "袋る",
+        "reading": "ふくろ",
+        "meaning": "Sack"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-珍",
+    "character": "珍",
+    "level": "N2",
+    "meanings": [
+      "Rare",
+      "Curious",
+      "Strange"
+    ],
+    "onyomi": [
+      "ちん"
+    ],
+    "kunyomi": [
+      "めずら.しい",
+      "たから"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "珍る",
+        "reading": "めずらしい",
+        "meaning": "Rare"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-籍",
+    "character": "籍",
+    "level": "N2",
+    "meanings": [
+      "Enroll",
+      "Domiciliary Register",
+      "Membership"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [],
+    "strokes": 20,
+    "examples": [
+      {
+        "word": "籍る",
+        "reading": "籍",
+        "meaning": "Enroll"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-刷",
+    "character": "刷",
+    "level": "N2",
+    "meanings": [
+      "Printing",
+      "Print",
+      "Brush"
+    ],
+    "onyomi": [
+      "さつ"
+    ],
+    "kunyomi": [
+      "す.る",
+      "-ず.り",
+      "-ずり",
+      "は.く"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "刷る",
+        "reading": "する",
+        "meaning": "Printing"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-封",
+    "character": "封",
+    "level": "N2",
+    "meanings": [
+      "Seal",
+      "Closing"
+    ],
+    "onyomi": [
+      "ふう",
+      "ほう"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "封る",
+        "reading": "封",
+        "meaning": "Seal"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-筒",
+    "character": "筒",
+    "level": "N2",
+    "meanings": [
+      "Cylinder",
+      "Pipe",
+      "Tube",
+      "Gun Barrel",
+      "Sleeve"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "つつ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "筒る",
+        "reading": "つつ",
+        "meaning": "Cylinder"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-柔",
+    "character": "柔",
+    "level": "N2",
+    "meanings": [
+      "Tender",
+      "Weakness",
+      "Gentleness",
+      "Softness"
+    ],
+    "onyomi": [
+      "じゅう",
+      "にゅう"
+    ],
+    "kunyomi": [
+      "やわ.らか",
+      "やわ.らかい",
+      "やわ",
+      "やわ.ら"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "柔る",
+        "reading": "やわらか",
+        "meaning": "Tender"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-沈",
+    "character": "沈",
+    "level": "N2",
+    "meanings": [
+      "Sink",
+      "Be Submerged",
+      "Subside",
+      "Be Depressed",
+      "Aloes"
+    ],
+    "onyomi": [
+      "ちん",
+      "じん"
+    ],
+    "kunyomi": [
+      "しず.む",
+      "しず.める"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "沈る",
+        "reading": "しずむ",
+        "meaning": "Sink"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-辛",
+    "character": "辛",
+    "level": "N2",
+    "meanings": [
+      "Spicy",
+      "Bitter",
+      "Hot",
+      "Acrid"
+    ],
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "から.い",
+      "つら.い",
+      "-づら.い",
+      "かのと"
+    ],
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "辛る",
+        "reading": "からい",
+        "meaning": "Spicy"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-匹",
+    "character": "匹",
+    "level": "N2",
+    "meanings": [
+      "Equal",
+      "Head",
+      "Counter For Small Animals",
+      "Roll Of Cloth"
+    ],
+    "onyomi": [
+      "ひつ"
+    ],
+    "kunyomi": [
+      "ひき"
+    ],
+    "strokes": 4,
+    "examples": [
+      {
+        "word": "匹る",
+        "reading": "ひき",
+        "meaning": "Equal"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-叫",
+    "character": "叫",
+    "level": "N2",
+    "meanings": [
+      "Shout",
+      "Exclaim",
+      "Yell"
+    ],
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "さけ.ぶ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "叫る",
+        "reading": "さけぶ",
+        "meaning": "Shout"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-涙",
+    "character": "涙",
+    "level": "N2",
+    "meanings": [
+      "Tears",
+      "Sympathy"
+    ],
+    "onyomi": [
+      "るい",
+      "れい"
+    ],
+    "kunyomi": [
+      "なみだ"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "涙る",
+        "reading": "なみだ",
+        "meaning": "Tears"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-缶",
+    "character": "缶",
+    "level": "N2",
+    "meanings": [
+      "Tin Can",
+      "Container",
+      "Jar Radical (no. 121)"
+    ],
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "かま"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "缶る",
+        "reading": "かま",
+        "meaning": "Tin Can"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-粒",
+    "character": "粒",
+    "level": "N2",
+    "meanings": [
+      "Grains",
+      "Drop",
+      "Counter For Tiny Particles"
+    ],
+    "onyomi": [
+      "りゅう"
+    ],
+    "kunyomi": [
+      "つぶ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "粒る",
+        "reading": "つぶ",
+        "meaning": "Grains"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-塔",
+    "character": "塔",
+    "level": "N2",
+    "meanings": [
+      "Pagoda",
+      "Tower",
+      "Steeple"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "塔る",
+        "reading": "塔",
+        "meaning": "Pagoda"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-肌",
+    "character": "肌",
+    "level": "N2",
+    "meanings": [
+      "Texture",
+      "Skin",
+      "Body",
+      "Grain"
+    ],
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "はだ"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "肌る",
+        "reading": "はだ",
+        "meaning": "Texture"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-舟",
+    "character": "舟",
+    "level": "N2",
+    "meanings": [
+      "Boat",
+      "Ship"
+    ],
+    "onyomi": [
+      "しゅう"
+    ],
+    "kunyomi": [
+      "ふね",
+      "ふな-",
+      "-ぶね"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "舟る",
+        "reading": "ふね",
+        "meaning": "Boat"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-曇",
+    "character": "曇",
+    "level": "N2",
+    "meanings": [
+      "Cloudy Weather",
+      "Cloud Up"
+    ],
+    "onyomi": [
+      "どん"
+    ],
+    "kunyomi": [
+      "くも.る"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "曇る",
+        "reading": "くもる",
+        "meaning": "Cloudy Weather"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-磨",
+    "character": "磨",
+    "level": "N2",
+    "meanings": [
+      "Grind",
+      "Polish",
+      "Scour",
+      "Improve",
+      "Brush (teeth)"
+    ],
+    "onyomi": [
+      "ま"
+    ],
+    "kunyomi": [
+      "みが.く",
+      "す.る"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "磨る",
+        "reading": "みがく",
+        "meaning": "Grind"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-湿",
+    "character": "湿",
+    "level": "N2",
+    "meanings": [
+      "Damp",
+      "Wet",
+      "Moist"
+    ],
+    "onyomi": [
+      "しつ",
+      "しゅう"
+    ],
+    "kunyomi": [
+      "しめ.る",
+      "しめ.す",
+      "うるお.う",
+      "うるお.す"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "湿る",
+        "reading": "しめる",
+        "meaning": "Damp"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-硬",
+    "character": "硬",
+    "level": "N2",
+    "meanings": [
+      "Stiff",
+      "Hard"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "かた.い"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "硬る",
+        "reading": "かたい",
+        "meaning": "Stiff"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-鈍",
+    "character": "鈍",
+    "level": "N2",
+    "meanings": [
+      "Dull",
+      "Slow",
+      "Foolish",
+      "Blunt"
+    ],
+    "onyomi": [
+      "どん"
+    ],
+    "kunyomi": [
+      "にぶ.い",
+      "にぶ.る",
+      "にぶ-",
+      "なま.る",
+      "なまく.ら"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "鈍る",
+        "reading": "にぶい",
+        "meaning": "Dull"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-涼",
+    "character": "涼",
+    "level": "N2",
+    "meanings": [
+      "Refreshing",
+      "Nice And Cool"
+    ],
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [
+      "すず.しい",
+      "すず.む",
+      "すず.やか",
+      "うす.い",
+      "ひや.す",
+      "まことに"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "涼る",
+        "reading": "すずしい",
+        "meaning": "Refreshing"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-零",
+    "character": "零",
+    "level": "N2",
+    "meanings": [
+      "Zero",
+      "Spill",
+      "Overflow",
+      "Nothing",
+      "Cipher"
+    ],
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [
+      "ぜろ",
+      "こぼ.す",
+      "こぼ.れる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "零る",
+        "reading": "ぜろ",
+        "meaning": "Zero"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-綿",
+    "character": "綿",
+    "level": "N2",
+    "meanings": [
+      "Cotton"
+    ],
+    "onyomi": [
+      "めん"
+    ],
+    "kunyomi": [
+      "わた"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "綿る",
+        "reading": "わた",
+        "meaning": "Cotton"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-帽",
+    "character": "帽",
+    "level": "N2",
+    "meanings": [
+      "Cap",
+      "Headgear"
+    ],
+    "onyomi": [
+      "ぼう",
+      "もう"
+    ],
+    "kunyomi": [
+      "ずきん",
+      "おお.う"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "帽る",
+        "reading": "ずきん",
+        "meaning": "Cap"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-憎",
+    "character": "憎",
+    "level": "N2",
+    "meanings": [
+      "Hate",
+      "Detest"
+    ],
+    "onyomi": [
+      "ぞう"
+    ],
+    "kunyomi": [
+      "にく.む",
+      "にく.い",
+      "にく.らしい",
+      "にく.しみ"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "憎る",
+        "reading": "にくむ",
+        "meaning": "Hate"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-滴",
+    "character": "滴",
+    "level": "N2",
+    "meanings": [
+      "Drip",
+      "Drop"
+    ],
+    "onyomi": [
+      "てき"
+    ],
+    "kunyomi": [
+      "しずく",
+      "したた.る"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "滴る",
+        "reading": "しずく",
+        "meaning": "Drip"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-畳",
+    "character": "畳",
+    "level": "N2",
+    "meanings": [
+      "Tatami Mat",
+      "Counter For Tatami Mats",
+      "Fold",
+      "Shut Up",
+      "Do Away With"
+    ],
+    "onyomi": [
+      "じょう",
+      "ちょう"
+    ],
+    "kunyomi": [
+      "たた.む",
+      "たたみ",
+      "かさ.なる"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "畳る",
+        "reading": "たたむ",
+        "meaning": "Tatami Mat"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-畜",
+    "character": "畜",
+    "level": "N2",
+    "meanings": [
+      "Livestock",
+      "Domestic Fowl And Animals"
+    ],
+    "onyomi": [
+      "ちく"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "畜る",
+        "reading": "畜",
+        "meaning": "Livestock"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-溶",
+    "character": "溶",
+    "level": "N2",
+    "meanings": [
+      "Melt",
+      "Dissolve",
+      "Thaw"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "と.ける",
+      "と.かす",
+      "と.く"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "溶る",
+        "reading": "とける",
+        "meaning": "Melt"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-踊",
+    "character": "踊",
+    "level": "N2",
+    "meanings": [
+      "Jump",
+      "Dance",
+      "Leap",
+      "Skip"
+    ],
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "おど.る"
+    ],
+    "strokes": 14,
+    "examples": [
+      {
+        "word": "踊る",
+        "reading": "おどる",
+        "meaning": "Jump"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-賢",
+    "character": "賢",
+    "level": "N2",
+    "meanings": [
+      "Intelligent",
+      "Wise",
+      "Wisdom",
+      "Cleverness"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "かしこ.い"
+    ],
+    "strokes": 16,
+    "examples": [
+      {
+        "word": "賢る",
+        "reading": "かしこい",
+        "meaning": "Intelligent"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-灯",
+    "character": "灯",
+    "level": "N2",
+    "meanings": [
+      "Lamp",
+      "A Light",
+      "Light",
+      "Counter For Lights"
+    ],
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "灯る",
+        "reading": "ひ",
+        "meaning": "Lamp"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-咲",
+    "character": "咲",
+    "level": "N2",
+    "meanings": [
+      "Blossom",
+      "Bloom"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "さ.く",
+      "-ざき"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "咲る",
+        "reading": "さく",
+        "meaning": "Blossom"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-塗",
+    "character": "塗",
+    "level": "N2",
+    "meanings": [
+      "Paint",
+      "Plaster",
+      "Daub",
+      "Smear",
+      "Coating"
+    ],
+    "onyomi": [
+      "と"
+    ],
+    "kunyomi": [
+      "ぬ.る",
+      "ぬ.り",
+      "まみ.れる"
+    ],
+    "strokes": 13,
+    "examples": [
+      {
+        "word": "塗る",
+        "reading": "ぬる",
+        "meaning": "Paint"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-召",
+    "character": "召",
+    "level": "N2",
+    "meanings": [
+      "Seduce",
+      "Call",
+      "Send For",
+      "Wear",
+      "Put On",
+      "Ride In",
+      "Buy",
+      "Eat",
+      "Drink",
+      "Catch (cold)"
+    ],
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "め.す"
+    ],
+    "strokes": 5,
+    "examples": [
+      {
+        "word": "召る",
+        "reading": "めす",
+        "meaning": "Seduce"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-挟",
+    "character": "挟",
+    "level": "N2",
+    "meanings": [
+      "Pinch",
+      "Between"
+    ],
+    "onyomi": [
+      "きょう",
+      "しょう"
+    ],
+    "kunyomi": [
+      "はさ.む",
+      "はさ.まる",
+      "わきばさ.む",
+      "さしはさ.む"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "挟る",
+        "reading": "はさむ",
+        "meaning": "Pinch"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-枯",
+    "character": "枯",
+    "level": "N2",
+    "meanings": [
+      "Wither",
+      "Die",
+      "Dry Up",
+      "Be Seasoned"
+    ],
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "か.れる",
+      "か.らす"
+    ],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "枯る",
+        "reading": "かれる",
+        "meaning": "Wither"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-沸",
+    "character": "沸",
+    "level": "N2",
+    "meanings": [
+      "Seethe",
+      "Boil",
+      "Ferment",
+      "Uproar",
+      "Breed"
+    ],
+    "onyomi": [
+      "ふつ"
+    ],
+    "kunyomi": [
+      "わ.く",
+      "わ.かす"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "沸る",
+        "reading": "わく",
+        "meaning": "Seethe"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-濯",
+    "character": "濯",
+    "level": "N2",
+    "meanings": [
+      "Laundry",
+      "Wash",
+      "Pour On",
+      "Rinse"
+    ],
+    "onyomi": [
+      "たく"
+    ],
+    "kunyomi": [
+      "すす.ぐ",
+      "ゆす.ぐ"
+    ],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "濯る",
+        "reading": "すすぐ",
+        "meaning": "Laundry"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-燥",
+    "character": "燥",
+    "level": "N2",
+    "meanings": [
+      "Parch",
+      "Dry Up"
+    ],
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "はしゃ.ぐ"
+    ],
+    "strokes": 17,
+    "examples": [
+      {
+        "word": "燥る",
+        "reading": "はしゃぐ",
+        "meaning": "Parch"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-瓶",
+    "character": "瓶",
+    "level": "N2",
+    "meanings": [
+      "Bottle",
+      "Vial",
+      "Jar",
+      "Jug",
+      "Vat",
+      "Urn"
+    ],
+    "onyomi": [
+      "びん"
+    ],
+    "kunyomi": [
+      "かめ"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "瓶る",
+        "reading": "かめ",
+        "meaning": "Bottle"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-耕",
+    "character": "耕",
+    "level": "N2",
+    "meanings": [
+      "Till",
+      "Plow",
+      "Cultivate"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "たがや.す"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "耕る",
+        "reading": "たがやす",
+        "meaning": "Till"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-肯",
+    "character": "肯",
+    "level": "N2",
+    "meanings": [
+      "Agreement",
+      "Consent",
+      "Comply With"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "がえんじ.る"
+    ],
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "肯る",
+        "reading": "がえんじる",
+        "meaning": "Agreement"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-脂",
+    "character": "脂",
+    "level": "N2",
+    "meanings": [
+      "Fat",
+      "Grease",
+      "Tallow",
+      "Lard",
+      "Rosin",
+      "Gum",
+      "Tar"
+    ],
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "あぶら"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "脂る",
+        "reading": "あぶら",
+        "meaning": "Fat"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-膚",
+    "character": "膚",
+    "level": "N2",
+    "meanings": [
+      "Skin",
+      "Body",
+      "Grain",
+      "Texture",
+      "Disposition"
+    ],
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [
+      "はだ"
+    ],
+    "strokes": 15,
+    "examples": [
+      {
+        "word": "膚る",
+        "reading": "はだ",
+        "meaning": "Skin"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-軒",
+    "character": "軒",
+    "level": "N2",
+    "meanings": [
+      "Flats",
+      "Counter For Houses",
+      "Eaves"
+    ],
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "のき"
+    ],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "軒る",
+        "reading": "のき",
+        "meaning": "Flats"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-軟",
+    "character": "軟",
+    "level": "N2",
+    "meanings": [
+      "Soft"
+    ],
+    "onyomi": [
+      "なん"
+    ],
+    "kunyomi": [
+      "やわ.らか",
+      "やわ.らかい"
+    ],
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "軟る",
+        "reading": "やわらか",
+        "meaning": "Soft"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-郊",
+    "character": "郊",
+    "level": "N2",
+    "meanings": [
+      "Outskirts",
+      "Suburbs",
+      "Rural Area"
+    ],
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [],
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "郊る",
+        "reading": "郊",
+        "meaning": "Outskirts"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-隅",
+    "character": "隅",
+    "level": "N2",
+    "meanings": [
+      "Corner",
+      "Nook"
+    ],
+    "onyomi": [
+      "ぐう"
+    ],
+    "kunyomi": [
+      "すみ"
+    ],
+    "strokes": 12,
+    "examples": [
+      {
+        "word": "隅る",
+        "reading": "すみ",
+        "meaning": "Corner"
+      }
+    ]
+  },
+  {
+    "id": "k-n2-隻",
+    "character": "隻",
+    "level": "N2",
+    "meanings": [
+      "Vessels",
+      "Counter For Ships",
+      "Fish",
+      "Birds",
+      "Arrows",
+      "One Of A Pair"
+    ],
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [],
+    "strokes": 10,
+    "examples": [
+      {
+        "word": "隻る",
+        "reading": "隻",
+        "meaning": "Vessels"
+      }
+    ]
+  }
+]
