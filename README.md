@@ -1,4 +1,4 @@
-# Nihonkana.moe 🌐🏮
+# [Nihonkana.moe](https://japanese-learning-website-lime.vercel.app/) 🌐🏮
 
 Nihonkana.moe is a high-fidelity, open-source Japanese language learning suite designed for students studying for the Japanese Language Proficiency Test (JLPT) from levels N5 to N1. Styled in a futuristic dark-cyberpunk neon aesthetic with premium glassmorphic UI components, Nihonkana merges comprehensive grammar/vocabulary databases with interactive learning engines.
 
@@ -39,7 +39,7 @@ Ensure you have **Node.js** (v18+) and **npm** installed.
 1. **Clone the repository & enter the folder**:
    ```bash
    git clone https://github.com/Varomine/Japanese-Learning-website
-   cd nihonkana-moe
+   cd Japanese-Learning-website
    ```
 
 2. **Install project dependencies**:
@@ -96,4 +96,6 @@ service cloud.firestore {
   }
 }
 ```
-*These rules secure data by only allowing logged-in users to read or write their own progress metrics (streaks, XP, custom decks).*
+---
+### If there is firebase [ERROR](https://ibb.co/TBDMVN4N) but you are sure that you are doing everythin correctly just refresh the screen after ~1min. after hosting website. And everything should be alright
+---
