@@ -38,7 +38,7 @@ Ensure you have **Node.js** (v18+) and **npm** installed.
 
 1. **Clone the repository & enter the folder**:
    ```bash
-   git clone [https://github.com/Varomine/Japanese-Learning-website](https://github.com/Varomine/Japanese-Learning-website)
+   git clone https://github.com/Varomine/Japanese-Learning-website
    cd nihonkana-moe
    ```
 
