@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Loader2, Plus, Check } from 'lucide-react';
+import { Search, Loader2, Plus } from 'lucide-react';
 
 interface JishoJapaneseItem {
   word?: string;
@@ -22,10 +22,11 @@ interface JishoResultItem {
 
 interface DictionarySearchProps {
   onAddCustomCard: (card: { front: string; reading: string; back: string }) => void;
+  onRemoveCustomCard: (index: number) => void;
   savedCards: { front: string }[];
 }
 
-export const DictionarySearch: React.FC<DictionarySearchProps> = ({ onAddCustomCard, savedCards }) => {
+export const DictionarySearch: React.FC<DictionarySearchProps> = ({ onAddCustomCard, onRemoveCustomCard, savedCards }) => {
   const [query, setQuery] = useState('');
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState<JishoResultItem[]>([]);
@@ -98,6 +99,10 @@ export const DictionarySearch: React.FC<DictionarySearchProps> = ({ onAddCustomC
 
   const isAlreadySaved = (front: string) => {
     return savedCards.some(card => card.front === front);
+  };
+
+  const getSavedCardIndex = (front: string) => {
+    return savedCards.findIndex(card => card.front === front);
   };
 
   return (
@@ -191,30 +196,41 @@ export const DictionarySearch: React.FC<DictionarySearchProps> = ({ onAddCustomC
               </div>
 
               {/* Action Button */}
-              <button
-                className={`btn ${alreadySaved ? '' : 'btn-cyan'}`}
-                disabled={alreadySaved}
-                onClick={() =>
-                  onAddCustomCard({
-                    front: displayWord,
-                    reading: displayReading || '',
-                    back: definitionsString,
-                  })
-                }
-                style={{ flexShrink: 0, padding: '8px 12px' }}
-              >
-                {alreadySaved ? (
-                  <>
-                    <Check size={16} style={{ color: 'var(--success)' }} />
-                    Saved
-                  </>
-                ) : (
-                  <>
-                    <Plus size={16} />
-                    Add Card
-                  </>
-                )}
-              </button>
+              {alreadySaved ? (
+                <button
+                  className="btn"
+                  onClick={() => {
+                    const idx = getSavedCardIndex(displayWord);
+                    if (idx >= 0) {
+                      onRemoveCustomCard(idx);
+                    }
+                  }}
+                  style={{ 
+                    flexShrink: 0, 
+                    padding: '8px 12px',
+                    background: 'rgba(255, 0, 127, 0.05)',
+                    borderColor: 'rgba(255, 0, 127, 0.2)',
+                    color: 'var(--accent)'
+                  }}
+                >
+                  Remove Card
+                </button>
+              ) : (
+                <button
+                  className="btn btn-cyan"
+                  onClick={() =>
+                    onAddCustomCard({
+                      front: displayWord,
+                      reading: displayReading || '',
+                      back: definitionsString,
+                    })
+                  }
+                  style={{ flexShrink: 0, padding: '8px 12px' }}
+                >
+                  <Plus size={16} />
+                  Add Card
+                </button>
+              )}
             </div>
           );
         })}

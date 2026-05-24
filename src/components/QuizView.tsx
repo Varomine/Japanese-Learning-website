@@ -20,6 +20,20 @@ interface QuizViewProps {
   isLoggedIn: boolean;
 }
 
+const getUniqueDistractors = (
+  pool: string[],
+  correct: string,
+  count: number = 3
+): string[] => {
+  const normalizedCorrect = correct.trim().toLowerCase();
+  const filtered = pool.filter(item => {
+    if (!item) return false;
+    return item.trim().toLowerCase() !== normalizedCorrect;
+  });
+  const uniqueItems = Array.from(new Set(filtered));
+  return uniqueItems.sort(() => Math.random() - 0.5).slice(0, count);
+};
+
 export const QuizView: React.FC<QuizViewProps> = ({ 
   onQuizComplete,
   vocabList,
@@ -58,12 +72,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
     const buildGrammarQuestions = (selected: typeof grammarData, allPool: typeof grammarData) => {
       selected.forEach((item) => {
         const others = allPool.filter((g) => g.id !== item.id);
-        const distractors = others
-          .sort(() => Math.random() - 0.5)
-          .slice(0, 3)
-          .map((g) => g.pattern);
-
         const correctAnswer = item.pattern;
+        const pool = others.map((g) => g.pattern).filter(Boolean);
+        const distractors = getUniqueDistractors(pool, correctAnswer, 3);
         const options = [correctAnswer, ...distractors].sort(() => Math.random() - 0.5);
 
         generated.push({
@@ -96,10 +107,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
         const isReadingQuestion = hasKanji && (item.word !== itemReading) && (Math.random() > 0.5);
 
         if (isReadingQuestion) {
-          const readingDistractors = others
-            .sort(() => Math.random() - 0.5)
-            .slice(0, 3)
-            .map((v) => v.reading || v.word);
+          const pool = others.map((v) => v.reading || v.word).filter(Boolean);
+          const readingDistractors = getUniqueDistractors(pool, itemReading, 3);
           
           generated.push({
             questionText: `What is the reading of "${item.word}"?`,
@@ -110,12 +119,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
           });
         } else {
           // Meaning question
-          const distractors = others
-            .sort(() => Math.random() - 0.5)
-            .slice(0, 3)
-            .map((v) => v.meanings[0]);
-
           const correctAnswer = item.meanings[0];
+          const pool = others.map((v) => v.meanings[0]).filter(Boolean);
+          const distractors = getUniqueDistractors(pool, correctAnswer, 3);
           const options = [correctAnswer, ...distractors].sort(() => Math.random() - 0.5);
 
           // If the word has Kanji, display it in brackets next to Hiragana in the question prompt
@@ -145,12 +151,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
         const isMeaningQuestion = Math.random() > 0.5;
 
         if (isMeaningQuestion) {
-          const distractors = others
-            .sort(() => Math.random() - 0.5)
-            .slice(0, 3)
-            .map((k) => k.meanings[0]);
-
           const correctAnswer = item.meanings[0];
+          const pool = others.map((k) => k.meanings[0]).filter(Boolean);
+          const distractors = getUniqueDistractors(pool, correctAnswer, 3);
           const options = [correctAnswer, ...distractors].sort(() => Math.random() - 0.5);
 
           generated.push({
@@ -163,11 +166,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
         } else {
           // Reading question (Kun or On)
           const correctReading = item.onyomi[0] || item.kunyomi[0] || '読み方';
-          const distractors = others
-            .sort(() => Math.random() - 0.5)
-            .slice(0, 3)
-            .map((k) => k.onyomi[0] || k.kunyomi[0] || '読み方');
-
+          const pool = others.map((k) => k.onyomi[0] || k.kunyomi[0]).filter(Boolean);
+          const distractors = getUniqueDistractors(pool, correctReading, 3);
           const options = [correctReading, ...distractors].sort(() => Math.random() - 0.5);
 
           generated.push({
@@ -429,7 +429,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
             {/* Options list */}
             <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-              {questions[currentIdx].options.map((opt) => {
+              {questions[currentIdx].options.map((opt, idx) => {
                 const isSelected = selectedOption === opt;
                 const isCorrect = opt === questions[currentIdx].correctAnswer;
                 
@@ -452,7 +452,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
                 return (
                   <button
-                    key={opt}
+                    key={`${currentIdx}-${idx}`}
                     className="btn"
                     disabled={isSubmitted}
                     onClick={() => setSelectedOption(opt)}

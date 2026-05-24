@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowRight, ArrowLeft, RefreshCw, Layers, Bookmark } from 'lucide-react';
+import { ArrowRight, ArrowLeft, RefreshCw, Layers, Bookmark, Trash2, Play } from 'lucide-react';
 
 interface CardItem {
   id: string;
@@ -23,6 +23,7 @@ interface FlashcardsViewProps {
   kanjiList: any[];
   currentLevel: 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
   onLevelChange: (lvl: 'N5' | 'N4' | 'N3' | 'N2' | 'N1') => void;
+  onRemoveCustomCard: (index: number) => void;
 }
 
 export const FlashcardsView: React.FC<FlashcardsViewProps> = ({ 
@@ -31,13 +32,20 @@ export const FlashcardsView: React.FC<FlashcardsViewProps> = ({
   vocabList,
   kanjiList,
   currentLevel,
-  onLevelChange
+  onLevelChange,
+  onRemoveCustomCard
 }) => {
   const [deckType, setDeckType] = useState<'jlpt' | 'custom'>('jlpt');
   const [selectedType, setSelectedType] = useState<'vocab' | 'kanji'>('vocab');
   const [deck, setDeck] = useState<CardItem[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
+  const [sessionStarted, setSessionStarted] = useState(false);
+
+  // Reset session when deck type changes
+  useEffect(() => {
+    setSessionStarted(false);
+  }, [deckType]);
 
   // Re-generate deck when criteria changes
   useEffect(() => {
@@ -199,6 +207,70 @@ export const FlashcardsView: React.FC<FlashcardsViewProps> = ({
             <p>No card data found for this category.</p>
           )}
         </div>
+      ) : deckType === 'custom' && !sessionStarted ? (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '15px' }}>
+            <div>
+              <h3 style={{ fontSize: '1.2rem', fontWeight: 600 }}>My Saved Cards Collection</h3>
+              <p style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginTop: '2px' }}>
+                Manage your saved cards or start your study session.
+              </p>
+            </div>
+            <button 
+              className="btn btn-primary" 
+              onClick={() => setSessionStarted(true)}
+              style={{ padding: '10px 20px', minWidth: '120px' }}
+            >
+              <Play size={16} /> Start
+            </button>
+          </div>
+
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+            {customCards.map((card, idx) => (
+              <div 
+                key={idx} 
+                className="glass-panel" 
+                style={{ 
+                  padding: '16px 20px', 
+                  display: 'flex', 
+                  justifyContent: 'space-between', 
+                  alignItems: 'center',
+                  gap: '15px'
+                }}
+              >
+                <div>
+                  <div style={{ display: 'flex', alignItems: 'baseline', gap: '8px', flexWrap: 'wrap' }}>
+                    <span className="jp-font" style={{ fontSize: '1.3rem', fontWeight: 700 }}>
+                      {card.front}
+                    </span>
+                    {card.reading && (
+                      <span className="jp-font" style={{ fontSize: '0.95rem', color: 'var(--text-muted)' }}>
+                        ({card.reading})
+                      </span>
+                    )}
+                  </div>
+                  <div style={{ fontSize: '0.9rem', color: 'var(--text-muted)', marginTop: '4px' }}>
+                    {card.back}
+                  </div>
+                </div>
+                <button
+                  className="btn"
+                  onClick={() => onRemoveCustomCard(idx)}
+                  title="Remove card"
+                  style={{ 
+                    padding: '8px 10px', 
+                    minWidth: 'auto', 
+                    background: 'rgba(255, 0, 127, 0.05)', 
+                    borderColor: 'rgba(255, 0, 127, 0.2)',
+                    color: 'var(--accent)'
+                  }}
+                >
+                  <Trash2 size={16} />
+                </button>
+              </div>
+            ))}
+          </div>
+        </div>
       ) : (
         <div>
           {/* Card Meta Stats */}
@@ -206,9 +278,20 @@ export const FlashcardsView: React.FC<FlashcardsViewProps> = ({
             <span>
               Card {currentIndex + 1} of {deck.length}
             </span>
-            <button className="btn" onClick={shuffleDeck} style={{ padding: '6px 10px', fontSize: '0.8rem' }}>
-              <RefreshCw size={12} /> Shuffle
-            </button>
+            <div style={{ display: 'flex', gap: '8px' }}>
+              {deckType === 'custom' && (
+                <button 
+                  className="btn" 
+                  onClick={() => setSessionStarted(false)} 
+                  style={{ padding: '6px 12px', fontSize: '0.8rem', borderColor: 'rgba(255,255,255,0.1)' }}
+                >
+                  List View
+                </button>
+              )}
+              <button className="btn" onClick={shuffleDeck} style={{ padding: '6px 10px', fontSize: '0.8rem' }}>
+                <RefreshCw size={12} /> Shuffle
+              </button>
+            </div>
           </div>
 
           {/* Flip Card Container */}

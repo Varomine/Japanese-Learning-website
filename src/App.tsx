@@ -15,7 +15,8 @@ import {
   Sparkles,
   Cloud,
   Loader2,
-  Info
+  Info,
+  Plus
 } from 'lucide-react';
 
 import { onAuthStateChanged } from 'firebase/auth';
@@ -229,6 +230,10 @@ function App() {
     }
     setCustomCards(prev => [...prev, card]);
     addXp(15);
+  };
+
+  const handleRemoveCustomCard = (index: number) => {
+    setCustomCards(prev => prev.filter((_, idx) => idx !== index));
   };
 
   const handleFlashcardReview = (actionType: 'mastered' | 'review') => {
@@ -879,7 +884,39 @@ service cloud.firestore {
                               {selectedKanji.strokes} strokes
                             </span>
                           </div>
-                          <div>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                            {customCards.some(card => card.front === selectedKanji.character) ? (
+                              <button
+                                className="btn"
+                                onClick={() => handleRemoveCustomCard(customCards.findIndex(card => card.front === selectedKanji.character))}
+                                style={{
+                                  background: 'rgba(255, 0, 127, 0.05)',
+                                  borderColor: 'rgba(255, 0, 127, 0.2)',
+                                  color: 'var(--accent)',
+                                  fontSize: '0.75rem',
+                                  padding: '4px 8px'
+                                }}
+                              >
+                                Remove Card
+                              </button>
+                            ) : (
+                              <button
+                                className="btn btn-cyan"
+                                onClick={() => {
+                                  handleAddCustomCard({
+                                    front: selectedKanji.character,
+                                    reading: selectedKanji.onyomi.concat(selectedKanji.kunyomi).filter(Boolean).join(', '),
+                                    back: selectedKanji.meanings.join(', ')
+                                  });
+                                }}
+                                style={{
+                                  fontSize: '0.75rem',
+                                  padding: '4px 8px'
+                                }}
+                              >
+                                <Plus size={12} /> Add Card
+                              </button>
+                            )}
                             <span className={`level-badge level-${selectedKanji.level.toLowerCase()}`}>{selectedKanji.level}</span>
                           </div>
                         </div>
@@ -984,15 +1021,46 @@ service cloud.firestore {
                             </div>
                           </div>
 
-                          <button 
-                            className="btn" 
-                            onClick={() => speakText(v.word || v.reading)}
-                            title="Listen Pronunciation"
-                            style={{ padding: '10px 14px' }}
-                          >
-                            <Volume2 size={16} />
-                            Listen
-                          </button>
+                          <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+                            <button 
+                              className="btn" 
+                              onClick={() => speakText(v.word || v.reading)}
+                              title="Listen Pronunciation"
+                              style={{ padding: '10px 14px' }}
+                            >
+                              <Volume2 size={16} />
+                              Listen
+                            </button>
+                            {customCards.some(card => card.front === v.word) ? (
+                              <button
+                                className="btn"
+                                onClick={() => handleRemoveCustomCard(customCards.findIndex(card => card.front === v.word))}
+                                style={{
+                                  background: 'rgba(255, 0, 127, 0.05)',
+                                  borderColor: 'rgba(255, 0, 127, 0.2)',
+                                  color: 'var(--accent)',
+                                  padding: '10px 14px'
+                                }}
+                              >
+                                Remove Card
+                              </button>
+                            ) : (
+                              <button
+                                className="btn btn-cyan"
+                                onClick={() => {
+                                  handleAddCustomCard({
+                                    front: v.word,
+                                    reading: v.reading || '',
+                                    back: v.meanings.join(', ')
+                                  });
+                                }}
+                                style={{ padding: '10px 14px' }}
+                              >
+                                <Plus size={16} />
+                                Add Card
+                              </button>
+                            )}
+                          </div>
                         </div>
                       );
                     });
@@ -1105,6 +1173,7 @@ service cloud.firestore {
                 kanjiList={kanjiList}
                 currentLevel={currentLevel}
                 onLevelChange={handleLevelChange}
+                onRemoveCustomCard={handleRemoveCustomCard}
               />
             )}
 
@@ -1124,6 +1193,7 @@ service cloud.firestore {
             {activeTab === 'jisho' && (
               <DictionarySearch 
                 onAddCustomCard={handleAddCustomCard} 
+                onRemoveCustomCard={handleRemoveCustomCard}
                 savedCards={customCards} 
               />
             )}
