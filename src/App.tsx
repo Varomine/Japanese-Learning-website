@@ -16,7 +16,10 @@ import {
   Cloud,
   Loader2,
   Info,
-  Plus
+  Plus,
+  Grid,
+  ChevronLeft,
+  ChevronRight
 } from 'lucide-react';
 
 import { onAuthStateChanged } from 'firebase/auth';
@@ -33,8 +36,9 @@ import { DictionarySearch } from './components/DictionarySearch';
 import { FlashcardsView } from './components/FlashcardsView';
 import { QuizView } from './components/QuizView';
 import { AuthView } from './components/AuthView';
+import { KanaChart } from './components/KanaChart';
 
-type Tab = 'dashboard' | 'kanji' | 'vocab' | 'grammar' | 'flashcards' | 'quiz' | 'jisho' | 'account' | 'about';
+type Tab = 'dashboard' | 'kana' | 'kanji' | 'vocab' | 'grammar' | 'flashcards' | 'quiz' | 'jisho' | 'account' | 'about';
 type Level = 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 interface CustomCard {
@@ -47,6 +51,7 @@ function App() {
   const [activeTab, setActiveTab] = useState<Tab>('dashboard');
   const [currentLevel, setCurrentLevel] = useState<Level>('N5');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isSidebarMinimized, setIsSidebarMinimized] = useState(false);
 
   // Authentication State
   const [currentUser, setCurrentUser] = useState<FirebaseUser | null>(null);
@@ -271,6 +276,7 @@ function App() {
 
   const navigationItems = [
     { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
+    { id: 'kana', label: 'Kana Chart', icon: Grid },
     { id: 'kanji', label: 'Kanji Study', icon: BookOpen },
     { id: 'vocab', label: 'Vocabulary', icon: Languages },
     { id: 'grammar', label: 'Grammar Guide', icon: FileText },
@@ -288,8 +294,8 @@ function App() {
 
       {/* Sidebar - Desktop */}
       <aside className="glass-panel desktop-sidebar" style={{
-        width: '280px',
-        padding: '30px 20px',
+        width: isSidebarMinimized ? '80px' : '280px',
+        padding: isSidebarMinimized ? '30px 10px' : '30px 20px',
         margin: '20px',
         display: 'flex',
         flexDirection: 'column',
@@ -298,55 +304,133 @@ function App() {
         position: 'sticky',
         top: '20px',
         zIndex: 100,
-        boxShadow: '0 10px 40px rgba(0, 0, 0, 0.4)'
+        boxShadow: '0 10px 40px rgba(0, 0, 0, 0.4)',
+        transition: 'var(--transition-smooth)'
       }}>
-        <div>
-          <h1 style={{
-            fontSize: '1.75rem',
-            fontWeight: 800,
-            letterSpacing: '1px',
-            marginBottom: '4px',
-            background: 'linear-gradient(to right, #00e5ff, #8e2de2)',
-            WebkitBackgroundClip: 'text',
-            WebkitTextFillColor: 'transparent',
-            display: 'flex',
-            alignItems: 'center',
-            gap: '8px'
-          }}>
-            Nihonkana<span style={{ fontSize: '0.9rem', color: 'var(--accent)', fontWeight: 600 }}>.moe</span>
-          </h1>
-          <p style={{ color: 'var(--text-muted)', fontSize: '0.8rem', letterSpacing: '0.5px' }}>
-            JAPANESE LEARNING SUITE
-          </p>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', alignItems: 'center' }}>
+          <div style={{ display: 'flex', width: '100%', justifyContent: isSidebarMinimized ? 'center' : 'space-between', alignItems: 'center' }}>
+            {!isSidebarMinimized ? (
+              <div>
+                <h1 style={{
+                  fontSize: '1.75rem',
+                  fontWeight: 800,
+                  letterSpacing: '1px',
+                  marginBottom: '4px',
+                  background: 'linear-gradient(to right, #00e5ff, #8e2de2)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '8px'
+                }}>
+                  Nihonkana<span style={{ fontSize: '0.9rem', color: 'var(--accent)', fontWeight: 600 }}>.moe</span>
+                </h1>
+                <p style={{ color: 'var(--text-muted)', fontSize: '0.8rem', letterSpacing: '0.5px' }}>
+                  JAPANESE LEARNING SUITE
+                </p>
+              </div>
+            ) : (
+              <div style={{
+                fontSize: '1.8rem',
+                fontWeight: 800,
+                background: 'linear-gradient(to right, #00e5ff, #8e2de2)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>
+                N
+              </div>
+            )}
+            
+            {!isSidebarMinimized && (
+              <button 
+                className="btn" 
+                onClick={() => setIsSidebarMinimized(true)}
+                style={{ 
+                  padding: '6px', 
+                  minWidth: 'auto', 
+                  background: 'transparent', 
+                  borderColor: 'transparent'
+                }}
+                title="Minimize Sidebar"
+              >
+                <ChevronLeft size={18} />
+              </button>
+            )}
+          </div>
+          
+          {isSidebarMinimized && (
+            <button 
+              className="btn" 
+              onClick={() => setIsSidebarMinimized(false)}
+              style={{ 
+                padding: '6px', 
+                minWidth: 'auto', 
+                background: 'rgba(255,255,255,0.03)', 
+                borderColor: 'var(--border-glass)',
+                width: '100%',
+                justifyContent: 'center'
+              }}
+              title="Expand Sidebar"
+            >
+              <ChevronRight size={18} />
+            </button>
+          )}
         </div>
 
         {/* Level Switcher inside sidebar */}
-        <div style={{ background: 'rgba(255, 255, 255, 0.02)', padding: '12px', borderRadius: '12px', border: '1px solid rgba(255, 255, 255, 0.05)' }}>
-          <label style={{ fontSize: '0.75rem', textTransform: 'uppercase', color: 'var(--text-muted)', display: 'block', marginBottom: '8px', fontWeight: 600 }}>
-            Current Level
-          </label>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '4px' }}>
-            {(['N5', 'N4', 'N3', 'N2', 'N1'] as const).map(lvl => (
-              <button
-                key={lvl}
-                onClick={() => handleLevelChange(lvl)}
-                style={{
-                  padding: '6px 0',
-                  fontSize: '0.8rem',
-                  fontWeight: 800,
-                  border: currentLevel === lvl ? '1px solid var(--primary)' : '1px solid transparent',
-                  background: currentLevel === lvl ? 'rgba(142, 45, 226, 0.15)' : 'transparent',
-                  color: currentLevel === lvl ? 'var(--text-main)' : 'var(--text-muted)',
-                  borderRadius: '6px',
-                  cursor: 'pointer',
-                  transition: 'var(--transition-smooth)'
-                }}
-              >
-                {lvl}
-              </button>
-            ))}
+        {isSidebarMinimized ? (
+          <button 
+            onClick={() => {
+              const levels: Level[] = ['N5', 'N4', 'N3', 'N2', 'N1'];
+              const nextIdx = (levels.indexOf(currentLevel) + 1) % levels.length;
+              handleLevelChange(levels[nextIdx]);
+            }}
+            className={`level-badge level-${currentLevel.toLowerCase()}`} 
+            style={{ 
+              width: '40px', 
+              height: '40px', 
+              borderRadius: '8px', 
+              display: 'flex', 
+              alignItems: 'center', 
+              justifyContent: 'center',
+              padding: 0,
+              margin: '0 auto',
+              cursor: 'pointer',
+              fontSize: '0.85rem',
+              transition: 'var(--transition-smooth)'
+            }}
+            title={`Active Level: ${currentLevel}. Click to cycle levels.`}
+          >
+            {currentLevel}
+          </button>
+        ) : (
+          <div style={{ background: 'rgba(255, 255, 255, 0.02)', padding: '12px', borderRadius: '12px', border: '1px solid rgba(255, 255, 255, 0.05)' }}>
+            <label style={{ fontSize: '0.75rem', textTransform: 'uppercase', color: 'var(--text-muted)', display: 'block', marginBottom: '8px', fontWeight: 600 }}>
+              Current Level
+            </label>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '4px' }}>
+              {(['N5', 'N4', 'N3', 'N2', 'N1'] as const).map(lvl => (
+                <button
+                  key={lvl}
+                  onClick={() => handleLevelChange(lvl)}
+                  style={{
+                    padding: '6px 0',
+                    fontSize: '0.8rem',
+                    fontWeight: 800,
+                    border: currentLevel === lvl ? '1px solid var(--primary)' : '1px solid transparent',
+                    background: currentLevel === lvl ? 'rgba(142, 45, 226, 0.15)' : 'transparent',
+                    color: currentLevel === lvl ? 'var(--text-main)' : 'var(--text-muted)',
+                    borderRadius: '6px',
+                    cursor: 'pointer',
+                    transition: 'var(--transition-smooth)'
+                  }}
+                >
+                  {lvl}
+                </button>
+              ))}
+            </div>
           </div>
-        </div>
+        )}
 
         {/* Navigation list */}
         <nav style={{ display: 'flex', flexDirection: 'column', gap: '6px', flex: 1, overflowY: 'auto' }}>
@@ -361,18 +445,20 @@ function App() {
                   setIsMobileMenuOpen(false);
                 }}
                 className="btn"
+                title={isSidebarMinimized ? item.label : undefined}
                 style={{
                   width: '100%',
-                  justifyContent: 'flex-start',
+                  justifyContent: isSidebarMinimized ? 'center' : 'flex-start',
                   background: isActive ? 'rgba(142, 45, 226, 0.1)' : 'transparent',
                   border: '1px solid transparent',
                   borderColor: isActive ? 'rgba(142, 45, 226, 0.2)' : 'transparent',
                   color: isActive ? 'var(--text-main)' : 'var(--text-muted)',
-                  fontWeight: isActive ? 600 : 400
+                  fontWeight: isActive ? 600 : 400,
+                  padding: isSidebarMinimized ? '10px 0' : '10px 20px',
                 }}
               >
                 <Icon size={18} style={{ color: isActive ? 'var(--primary)' : 'inherit' }} />
-                {item.label}
+                {!isSidebarMinimized && item.label}
               </button>
             );
           })}
@@ -380,64 +466,108 @@ function App() {
 
         {/* User Mini Profile widget */}
         {currentUser ? (
-          <div className="glass-panel" style={{ padding: '12px 16px', display: 'flex', alignItems: 'center', gap: '12px', background: 'rgba(255, 255, 255, 0.02)' }}>
-            <div style={{
-              background: 'linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%)',
-              width: '38px',
-              height: '38px',
-              borderRadius: '50%',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: '1rem',
-              fontWeight: 800
-            }}>
+          isSidebarMinimized ? (
+            <div 
+              style={{
+                background: 'linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%)',
+                width: '38px',
+                height: '38px',
+                borderRadius: '50%',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                fontSize: '1rem',
+                fontWeight: 800,
+                margin: '0 auto',
+                cursor: 'pointer'
+              }}
+              title={`${currentUser.email} (${xp} XP)`}
+              onClick={() => setActiveTab('account')}
+            >
               {currentUser.email?.substring(0, 1).toUpperCase()}
             </div>
-            <div style={{ minWidth: 0, flex: 1 }}>
-              <div style={{ fontSize: '0.85rem', fontWeight: 600, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                {currentUser.email}
+          ) : (
+            <div className="glass-panel" style={{ padding: '12px 16px', display: 'flex', alignItems: 'center', gap: '12px', background: 'rgba(255, 255, 255, 0.02)' }}>
+              <div style={{
+                background: 'linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%)',
+                width: '38px',
+                height: '38px',
+                borderRadius: '50%',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                fontSize: '1rem',
+                fontWeight: 800
+              }}>
+                {currentUser.email?.substring(0, 1).toUpperCase()}
               </div>
-              <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                <Zap size={10} style={{ color: 'var(--warning)' }} />
-                {xp} XP
-                <span style={{ color: 'var(--success)', fontSize: '0.7rem' }}>• Synced</span>
+              <div style={{ minWidth: 0, flex: 1 }}>
+                <div style={{ fontSize: '0.85rem', fontWeight: 600, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                  {currentUser.email}
+                </div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                  <Zap size={10} style={{ color: 'var(--warning)' }} />
+                  {xp} XP
+                  <span style={{ color: 'var(--success)', fontSize: '0.7rem' }}>• Synced</span>
+                </div>
               </div>
             </div>
-          </div>
+          )
         ) : (
-          <div 
-            className="glass-panel" 
-            onClick={() => setActiveTab('account')}
-            style={{ 
-              padding: '12px 16px', 
-              display: 'flex', 
-              alignItems: 'center', 
-              gap: '12px', 
-              background: 'rgba(255, 0, 127, 0.03)', 
-              border: '1px dashed rgba(255, 0, 127, 0.3)',
-              cursor: 'pointer',
-              transition: 'var(--transition-smooth)'
-            }}
-          >
-            <div style={{
-              background: 'var(--accent)',
-              width: '38px',
-              height: '38px',
-              borderRadius: '50%',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: '1.1rem',
-              fontWeight: 800
-            }}>
+          isSidebarMinimized ? (
+            <div 
+              onClick={() => setActiveTab('account')}
+              style={{
+                background: 'var(--accent)',
+                width: '38px',
+                height: '38px',
+                borderRadius: '50%',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                fontSize: '1.1rem',
+                fontWeight: 800,
+                margin: '0 auto',
+                cursor: 'pointer'
+              }}
+              title="Guest Mode (Click to Sign In)"
+            >
               🔐
             </div>
-            <div style={{ minWidth: 0, flex: 1 }}>
-              <div style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--accent)' }}>Guest Mode</div>
-              <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Click to Sign In</div>
+          ) : (
+            <div 
+              className="glass-panel" 
+              onClick={() => setActiveTab('account')}
+              style={{ 
+                padding: '12px 16px', 
+                display: 'flex', 
+                alignItems: 'center', 
+                gap: '12px', 
+                background: 'rgba(255, 0, 127, 0.03)', 
+                border: '1px dashed rgba(255, 0, 127, 0.3)',
+                cursor: 'pointer',
+                transition: 'var(--transition-smooth)'
+              }}
+            >
+              <div style={{
+                background: 'var(--accent)',
+                width: '38px',
+                height: '38px',
+                borderRadius: '50%',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                fontSize: '1.1rem',
+                fontWeight: 800
+              }}>
+                🔐
+              </div>
+              <div style={{ minWidth: 0, flex: 1 }}>
+                <div style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--accent)' }}>Guest Mode</div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Click to Sign In</div>
+              </div>
             </div>
-          </div>
+          )
         )}
       </aside>
 
@@ -742,6 +872,11 @@ service cloud.firestore {
               </div>
             )}
 
+            {/* KANA CHART TAB */}
+            {activeTab === 'kana' && (
+              <KanaChart speakText={speakText} />
+            )}
+            
             {/* KANJI STUDY TAB */}
             {activeTab === 'kanji' && (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '30px' }}>
